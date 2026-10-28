@@ -1,531 +1,467 @@
-# PR23 – 01 – Nature of a Person (Practice Class, 6 Sep 2026)
+---
+title: "Jyotiṣa Practice Class – Career and Education (Class 02)"
+date: 2026-10-09
+tags: [jyotisha, vedic-astrology, practice-class, career, education]
+source: "2026_10_09_PR23 - 06 - Career and Education 02 (transcript, Hindi–English)"
+---
 
-> [!INFO] Class scope and speakers
-> - **Topic:** reading a person's *nature / behaviour* (svabhāva) from the chart. This is the first of three planned classes on this topic. Teacher: "career etc. will come later"; here only behaviour.
-> - **Teacher** = `speaker_0` (addressed as Meenu ji). Students are named by who the teacher addressed. The ASR speaker labels are unreliable in places (see Open items).
->
-> | Label used here | Transcript speaker | Note |
-> |---|---|---|
-> | Teacher | speaker_0 | runs the class |
-> | Anju A | speaker_4 | gave Charts 1 and 2 (owner-side information) |
-> | Anju B | speaker_3 | "the other Anju ji" |
-> | Indrajeet | speaker_2 | |
-> | Shri Prakash | speaker_5 | gave Chart 3 |
-> | Vimala | speaker_1 / speaker_6 | one person split by ASR |
-> | Vaibhav | speaker_7 | gave Chart 4 (also addressed once as "Rajkumar ji") |
-> | Sanjay | speaker_8 | |
-> | Kiran | speaker_9 | |
-> | Ujjwala | speaker_10 | label showed another name; she introduced herself as Ujjwala |
->
-> - **Status marks:** ✅ confirmed by teacher · ✏️ corrected by teacher · ➖ not commented on.
-> - **Charts in class order:** Chart 1 (Anju A's child, b. 2020) → Chart 2 (a girl b. 2013, Anju A's) → Chart 3 (Shri Prakash's son, b. 1982) → Chart 4 (Vaibhav's niece, b. 2024). Vimala announced a chart (male, ~30–31, unmarried) but it was **not taken**.
-> - **Format note:** each chart heading is exactly "Chart N" so `[[#Chart N]]` links work; the name/topic is on the bold line beneath it.
+# Jyotiṣa Practice Class – Career and Education (Class 02)
+
+> [!INFO] How these notes are organised
+> - **Part 1** – chart-by-chart notes in class order (Charts 1–5).
+> - **Part 2** – Principles Compendium (topic-wise; the only part not in class order).
+> - **Part 3** – Open items (unclear points to verify against the actual charts).
+> - Every reading is tagged **[Teacher]** or **[Student name]**. Student readings carry a status: ✅ confirmed by teacher, ✏️ corrected by teacher, ➖ not commented on by teacher (owner confirmations are recorded separately).
+> - Teacher = the speaker who runs the class (addressed as Meenu ji; `speaker_0` in the raw file). Student names are taken from the teacher's address. The raw speaker labels are inconsistent, so some attributions are marked "(?)".
+> - Class announcements, mic/unmute instructions, chart-data re-sending and course promotions have been removed.
+
+> [!NOTE] Topic of the class
+> Education and career readings from student-submitted charts. The teacher's working procedure: read the chart yourself, ask the native contextual questions (health, studying away from home, sports, father's work, etc.), then match daśā (planetary periods) with life events. Quote: "We just applied the rules one by one."
+
+## Speakers
+
+| Name as addressed | Role in this class |
+|---|---|
+| Teacher (Meenu ji) | Runs class, corrects, gives rules |
+| Ankit ji (Ankit Mittal) | Owner of Chart 1; reads Chart 5 |
+| Anju ji (Anju Aditya) | Reads Chart 1 and Chart 4; shares Chart 3 |
+| Rajkumar ji | Reads Chart 1 |
+| Vimala ji | Student (also possibly the unnamed voice in Chart 3 discussion) |
+| Indrajit ji | Reads Charts 2, 3, 4, 5 |
+| Sanjay Srivastava ji | Reads Chart 2 |
+| Ujjwala ji | Shares Chart 2; reads Chart 3 |
+| Śrīprakāśa ji | Reads Charts 3, 4; shares Chart 5 (his son) |
+| Vaibhav ji | Reads Chart 3; shares Chart 4 |
+| Dravin ji | Reads Chart 4 |
 
 ---
 
+# Part 1 – Chart notes
+
 ## Chart 1
 
-**Anju A's child – nature / behaviour**
+**Ankit ji's own chart – Education and Career**
 
-### Chart data
-- **Birth data as spoken:** 9 October 2020; USA, California, "Mount View" [unclear in transcript]. The child is about 6 years old. Gender not stated. Birth time was not readable on the shared screen.
-- **Lagna / key placements mentioned:**
-  - Virgo lagna; Sun in lagna.
-  - Moon in Gemini (Moon sign Gemini).
-  - Lagna lord Mercury in the 2nd house, in Libra.
-  - Mars in Pisces (Jupiter's sign), aspecting the lagna. Mars's 8th aspect falls on the lagna lord (Indrajeet).
-  - Saturn in the 5th house, also aspecting the lagna lord (Indrajeet).
-  - Venus in Leo, 12th house; Rahu variously described (see Open items).
-  - Mercury in the 2nd is aspected by Mars and by Saturn, and is hemmed between malefics (pāpa kartarī).
-  - Jupiter aspects the Moon.
-  - Mars shadbala 1.87 (Teacher's software); Anju A's Parāśara's Light 9.0 shows 2.01.
-- **Daśā:** birth daśā Ketu ("born with Rahu and Ketu daśā" – as spoken). Currently **Jupiter mahādaśā – Mercury antardaśā** (Teacher) [unclear in transcript whether this fits the birth daśā; see Open items].
+- **Birth data as spoken:** 13 October 1991, morning, Delhi; the native still lives in the Delhi region (now Greater Noida).
+- **Daśā at birth:** Mercury mahādaśā, Rahu antardaśā (teacher). Later references: Ketu daśā at age 7–8; Ketu daśā ending ≈2004–05; Venus then active; Sun daśā running now ("from 2025", teacher, said of this chart in the exchange with Vimala ji [unclear in transcript]).
+- **Placements mentioned:** 10th house empty; 10th lord (Venus) in lagna with Jupiter (5th and 8th lord); Sun in 2nd house; Mercury and Mars in 3rd house (Venus's other sign); Moon (12th lord) in 4th house in Scorpio; 4th lord (Mars) in 3rd, i.e. 12th from itself, with Mercury; Saturn in 6th. Jupiter aspects 5th, 7th, 9th. D9: Venus in Moon's sign; Jupiter and Venus together in D9 as in the chart. Fixed lagna, Moon in a fixed sign (Rajkumar ji). Ṣaḍbala: all planets "fine", Sun weak, Saturn good.
 
-### Method
-1. [Teacher] First asked the owner about **health** (child, birth daśā of Rahu/Ketu). Then moved on to nature.
-2. [Teacher] Read for the child's **present age (6) and place (USA)**, not for adult behaviour.
-3. Lagna sign → lagna lord's sign and house → Sun in lagna → Mars's aspect on lagna → Moon's sign and aspects → Saturn → Mercury, and Mercury's affliction.
-4. Teacher then tested the reading against **life events** (dental surgery date, fracture).
+### Education
 
-### Readings
-1. **[Anju B]** Virgo lagna and Gemini Moon are both Mercury's signs, so the child will be intelligent later; Sun in lagna gives confidence. ➖
-2. **[Anju B]** Rahu's and Mars's aspects: if it goes negative the child may become egoistic and angry; since Mars is in Jupiter's sign (Pisces) it will not act so fast, but Sun in lagna with Mars's and Rahu's aspect still gives some aggression. ➖
-3. **[Indrajeet]** Lagna lord Mercury in the 2nd (dhana bhāva) in Libra; Mars (8th aspect) and Saturn both aspect the lagna lord, so there will be problems in Mars/Saturn daśā-antardaśā; lagna and Moon sign are both dual signs; Venus and Jupiter are maraka lords. ➖ Teacher redirected: she was not looking at maraka etc. here [unclear in transcript].
-4. **[Teacher] Virgo lagna** → a good *research mind*; at this age it shows as: if something is lost at home the child searches for it, becomes active, wants great perfection in work. ✅ (Anju A confirmed: perfectionist, gets very angry if a maths answer goes wrong.)
-5. **[Teacher] Sun in lagna, as 12th lord** → authority. Some children find even sleeping at night hard; this child may be so. Anju A: very active, cannot be still for a second. ✅
-6. **[Teacher] Creativity** comes from: Virgo itself (Mercury's mūlatrikoṇa sign); the lagna lord going to Libra, the 2nd house; the 2nd house is where *saṃskāras* are discussed; Libra is Venus's mūlatrikoṇa; Mercury (also lagna lord) in Venus's sign. The child also takes from the home environment: what the mother/father are like, what is in the house, what facilities are given. ✅ (Anju A: constructive activity – paper craft, writing, mental maths.)
-7. **[Teacher] Mars's aspect on lagna** → very active. Mars shadbala **1.87** → Mars is strong, so its effect will be very strong. ✅
-8. **[Teacher] Lagna = Virgo** → steadiness, perfection. **Moon in the 3rd sign (Gemini)** → communication. The child will be good at talking and people will like the talk; "one who eats on words". Visible now or later. ✅ (Anju A: expressive, communicative, speaks English and Hindi clearly.)
-9. **[Teacher] Jupiter's aspect on the Moon** (mind) → wants real knowledge, not showing off: knows a thing by experimenting. **Mars's aspect** → aggression, but also helps others; this will grow. Mars is called *udāra* and *senāpati* (in *Iṣṭa-kāla* [unclear in transcript] the word *udāra* is written for Mars); a senāpati helps others even at the cost of life, so this effect of aspect comes in. ✅
-10. **[Teacher] Saturn in the 5th** (thoughts) → stability in thoughts; a *karma-pradhāna* native; thinking about career growth and family responsibilities will always be in mind (this is about the future). Libra → very balanced in speaking; Mercury = vyāpāra (trade), so gets one's point accepted from either side, but in a balancing way. ✅
-11. **[Teacher] Caution – skin:** Mercury, with Ketu daśā from birth, being hemmed by malefics (pāpa kartarī) and aspected by Mars, may give a skin issue. Jupiter mahādaśā – Mercury antardaśā gives special effect, so watch skin. Let the child's creativity run the way the child wants. ✅ (Anju A: no skin issue so far.)
-12. **[Teacher]** The Sun in Virgo wants to *solve*; Mars aspect on lagna; both fire planets influence from lagna → anger when a problem does not work out. ✅
-13. **[Shri Prakash]** Mars aspects the Sun (Mars 28°, Sun 22°) → courage/boldness. ✅ Teacher: yes, a "if I decide, I will do it" boldness. ✅
-14. **[Shri Prakash]** The Sun is a nourisher, so the child will have a nurturing feeling for the family; the lagna is in an *artha trikoṇa* so some business sense [unclear in transcript]. ➖
-15. **[Vimala]** Is there a speech problem? Mars's influence may give fast speech; Mercury in the 2nd makes children "construct" sentences. ✅ Teacher: "that is Mercury's art." (Reply that there is no speech problem and speech is clear came from the owner side; label unclear.)
+> [!EXAMPLE] Readings
+> 1. **[Anju ji]** Jupiter strong, so studies should be good; main study years came in Venus daśā. ➖
+> 2. **[Rajkumar ji]** Fixed lagna, Moon in a fixed sign; 5th lord in lagna; Jupiter aspecting its own house → education should be good; teaching line, management or MBA-type work possible. ➖ (teacher: "ठीक है")
+> 3. **[Teacher]** Method she applied for education (see P1, P2): 4th house is the main house, but all 12 houses influence education (she referred to her YouTube video and book); begin from the sign (Scorpio), then house, lord and kāraka. Moon, 12th lord, sits in the 4th. The 4th lord is 12th from itself, with Mercury. Mercury is the kāraka for education up to 12th; Moon is the "fixed" kāraka. Also see the 4th from the 4th house and the 4th from Mercury (the 6th house).
+> 4. **[Teacher]** Questions she asked the native, with answers:
+>    - Did he study away from home (hostel, maternal uncle's house) up to 12th? → **No.** She explained this by deśa-kāla-paristhiti (place, time, circumstances).
+>    - Inclination to sports? → **Yes**, state-level basketball player.
+> 5. **[Teacher]** Mercury with Mars in the 3rd → strong inclination to activities (school and college have many activities). Jupiter and Venus in lagna → no real problem in studies; good student.
+> 6. **[Teacher]** Moon in 4th → mind sometimes engaged, sometimes not. Also the daśā effect: when Ketu daśā came the child was 7–8 years old; parents of today give more attention than earlier.
 
-### Teeth and injury (Anju A's questions)
-1. **[Anju A]** Mercury is in the 2nd (face and mouth); does it connect to teeth? **[Teacher]** Yes: Mars's aspect on the 2nd gives a teeth effect; Rahu is in the 2nd, so teeth may be a little uneven. ✅
-2. **Owner confirmation:** last year the child fell asleep with bottle milk, got cavities, and had filling **surgery on 29 January 2025**.
-3. **[Teacher]** Mars and Rahu sit in the 2nd and 12th signs from the lagna [as spoken; see Open items]; Mercury came in the middle. The planet sitting in the 2nd (Mercury) came into play, aspected by Mars and by Saturn. So the Mercury–Rahu–Mars effect shows when Mercury's period was running at the time of the event. ✅
-4. **[Anju A]** There was also a fracture (leg) from jumping around. **[Teacher]** Because of the birth-time daśā (Ketu), injury (*chot-chapet*) will be life-long: knocking while walking, falling from the bed. He/she has come with this effect from birth.
+### Career
 
-### Question: no planets together
-- **[Anju A]** In this chart no planet is with another. What is the effect on personality?
-- **[Teacher]** Planets in conjunction may make some yoga. Without conjunction life becomes "spread out"; attention goes everywhere; struggle increases a little. Like family members in separate rooms with no connection. Every planet is 6/8 from some other planet and can create a problem for it. That is why it helps if they are near, as families like to stay close. But we will see other things too, like the daśā.
+> [!EXAMPLE] Readings
+> 1. **[Anju ji]** 10th lord in lagna → started earning early. ✅ (teacher: "this rule can apply"; owner confirms)
+> 2. **[Anju ji]** Venus is the 10th lord, no planet in the 10th, Moon aspects it, and Venus is in Moon's sign in D9 → creative job, or dealing in liquids/fluids (Moon is fluids). ➖
+> 3. **[Anju ji]** Mercury and Mars in the 3rd → writing and communication, maybe journalism; ṣaḍbala of all planets good. ➖
+> 4. **[Anju ji]** Jupiter and Venus together in lagna and in D9 → teaching, counselling, balanced and knowledgeable. ✅ (teacher: "that shows in the nature, absolutely")
+> 5. **[Anju ji, question]** In D9, do we look only at the 10th lord's aspect, or something more? → **[Teacher]** For career, apply "the same rule" first, because the 10th house is empty. (The original statement of this rule is not repeated in this class; see Open items.)
+> 6. **[Teacher]** Career determination (P10): Sun and Moon are the candidates; Moon is the stronger, so count the 10th from Moon. That gives Sun's sign. So the Sun plays a big role in the career. Check whether the native worked with his father or father's work. She wanted to know about the father.
+>    - **Owner:** father is in business; he himself started working in the business early ("from eighth…" [unclear in transcript]).
+>    - **[Teacher]** "Both rules applied": the Sun rule and the early-start rule (10th lord in lagna). Also the Sun sits in a trine from Saturn, in the 2nd (wealth) house; "this trine should always be seen for career" (P12).
+> 7. **[Teacher]** Family-responsibility indicator: the chart suggests that responsibility of the family came on him. **Owner:** the company was sealed once (MCD sealing drive in Delhi) — corrected by owner from 2008 to **2004–05** (in 2008 it reopened). **[Teacher]** This was in Ketu's closing daśā; then Venus became active. No loan or partnership issue. The Sun is slightly weak, so some trouble came even though the father was handling the business then.
+> 8. **[Ankit ji, question]** How to read Saturn in the 6th? → **[Teacher]** Saturn is good in the 6th and strong; check Saturn's ṣaḍbala (good) – good for career, though other matters may differ.
+> 9. **[Anju ji, question]** Conjunction of 10th lord and 5th lord in lagna? → **[Teacher]** Very good. It also brings **sudden changes** in career: ups and downs that appear without notice. **Owner:** yes, very much; the current Sun daśā is "very down". **[Teacher]** Sun is weak in ṣaḍbala, which can be the reason.
+> 10. **[Teacher]** Two ways to see this conjunction: (a) 10th lord with the 5th lord; (b) Jupiter is also the 8th lord, 8th from the 10th → sudden events. These sudden events can bring growth if the daśā is good. But growth will not come easily because the lord of the growth house is placed 6th from itself, so effort must be made by the native. The conjunction brings the 5th, 3rd, 8th and 10th lords together; for a question on the 10th, none of these is left out. Her reading of each:
+>     - 3rd → running about, efforts;
+>     - 5th → "past-earned karma" (what is already decided);
+>     - 8th → also appears (8th from 10th).
+>
+>     **Method:** choose the houses according to the question asked. If the question is about *struggle* in career, use that house and the influence of the other houses on it. If the question is about *growth* of career, use five, three and ten. (The house numbers she gave for the "growth" question are partly unclear in the transcript.) (P14)
 
-### Teacher's corrections or added rules
-- Anju B's "Mars in Jupiter's sign so less aggression": teacher did not comment; she instead gave aggression + helpfulness from Mars's aspect (reading 9).
-- Software remark: Mars shadbala 1.87 (Teacher) vs 2.01 (Anju A); teacher: may be a setting issue.
+### Daśā and timing
 
-### Real-life confirmation (Anju A)
-Health generally fine; leg fracture; very active; constructive (paper, writing); loves mental maths; perfectionist; speaks English and Hindi clearly; observant (said his/her new teacher is "young"); dental cavities → surgery 29 Jan 2025; no skin issue yet.
+- **[Ankit ji, question]** Sun daśā is weak in ṣaḍbala; Moon daśā follows; Moon is afflicted in his chart – how to understand it? → **[Teacher]** For career, that daśā will bring **change**. Watch the **last two antardaśās of the Sun daśā: Sun–Ketu and Sun–Venus**; from there the change begins. **Always look at the previous daśās** (P9).
+- **[Vimala ji]** Vimala ji noted: the Sun daśā is weak in ṣaḍbala so it is likely to be not good now; the previous daśā also affects morale in the next. Remedies suggested by her: meditation, worship of the Sun, chanting Sun mantras, offering water to the Sun, to raise morale. ➖ (teacher: "हाँ").
+- Native holds a Master's in Physics (answer to Vimala ji's question).
 
-### Takeaway rule(s)
-→ P1, P2, P3, P8, P9, P11, P12, P17, P22, P25, P27, P29, P30, P32, P33, P35, P36, P43, P46, P50, P51, P53
-*Teacher's framing:* ask health first; read for the child's age; the lagna sign, lagna lord, Sun, Mars's aspect and Moon give the nature; afflicted Mercury in the 2nd gives skin and teeth cautions.
+> [!SUMMARY] Takeaway rules
+> → P1, P2, P4, P6, P9, P10, P11, P12, P13, P14, P16, P17, P20 (Ketu/Sun/Venus/Moon combinations).
 
 ---
 
 ## Chart 2
 
-**A girl born 2013 (Anju A's chart) – nature / behaviour**
+**Chart submitted by Ujjwala ji – a young woman, about 26 years old**
 
-### Chart data
-- **Birth data as spoken:** "2013 born", female (Anju A confirmed female), about 13 years old. Date, time and place not stated.
-- **Lagna / key placements mentioned:**
-  - Aquarius lagna; lagna lord Saturn in the 9th house in Libra, with Rahu.
-  - Moon in Aries, in the 3rd house, with Ketu (Sanjay).
-  - Mars in the 8th house (Kiran); Mars's aspect falls on the Moon and on the 2nd house.
-  - Jupiter in the 5th house in Gemini; Jupiter is lord of the 2nd and 11th.
-  - Sun in Scorpio, in the 10th house; Sun and Mercury both in the 10th with weak shadbala (Sanjay).
-- **Daśā as spoken:** Moon mahādaśā; Moon–Ketu antardaśā began "18, 5, 26" [read as 18 May 2026]; Moon–Venus comes in December (Teacher). Vimala: "when Mars comes in 2029". Teacher also said a "sadā-aṣṭaka [unclear in transcript]" daśā is running.
-
-### Method
-1. Owner confirmed female and health fine (swims a lot; water polo; junior Olympics in USA).
-2. Students read; then Teacher went house by house: lagna sign → lagna lord → Rahu with lagna lord → 5th/Jupiter → 10th → Moon and its aspects → Sun's sign.
-3. **[Teacher] Class rule: nakshatras are not added in this class; take only the planets.**
+- **Birth data as spoken:** 28 October 2000, 3:52 PM (teacher said "15, 15"), Kolhapur, Maharashtra; female.
+- **Placements mentioned (Indrajit ji and others):** Pisces lagna; Moon in Libra in the 8th, with Mercury and Sun (three planets in the 8th; Moon is the 5th lord and is combust); 10th house is Sagittarius; Ketu sits in the 10th; 10th lord Jupiter in the 3rd with Saturn (both retrograde), in Venus's sign; Rahu aspects the 5th lord (5th aspect); Saturn's 3rd aspect falls on the 5th house; Mars's 4th aspect on the 10th; Saturn's 10th aspect on the 12th.
+- **Daśā:** Rahu daśā and Sun (antar?) Venus running ("सूर्य शुक्र", Venus in the 9th); Mercury daśā next.
 
 ### Readings
-1. **[Vaibhav]** No aspect on lagna but Rahu's aspect may cause some trouble; Saturn with Rahu → some health issue; mind sharp; Jupiter in the 5th → good intelligence; Mars's aspect on speech gives some difficulty, speech may be sharp. ➖ [teacher's reply unclear in transcript]
-2. **[Sanjay]** At about 13, in the study stage, there may be a struggle in studies: Ketu in the 3rd, Moon with Ketu → the mind may not be in studies; Jupiter is strong so speech is good. ➖
-3. **[Kiran]** Moon in Aries (movable) → restless mind; Moon's lord Mars is in the 8th; lagna lord Saturn is in the 9th, with Rahu → relation with father; independent, makes friends quickly, no show-off, does something different, mature, spiritual, hides some things. Moon in Aries → careless, aggressive, passionate, protective. ➖
-4. **[Sanjay, added later]** Saturn's 7th aspect on the 3rd house → dry (*śuṣka*) nature, aloof with siblings/friends; Mars's 8th aspect on the 3rd → quarrels but compassion for siblings. ➖ (Anju B asked about younger siblings; Anju A: a younger brother exists.)
-5. **[Indrajeet]** 3rd lord Mars in the 8th, in Mercury's sign (an enemy) → over-competitive? ✏️ Teacher reframed: the strategy will be very *hidden* because the *parākrameśa* (3rd lord) went to the 8th; she does not tell anyone; but the spirit is awake and shows in every field.
-6. **[Indrajeet]** Saturn exalted in Libra with Rahu → father well settled. ✅ [speaker label unclear; reply says father well settled, but there was struggle in father's life; shadbala (of Saturn) is a bit weak; Saturn is strong yet a struggle will have been there; to be read in the father chapter].
-7. **[Sanjay]** Sun and Mercury in the 10th, both with weak shadbala: what impact? **[Teacher]** See reading 15.
-8. **[Vimala]** Moon mahādaśā with Ketu → mind not working well; she does not understand; when Mars comes in 2029 she will come out, anger may increase. ➖
-9. **[Teacher] Aquarius lagna** = Kālapuruṣa's 11th-house sign, Saturn's sign → very practical, progressive thinking ("I have to do this, go ahead in life"); many plans in mind about what to do in life.
-10. **[Teacher] Lagna lord in the 9th** → generally "fortunate"; father's support; such people balance everything (lagna lord in Libra); very focused, because the 9th house shows focus; very focused about work.
-11. **[Teacher] Rahu with the lagna lord** → planning, new ideas; wants to learn anything new that comes in the market.
-12. **[Teacher]** Mind may be business-minded (a "money-managing" mind), at a child's level: something sits in the 10th [the planet is unclear; later the Sun in Scorpio is named] and **Jupiter, lord of dhana and lābha, sits in the 5th**. Either the family has openly discussed money with the child, or such thoughts run in the child's mind. Also creative.
-13. **[Teacher]** Anger will exist: Aries (Moon) came; lagna is a fixed sign; Mars's influence on the Moon; Saturn–Rahu influence on the Moon → hard to understand the mind; an inner restlessness.
-14. **[Teacher]** Communication is less because of the **Sun in Scorpio** [sentence incomplete] and the Moon being aspected by so many planets: if she mixes freely with someone she will talk, otherwise not. Mind: Gemini (5th) → she thinks far too much; Jupiter there, lord of the 2nd (family), so very thoughtful about family and money; thinks of future planning and the family budget.
-15. **[Teacher] Weak shadbala of the Sun:** the Sun puts you in the limelight; with weak Sun you cannot **express** yourself; Scorpio is the 8th sign, and the 2nd is speech, the 7th from it is "enjoyment of others" (*dūsare kā bhoga*) [as spoken]; so intelligence is there but expression is hard. Such children can become very irritable inside; anger bursts like a volcano without weighing right and wrong.
-16. **[Teacher]** Moon in the 3rd house: the 3rd house shows creativity; many planets influence it; what game and what creativity depends on the 3rd, 5th and 8th, and the 3rd sign; "wherever these signs' influence comes, planets' related effects can be told". The Moon in the 3rd → **water** appears (she plays water polo).
-17. **[Teacher]** On Anju A's reply that she is in a difficult teenage stage and concentration is lacking: "the daśās also have an effect now"; will be read when daśā is taught.
 
-### Question: shadbala differences
-- **[Anju A]** Parāśara's Light shows the Sun's strength as 1.3; the teacher's shows much less. **[Teacher]** Will give a number to check and will try another software.
+> [!EXAMPLE]
+> 1. **[Indrajit ji]** Use lagna, because Sun and Moon are both weak. ✅ (teacher: "yes, from lagna; all are the same, Sun, Moon and Jupiter")
+> 2. **[Indrajit ji]** Venus-related work: interior or fashion design. ➖ (see teacher's reading below for the actual line of study)
+> 3. **[Indrajit ji]** Ketu in the 10th: she keeps leaving jobs until she gets a job of her liking; Ketu quickly causes detachment from the job. **[Teacher]** "We will see the whole chart. One possibility: a Saturn–Moon connection (quick leaving). Another: most planets in 3rd, 6th, 8th, 12th." (P18) ✏️ (added possibilities)
+> 4. **[Indrajit ji]** Jupiter and Saturn, both retrograde, in the 3rd → much effort for a job; may not get due recognition. ➖
+> 5. **[Indrajit ji]** 5th lord Moon in the 8th, the 5th lord aspected by Rahu, the 5th house aspected by Saturn → a break or stream change in education. ➖ **Owner/family (Ujjwala ji): yes, there was a break.** (see Unconfirmed table)
+> 6. **[Sanjay Srivastava ji]** Mars's 4th aspect on the 10th, plus Rahu → technical work; Saturn's 10th aspect on the 12th → some connection with outside/abroad. ➖
+> 7. **[Teacher]** First question she asked the native: **health**. (Education disturbance can come from the child's health.) **Answer:** health was fine; but in the post-graduate course one year was lost to illness (admission in 2024 in Mumbai; 2025 spent in illness; thesis stuck).
+> 8. **[Teacher]** Career: "We are not treating Ketu as being in the 10th" (the 10th is considered empty). Ṣaḍbala of Sun and Jupiter almost the same, so take both. Jupiter is the 10th lord, in Venus's sign. From the Sun… "seven, eight, nine, ten, Moon", and Moon is also in the same Venus sign [unclear in transcript]. Two lines of career may arise: one related to a **finance department** [first possibility, partly unclear]; the impact of **Jupiter, Venus and Sun** will come on the career.
+> 9. **[Teacher]** Asked what she is studying: **Master of Architecture** → Venus and Jupiter influence confirmed; two planets' influence will come. Next daśā is Mercury, so either a **job** or **business**.
+> 10. **[Teacher]** Owner says she already got a job (joined on 1 June). **[Teacher]** Job is going to be good. Later a change; **a government-level job** also possible, because Sun, though weak in ṣaḍbala, sits in the place of growth of the 10th; when Sun daśā/mahādaśā comes (not now), this possibility arises.
 
-### Question on daśā display
-- **[Indrajeet]** Moon–Ketu shows 18-5-26; is it ending or starting? **[Teacher]** Starting; Moon–Venus comes in December. Astro Sage shows it as ending; here it will not [teacher's remark about which daśā is shown is unclear].
+### Question from the family
 
-### Real-life confirmation (Anju A)
-Sharp mind: correct. Communication is limited: keeps thoughts inside, talks less to people, fewer friends. The mother teaches the value of money; child calculates (earns from dog walking, decides to spend/save). Concentration lacking at present. Very active; swims; plays water polo; played junior Olympics in USA. Teacher: "yes, absolutely correct."
+- **Will she clear the degree** (thesis stuck; exam again in October)? → **[Teacher]** It should happen. Jupiter will see the 10th as it moves sign in **October**; Rahu daśā is running; Sun–Venus period, Venus in the 9th → good chances; "full chances". She will probably do her own work in the future.
 
-### Takeaway rule(s)
-→ P4, P5, P8, P13, P18, P20, P23, P27, P28, P37, P39, P40, P48, P53, P55
-*Teacher's framing:* many planets aspecting the Moon make the mind hard to read; a weak Sun cannot express; the 3rd lord in the 8th hides one's prowess.
+> [!SUMMARY] Takeaway rules
+> → P5, P6, P10, P16, P18, P26 (ask about health), P27, P31.
 
 ---
 
 ## Chart 3
 
-**Shri Prakash's son – nature / behaviour (adult)**
+**Male chart shared by Anju ji – Education and Career**
 
-### Chart data
-- **Birth data as spoken:** 5 October 1982, 11:05 a.m., Lucknow, male. (Owner: Shri Prakash's son.)
-- **Lagna / key placements mentioned:**
-  - **Scorpio lagna**, Mars in lagna (own sign).
-  - Moon in Aries, in the **6th house**, aspected by Ketu and by Jupiter.
-  - **Four planets in the 11th house:** Saturn, Sun, Mercury, Venus (Virgo; Venus debilitated per Anju A).
-  - Jupiter in the 12th in Libra (Venus's sign).
-  - Saturn is the 3rd lord and is combust (*asta*) (Teacher).
-  - Saturn's aspect on lagna; Sanjay: Saturn, Mars and Rahu influence the 8th.
+- **Birth data as spoken:** 26 November 1988, 16:42 (4:42 PM), Malda, West Bengal; male. *Data check:* "5:30" had been read out by mistake (it was the time zone). The teacher noted that if Jupiter is in lagna the birth time cannot be morning (reason not given).
+- **Placements mentioned (students):** Rahu in the 10th (fixed sign); Saturn in the 8th, lord of the 8th; Mars in the 11th; Jupiter in lagna; 10th house Aquarius (Vaibhav ji); 4th house Leo, with the 4th lord (Sun) in Scorpio with Mercury, and Ketu in the 4th; Saturn is in a Mercury sign; Moon is 7th from Saturn; Moon aspects Saturn; 10th from 10th holds Sun and Mercury; 10th lord is in the 8th (teacher); lagna lord in the 6th in its own sign (Indrajit ji); Mars aspects the 2nd house where Moon sits (Anju ji).
+- **Daśā:** Rahu daśā in childhood; Venus daśā till 2010; Saturn daśā from 2010 and still running (Vaibhav ji and Anju ji; teacher confirmed "from 10 it starts"). Business started in Jupiter daśā.
 
-### Method
-1. Lagna sign and element → lagna lord and placement (Mars in lagna) → Moon sign and house (6th) and its aspects.
-2. Planets in the 11th, always 6th from the 6th.
-3. For paperwork: 3rd house and its lord (Saturn), and Mercury.
-4. Teacher said: "Now age has increased; earlier we saw small children."
+### Student readings
 
-### Readings
-1. **[Anju A]** Lagna lord in lagna → physically strong; fixed sign → determined, does not move easily; Kālapuruṣa's 8th sign (Scorpio) → hides things; Moon and lagna both in Mars's sign so Mars-type qualities; Saturn's aspect on lagna is not positive → arrogance; Jupiter in the 12th in an enemy's sign (Venus); shadbala: Sun good, Saturn low, "twenty-nine point five" [unclear in transcript]. ➖ Teacher: "yes, fine" on arrogance (general).
-2. **[Anju B]** Mars in lagna, in own sign → energetic and hard-working; Saturn's aspect on Mars → secretive, some aggression; gets angry quickly; the Moon is in a fire sign. ➖
-3. **[Sanjay]** Mars's 7th aspect on Venus → quarrels with wife. ➖ Teacher: "wife? He is not married yet" (marital status unresolved; see Open items).
-4. **[Sanjay]** Jupiter in the 12th → mind running a lot; may go towards spirituality; secretive, helpful, research-oriented (because of the 8th: Saturn, Mars, Rahu). Teacher: "foreign link and job we will read in career; now only behaviour." ➖
-5. **[Anju A]** The 11th is strong with four planets, so interest in money, profit and accounts; **question:** can four planets together give a *parivrājaka / saṃnyāsa yoga*? He is quite detached, concerned about himself, less so about others. ➖ (Teacher gave no direct answer; later said combined effects of planets will be taught in the 4th class.)
-6. **[Ujjwala]** Lagna lord in lagna (Mars) → does everything forcefully; Moon in the 6th in a movable sign → ready to accept change; Rahu → many plans, less success; Ketu → balance in speech, not harsh. ➖ Teacher: "yes", "you are telling it right" (general).
-7. **[Teacher] Scorpio lagna** = fixed sign and Kālapuruṣa's 8th-house sign → the person is **secretive**.
-8. **[Teacher] Mars in lagna** → some aggression and some reasoning power.
-9. **[Teacher] Moon in the 6th** → struggle in life, *felt in the mind*: the feeling "my life has a struggle". Still helpful to others: because the **6th lord went to lagna** and the Moon is in Aries.
-10. **[Teacher]** Advice: do not trust friends blindly; chances of being cheated several times. Thinks long term; has to make efforts to be happy; a feeling that "happiness will not come easily, I will have to take it"; however much he does for others, appreciation will fall short.
-11. **[Teacher] 11th-house planets:** each planet in the 11th from lagna makes you work that much, because they are **6th from the 6th**. The 11th is the growth house of lagna: going with everyone; Saturn's influence → "psychology of the masses". The more he comes among people, the more struggle in life; and as a lord of the house of gains [as spoken] people will not praise him much however much he does.
-12. **[Teacher]** Moon is aspected by Ketu and by Jupiter → **refusing the other person** ("no, I won't") is the biggest challenge in his life.
-13. **[Teacher]** "Every planet in every sign changes its nature, and effects change according to placement and aspects."
-14. **[Teacher] Paperwork:** seen from the 3rd house, and the 3rd lord (Saturn, which is also combust); also Mercury is looked at, in Virgo, which is 6th from 6th. Also seen from the Moon: Mercury is 6th from the Moon, so the same trouble comes: "because you are helping people". [One sentence on Mercury's confidence ("my word is my signature") is unclear in transcript.]
+> [!EXAMPLE]
+> 1. **[Śrīprakāśa ji]** Rahu in the 10th in a fixed sign → obstinate about his work; Saturn, lord of the 8th, in the 8th → long life but work not technical; Mars in the 11th → work related to the 12th and 8th; Jupiter in lagna should give success. ➖
+> 2. **[Vaibhav ji]** 10th house Aquarius → skilled in work, prefers to work alone; Sun, Moon, lagna and lagna lord none strong (Moon weak, Sun about 1 point, Venus about 1.03 points); asked which to decide with. → **[Teacher]** "Take that one (Venus), because Venus is still stronger than the Sun; then see the effect of daśā by calculating the age at that time." ✅ (P10, P16)
+> 3. **[Ujjwala ji]** 10th lord is Saturn; look 10th from Saturn (Virgo), lord Mercury; Mercury sits 10th from 10th. Career impact from Mercury, Venus and Saturn, with Saturn more because its ṣaḍbala is higher → service. **[Teacher]** "Yes, we will see the 7th and 10th from Saturn." ✅
+> 4. **[Anju ji, native's health]** Kidney stone problem; no disturbance to education. (Teacher asked about health first.) 
 
-### Owner confirmations (Shri Prakash)
-- The Mars-in-lagna "impressive personality" does not match: the son is very lean; ready-made clothes in the market do not fit.
-- Helps many people so much that he suffers a loss; has worked in innovation/animation; has paid subordinates so much that nothing is left; the last 20–22 years have been like this; always worried. Teacher: "that loss-making nature is in his chart."
-- The most popular person in the family, helpful to everyone.
-- "It matches exactly" for the paperwork/trouble reading (wording unclear).
-- Has never changed work (always software); did not try government sector.
+### Teacher's reading
 
-### Questions and answers
-1. **[Shri Prakash]** Planets of the 11th aspecting the 5th: what difference to *prārabdha*? **[Teacher]** First the **health** is affected; the more planets influence the 5th, the more thoughts; it is the stomach area. The 5th also shows the grandfather (health), the mother's wealth; for the native, karma and thoughts. Teacher asked about job changes: because **the 5th is the 8th from the 10th**, changes in career are possible; the owner said he never changed work (only for profit); teacher: then understand it in another way.
-2. **[Shri Prakash / Indrajeet]** Planets in the 11th are for gains; more planets = more auspicious? ✏️ **[Teacher]** No: "no good-bad"; we answer according to the question; the 11th planets are always 6th from the 6th, so gains do not come easily; effort is needed.
-3. **[Indrajeet]** Why will a government job not come? **[Teacher]** Will be explained when career is taught.
-4. **[Anju A]** What effect do four planets have together? **[Teacher]** Each has its own effect; the doubts will be cleared in the 4th class on yogas of planets.
-5. **[Vaibhav]** Why caution on paperwork? **[Teacher]** See reading 14.
-6. **[Shri Prakash]** Remedy? **[Teacher]** Care: do not trust people blindly; take extreme care with paperwork; even when you place a paper in the cupboard, check ten times for termites or fungus.
+1. **Education:** the 4th house is Leo; the 4th lord has gone to the 4th from itself, with Mercury (Mercury generally stays with the Sun), in a Mars sign (Scorpio). **Ketu in the 4th** → often studying away from home. Mercury with Sun in Scorpio → from childhood sports and research, attention in that direction; era example: in 1988 children played cricket at home with friends, today that is less common. (P4, P22, P23)
+2. **Career:** the 10th is empty; going by Venus, Saturn comes in. Saturn is in a Mercury sign.
+3. **Father:** 10th from 10th holds Sun and Mercury, so the native's career carries his father's impact. Anju ji: father was in service; they had moved, possibly selling property; father tried some business with the maternal uncle. (P11)
+4. **Property work** is also prominent here because the Sagittarius sign has come in; research work also possible.
+5. **Moon 7th from Saturn** → changes in work, or work influenced by the Moon: share-market investment, rotation of money, travel.
+6. **Third line of work:** a college professor, depending on his studies.
+7. **Not staying on one work:** 10th lord in the 8th → he will stay with one work only for a time; also very hardworking. (P15)
+8. **Health (BP at young age):** "look at Mars. When Mars aspects the 6th, anxiety increases; or Mars aspects the Moon." Here both are true. (P25)
 
-### Takeaway rule(s)
-→ P6, P7, P8, P13, P14, P15, P16, P21, P26, P38, P42, P44, P45, P49, P56
-*Teacher's framing:* planets in the 11th are 6th from the 6th, so effort and struggle with people; Moon in the 6th with the 6th lord in lagna makes the native a helper who suffers loss.
+### Owner background given by Anju ji (confirmation)
+
+- Very intelligent, in charge at home from the start; studied high school in **Bangalore** (away from home), then engineering in Jaipur; started a business as a student (around age 20) in **Jupiter daśā**, which went very well; PhD in Singapore; moved back to India in **April 2024** (circumstances, not by choice) and has been re-establishing since; new products, AI/satellite-based agriculture monitoring; BP at a young age; kidney-stone episodes, now managed with homeopathy.
+- **The factory:** a pellet-making factory in Bikaner that turns rice-crop residue (paddy stubble, *parālī*) into fuel pellets; running 10–12 years; also supplies plants generating electricity.
+- **[Teacher]** "Business-minded; will always do business." Deśa-kāla-pātra comes first, then the sequence of daśās.
+
+### The "parālī" linkage (teacher's explanation)
+
+- **[Vimala ji (?)]** Moon changes work; Saturn slowly; Mars is land and factory; parālī from Mars (also said to be Sun/wheat). **[Teacher]** Mars, yes. Mercury also (she looked up that parālī is the lower part of the plant left in the field after harvest, joined to the ground).
+- **[Teacher]** Next class (for Vimala ji's group) will teach **Mūla nakṣatra**: symbol a **cluster of roots**, tree **sāla**. Sagittarius has already been studied in class. "Connect Sagittarius with the 10th house: this work came out; even in the name we found *root*." So **nakṣatra symbols, deities, qualities and trees** show their impact on work, behaviour, children, house-building. (P21)
+- **[Indrajit ji]** 10th lord in the 8th → work that is hidden/buried, "hole-type" work. ✅ (teacher: "yes, the 10th lord also went to the 8th, absolutely")
+- **[Indrajit ji]** Lagna lord in its own sign in the 6th: not generally good but better because it is own sign; health issues (BP, kidney stone) probably in Venus antardaśā in Saturn daśā; 8th aspect on the lagna lord. ✅ (teacher: "maybe; and Mars's aspect has also come in")
+- **[Teacher]** 8th house → transforming something into a new form. In Sagittarius a horse and a human were combined to make a third form (both). Fire element comes in. The electricity use is the effect of the **Moon's aspect**.
+
+> [!SUMMARY] Takeaway rules
+> → P4, P10, P11, P15, P16, P21, P22, P23, P25, P20.
 
 ---
 
 ## Chart 4
 
-**Vaibhav's niece – nature / behaviour (infant)**
+**Vaibhav ji's chart – a woman; Education and Career**
 
-### Chart data
-- **Birth data as spoken:** 8 November 2024, 5:45 a.m., Bangalore, female. About 1.5 years old (Vaibhav).
-- **Lagna / key placements mentioned:**
-  - Libra lagna; Sun in lagna (11th lord).
-  - Lagna lord Venus in the 3rd house, in Sagittarius; no aspect on Venus.
-  - Mercury in the 2nd house, in Scorpio.
-  - Saturn in the 5th, retrograde.
-  - Moon in the 4th, in Capricorn, aspected by Mars and by Jupiter's 9th aspect.
-  - Mars aspects lagna.
-  - Rahu in the 6th (Pisces); the 6th lord Jupiter in the 8th, retrograde.
-- **Daśā:** Moon daśā running (Teacher).
-
-### Method
-1. Lagna sign and element → lagna lord's house → Sun in lagna → Mercury in the 2nd → health question → Saturn in the 5th → Mars on lagna.
-2. Teacher then asked whether any property/vehicle was bought after birth, and about family investments.
+- **Birth data as spoken:** 4 December, birth year 1987 (Anju ji: "eighty seven"), evening (teacher: "1926 shyam" – ASR for time/ year [unclear in transcript]); place spelled out letter by letter [unclear in transcript]; female. Vaibhav ji confirmed the data.
+- **Placements mentioned:** 4th house Virgo; lagna lord and 4th lord Mercury in the 6th with Sun, Saturn (combust) and Mars in Scorpio; Ketu in the 4th; 3rd lord Sun in the 6th; Moon in the 12th; Jupiter in the 10th in its own sign Pisces, vargottama, in Revatī nakṣatra (Mercury's); Rahu in the 10th (teacher says Rahu daśā in career time); five planets from 3rd to 8th; Moon aspects Saturn (Moon 7th from Saturn); 6th and 12th both hold many planets (four).
+- **Daśā:** born in Sun daśā; Moon, then Mars daśā in childhood and study years; Rahu daśā at career time; now Jupiter daśā; Mercury daśā next.
 
 ### Readings
-1. **[Indrajeet]** Libra lagna, Sun in lagna, lagna lord in the 3rd → she will be somewhat courageous (*parākramī*) later. ➖
-2. **[Indrajeet]** Mars aspects lagna but nothing aspects the lagna lord; lagna and Moon both in movable signs (Libra, Capricorn) → not rigid, flexible in life. ➖
-3. **[Indrajeet]** Moon in the 4th in Capricorn: Mars's aspect may later give some trouble to mother; Jupiter's 9th aspect helps. ➖
-4. **[Indrajeet]** Sun in lagna as 11th lord → confident. ✅ Teacher adds that this confidence must be *made* (reading 6).
-5. **[Teacher] Libra lagna** → movable sign, air element, *kāma trikoṇa* sign: more desires.
-6. **[Teacher] Lagna lord in the 3rd** → some creativity must be with the child.
-7. **[Teacher] Sun (11th lord) in lagna** → shows confidence, but it takes much effort to keep it up: "to *have* confidence" and "to *make* it" differ; Libra is a balance sign, so it has to be made.
-8. **[Teacher] Mercury in the 2nd (Scorpio)** → speech is good; the facts you bring are dug out so hard that it is difficult for people to break your points. Speech is read from many houses, not only the 2nd.
-9. **[Teacher] Health first,** because the Moon daśā is running; in a small child, stomach trouble such as constipation is common.
-10. **[Teacher] Saturn in the 5th, retrograde** → some negativity in thinking; makes a person suspicious (*śakī*); e.g. "did you reach safely?", and she may behave like that with her own children. Do not take this negatively.
-11. **[Teacher]** Looks good (Libra lagna). Mars's aspect on lagna → can be aggressive and has strong *dṛḍha niścaya* (determination).
-12. **[Teacher]** Manage-quality: from the lagna she will certainly get what she wants by managing.
 
-### Owner confirmation (Vaibhav)
-- Began to speak very early; speaks well; sharp; learns in an instant what children learn at 3–4 years; a "repeater" (speaks what she hears once).
-- Suspicious: will not accept an outsider, even someone she has known for four days; will not leave the home circle.
-- Health fine.
-- Gets what she wants by using her head. (Teacher: lagna's managing quality.)
-- No vehicle or property bought after her birth; father invests in the stock market; a property case did come up for the family after birth. Teacher: "somewhere an impact was showing, a little." (Teacher asked to find whether the stock investment was long-term or short-term.) The method of seeing this was left for later.
+> [!EXAMPLE]
+> 1. **[Anju ji]** Ketu in the 4th → a break in education may have occurred; or the 11th–12th class change to a professional course. ✅ (teacher: "both are possible")
+> 2. **[Anju ji]** Lagna lord in the 6th → competitive; 3rd lord (effort/struggle) in the 6th → hard work; Saturn fine; Jupiter's aspect on the 4th → teachers and elders influenced her. ➖
+> 3. **[Anju ji]** 10th, 2nd, 6th triangle → job tendency; Saturn itself in the 6th, house of service. ➖
+> 4. **[Teacher]** "It looks like the mind of a **lawyer**." **[Vaibhav ji]** Not a lawyer's mind, but arguments are convincing; persuades people even higher or lower in post. ✅ (owner confirms)
+> 5. **[Teacher]** Asked: did she think of or do business? **[Vaibhav ji]** Inclination is toward business; did business once, left for a personal reason; then a job (government clerk, after MBA and PhD); she does not like the job; family pressure prevents leaving; for a year doing naturopathy and nutritionist courses.
+> 6. **[Teacher]** Lagna lord with the Sun (3rd lord) and Saturn (karma) in the 6th → she must work hard to create a career and for its growth; nothing comes easily because **Saturn is combust**. Daśās: Mars during studies; business probably began in Rahu daśā; she is married (about 5 years); the Moon, 7th from Saturn, aspects Saturn → possible change in the work field. "Her mind is not in the job at all – that is clear." ✅
+> 7. **[Teacher]** Why she is not thinking of further study: she opened the daśās because Mercury daśā is coming and Saturn is "open"; the government influence is there; she will probably leave **next year** or start the new work alongside. **Partnership caution:** not at this time; check first who invests and who works (equal investment, or "I work, you invest"): understand the actual position.
+> 8. **[Vaibhav ji, question]** Jupiter in the 10th and degrees (MBA, PhD) but never a related job. → **[Teacher]** See the **daśās** (Rahu daśā, though Rahu sits in Jupiter's sign); outcomes are mixed; the most influence is of **Saturn** (its sign, house and planets with it). Saturn combust → no mind for the job; Mercury → business; Moon's aspect → change; **Jupiter in the 10th → lifelong learning**; she will ultimately go to her own work; family pressure may keep the government job for life. (P20)
+> 9. **[Vaibhav ji]** Moon in the 12th and naturopathy (healing)? → **[Teacher]** Moon in the 12th is good for that work; she will put her heart into it.
+> 10. **[Anju ji]** Many planets in 6th and 12th (service and healing); how successful, will much money come? → **[Teacher]** By daśā: Jupiter daśā is running, not bad; I think she will do it; it should go well.
+> 11. **[Śrīprakāśa ji]** Jupiter in the 10th, own sign, vargottama; vargottama strengthens it; in Mercury's nakṣatra (Revatī) → business outlook in every conversation and action; five planets from 3rd to 8th show interest not in business/job [as spoken; contradictory – unclear in transcript]. ➖
+> 12. **[Teacher]** Partner at home: asked if a woman at home (mother-in-law, sister-in-law) would join; **[Vaibhav ji]** No; elder sister is a pediatrician (MBBS) and can help. **[Teacher]** Elder sister is seen from the 11th; the 11th lord is in the 5th; the sign in the 5th is the 7th sign, 10th from 10th falls 8th from 10th [partly unclear]; Moon's aspect also brings a woman's influence.
+> 13. **[Vaibhav ji]** Her initiative mostly stops because of health. **[Teacher]** Yes, because Saturn is weak/combust, it can trouble health. ✅
 
-### Maternal-uncle reading (Indrajeet, Teacher, Vaibhav)
-1. **[Indrajeet]** Maternal uncle's house (6th): Rahu is there and its lord Jupiter is in the 8th → the uncle may be interested in occult science or somewhat courageous. ✅ (as applied below)
-2. **[Vaibhav, as the uncle]** Not courageous in a fighting way, but he keeps knowledge of different fields; learns new things; seeks secret knowledge. **[Teacher]** Courage (*parākrama*) can be in speaking and knowledge, as Jupiter is there.
-3. **[Teacher]** Offers/masterclasses: "this is the effect of **Rahu in the 6th and Pisces**." The 6th is the house of a court case: one does not go in easily, one gets entangled. Vaibhav: registers for every masterclass. [Her sentence about Jupiter in the 8th retrograde and the 2nd-house link is incomplete in transcript.]
-4. **[Vaibhav]** This is a *viparīta rājayoga*? ✏️ **[Teacher]** *Viparīta rājayoga* is said for the child, not for the maternal uncle.
+### Teacher's general instruction on business or job
 
-### Takeaway rule(s)
-→ P1, P4, P10, P11, P19, P24, P31, P34, P41, P47, P52, P54
-*Teacher's framing:* Sun as 11th lord in lagna gives confidence that has to be built; retrograde Saturn in the 5th makes one suspicious; Rahu in the 6th with Pisces entangles one in offers.
+- **[Indrajit ji, question]** How do we see whether a native will do business? → **[Teacher]** See the **mindset** first (why the first class was on behaviour). A person may work under pressure, but once the mindset is known, if he gets a chance he will do that work. Inclination is read from the **lagna lord**: here with Sun and Saturn → she is karma-oriented and wants to work; lagna lord with the 3rd lord → struggle and effort; Saturn with Mercury and Sun → trade possible. (P7)
+- **[Indrajit ji]** The 6th is service, three planets there, so the 6th is active too. → **[Teacher]** "Whatever it is, never go with one formula. There is no single tool; every chart has its own rule." ("Teacher emphasized repeatedly" – see also Chart 5.) (P5)
+- **[Anju ji]** Can we say business is there but service will not be left? → **[Teacher]** Yes: service will not be left because of family and in-laws.
+- **[Indrajit ji]** He read somewhere that if the 10th lord is in a **dual (dvisvabhāva)** or **movable** sign the person is business-oriented; in a dual sign he can do both business and service. → **[Teacher]** "The lagna is also Mercury's." Not every Mercury lagna does business; "see all the combinations of the chart, rotate the chart from the 10th, and relate the daśā to it; nothing more; the answers will come on their own." ✏️ (P5)
+- **[Dravin ji]** Lagna lord in the 6th in a fixed sign; 3rd lord Sun in a fixed sign; mind (Moon?) in a fixed sign [unclear]; Mercury is the business kāraka; lagna lord himself chose struggle and has stability in the mind → she will not like the job. ➖ (teacher: "ठीक है")
+
+> [!SUMMARY] Takeaway rules
+> → P5, P7, P9, P16, P17, P18, P20, P22, P28.
 
 ---
 
-## Closing items in class (Teacher)
+## Chart 5
 
-> [!SUMMARY] Closest thing to a closing statement
-> The teacher gave no formal closing summary. The nearest closing teaching came as an answer to Vaibhav: what to take up to understand nature (P3), and that any matter is read from the whole chart (P4). It is placed in the compendium under heading 13 by cross-reference.
+**Śrīprakāśa ji's son's chart – Education and Career**
+
+- **Birth data as spoken:** 5 October 1982; male; age about 41 [as spoken; the year would make him older – unclear in transcript]. Śrīprakāśa ji confirmed the data.
+- **Placements mentioned:** Scorpio lagna; Mars (lagna lord) in lagna; 10th house Leo, empty; Rahu in the 8th in Gemini; Saturn in the 11th (combust) in Virgo; Venus combust; Sun in a Mercury sign; 4th lord Saturn in its own 8th; 5th lord Jupiter in its own 8th; 4th kāraka Moon in the 6th; Saturn's 10th aspect and Mars's 8th aspect on the 8th; Jupiter as 2nd lord in the 12th.
+- **Daśā:** born in Venus daśā; Moon daśā at the end of studies, work probably started then; Mars daśā; **Rahu daśā running now**; Jupiter daśā coming; Rahu–Saturn antardaśā "from 2027" [unclear in transcript].
+
+### Readings
+
+> [!EXAMPLE]
+> 1. **[Ankit ji]** Education: Saturn (4th lord) in its own 8th, Jupiter (5th lord) in its own 8th, Moon (4th kāraka) in the 6th → struggles in studies; higher studies better; Mars in lagna is good. ✅ in part (the teacher later notes he finished studies).
+> 2. **[Ankit ji]** 10th empty → apply the rule: count 10th from Mars; that gives Sun's sign; Sun is in a Mercury sign; Sun in the 11th also indicates a **government job** or "common" and good jobs; career should be good. ✅ (teacher follows the same route: "the first career determiner is Mercury")
+> 3. **[Indrajit ji]** Rahu in the 8th in Gemini (house of longevity), Saturn's 10th and Mars's 8th aspects on it, Rahu–Saturn period coming → should the native take special care? → **[Teacher]** "Yes, definitely." ✅
+> 4. **[Teacher]** 10th is Leo and empty; decide among Sun, Moon, Mars → from Mars. Sun's sign has come; Sun is in Mercury's sign → first career determiner is **Mercury**. Born in Venus daśā; studies finished; after Moon daśā, at the end, he probably started some work. Multiple work combinations are possible because Saturn is in the 11th but **combust**, and Venus is also combust → they make him work harder, both to earn money and in the career. Mars in lagna → active and hardworking.
+> 5. **[Śrīprakāśa ji, owner confirmation]** Son did **MCA**, is in the computer/animation line, teaching animation to children; never got a government job and did not try; always a financial problem and indebted; pays others but is left without his own payment; no set job.
+> 6. **[Teacher]** Teaching = Jupiter's effect. Animation = **artistic**: Saturn is in Mercury's sign; the **6th sign (Virgo) makes one excessively artistic, more than the 3rd sign**. Daśā: Rahu daśā running, Mars daśā earlier. He should reduce the habit of helping others with money; **getting money stuck is in his chart**; Venus is combust and trouble connected with a combust planet can arise; the 2nd lord has gone to the 12th (also from Jupiter's point of view the 12th). For **teaching**: Saturn in Virgo → teaching line is very good; the 5th sign (Leo; 5th house of Kālapuruṣa) → higher education → teaching impact; Jupiter daśā is coming; do it as a business; it will go well. (P20, P29)
+> 7. **[Śrīprakāśa ji, question]** What caution is needed? → **[Teacher]** Scorpio lagna, Rahu in the 8th will give results of the 8th and 11th, in Mercury's sign, and comes in Saturn daśās → take care of health. (P27)
+
+> [!SUMMARY] Takeaway rules
+> → P10, P16, P17, P20, P27, P29, P30.
 
 ---
 
-# Principles Compendium
+## Teacher's closing words (end of class)
 
-> [!INFO] How to read
-> *Stated by* uses: **Teacher** (stated or applied by teacher); **Student ✅** (student proposal confirmed); **Student ✏️** (student proposal corrected, corrected version recorded). Only conditions the teacher gave are listed. No outside rules were added.
+> [!IMPORTANT] Closing rule set
+> "All the rules are understood; these are the only rules to be seen." For any chart that comes: **for the house of the question, with the planets sitting with it and the houses they own, always examine the fourth from it.**
+> - Education question → the **4th** house.
+> - Higher education → the **4th from the 5th**.
+> - Marriage → the **4th from the 7th**.
+> - Career → the **4th from the 10th**, which is the **lagna**.
+> - And **the 4th from the kāraka** of the matter.
+>
+> **Reason:** "We have to see its happiness (sukha) too. You are working in a career, but how much happiness is in it – the 4th house tells that." "These will remain our points; we will keep going this way." (P3)
+
+(Announcement of the next courses has been omitted.)
+
+---
+
+# Part 2 – Principles Compendium
+
+> [!INFO] How to read this section
+> Topic-wise reference of every principle **stated or applied** in this class. Status key: **T** = stated/applied by the teacher; ✅ = student proposal confirmed by teacher; ✏️ = student proposal corrected by teacher. Chart links point to Part 1. Nothing here comes from outside the class.
 
 ## 1. Reading method and sequence
 
-**P1. Ask about health first**
-- **Principle:** Before reading nature, ask the client for the native's health first; if health is fine, go on. Asked for a child (Chart 1: birth daśā of Rahu/Ketu) and with a Moon daśā running (Chart 4).
-- **Stated by:** Teacher
-- **Shown in:** [[#Chart 1]], [[#Chart 4]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** Chart 1: child's age and birth daśā (Rahu with Venus in the 12th, Ketu in the 3rd "which will also act as the 8th" – as spoken). Chart 4: Moon daśā in a small child → stomach issues like constipation.
+**P1. Education: 4th house is primary, all 12 houses play a role**
+- **Principle:** The main house for education is the 4th, but all 12 houses influence education. (She pointed to her YouTube video and book for the full treatment.)
+- **Stated by:** T · **Shown in:** [[#Chart 1]] · **Exceptions:** none stated
 
-**P2. Read for age, place and era; traits change with growth**
-- **Principle:** Predict nature according to the native's present age and the country/era (a 6-year-old in the USA today, not the teacher's own childhood). A trait may not be visible in a small child yet; it can appear later or change. For a very newborn, behaviour cannot be known; for 1.5–2 years it is hard to judge, but the chart can be seen.
-- **Stated by:** Teacher
-- **Shown in:** [[#Chart 1]], [[#Chart 2]], [[#Chart 4]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** Facilities differ by era and place; the child's effect "will change later".
+**P2. Education sequence: house, lord, kāraka, and the 4ths**
+- **Principle:** Start from the sign of the 4th, then bhāva (house), bhāveśa (lord) and kāraka. For education up to 12th, **Mercury** is the kāraka; **Moon** is the "fixed" (sthira) kāraka. Also examine the **4th from the 4th** and the **4th from Mercury** (the 6th in this chart).
+- **Stated by:** T · **Shown in:** [[#Chart 1]] · **Exceptions:** none stated
 
-**P3. Basic checklist for nature**
-- **Principle:** To know nature take: lagna, lagna lord, kāraka, planets sitting in lagna, aspects on lagna, placement of lagna lord, the Moon, aspect/influence on the Moon, and the nature of the signs. This is the basic. In advanced reading take the whole chart (every house).
-- **Stated by:** Teacher (answer to Vaibhav)
-- **Shown in:** applied in [[#Chart 1]], [[#Chart 2]], [[#Chart 3]], [[#Chart 4]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** none stated
+**P3. Closing rule: always see the 4th from the question**
+- **Principle:** In every case examine the 4th from the house of the question (and the planets sitting with it and the houses they own). Education → 4th; higher education → 4th from the 5th; marriage → 4th from the 7th; career → 4th from the 10th (= lagna); and 4th from the kāraka.
+- **Teacher's reasoning:** The happiness (sukha) of the matter is read there: "you work in a career, but how much happiness it has, the 4th tells."
+- **Stated by:** T · **Shown in:** closing words · **Exceptions:** none stated (wording of the first clause is partly unclear)
 
-**P4. Use the whole chart for any matter**
-- **Principle:** For any matter, the particular chart is read as a whole: all 12 houses show marriage, all 12 show career, not only the 7th/5th. Speech is seen from many houses, not only the 2nd. Vaibhav's proposal to use the Kālapuruṣa sign (Aries for nature, the 2nd house for speech) was not accepted: "no, we will look at this chart".
-- **Stated by:** Teacher; Vaibhav ✏️ corrected
-- **Shown in:** [[#Chart 4]] (speech); closing Q&A
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** none stated
-- **[possible tension – see Chart 2, Chart 3]:** the teacher herself describes the lagna sign through its Kālapuruṣa house (Aquarius = 11th, Scorpio = 8th) in P48, P49.
+**P4. Interpret through deśa-kāla-paristhiti**
+- **Principle:** Place, time and circumstances shape how a rule shows up (e.g. not studying away from home explained by circumstances; era of childhood games; what parents of the time gave attention to). She also said "deśa-kāla-pātra" is the biggest role.
+- **Stated by:** T · **Shown in:** [[#Chart 1]], [[#Chart 3]] · **Exceptions:** "rules may change a little with deśa-kāla"
 
-**P5. Planets only, no nakshatras, in this class**
-- **Principle:** Nakshatras are not added in this class; take the grahas only.
-- **Stated by:** Teacher
-- **Shown in:** [[#Chart 2]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** none stated
+**P5. No single formula; every chart has its own rule**
+- **Principle:** Never go with one sūtra or one tool. Each chart has its own rule. Look at all the combinations, rotate the chart from the 10th, and relate the daśā to it.
+- **Stated by:** T (**repeatedly emphasized**) · **Shown in:** [[#Chart 4]], [[#Chart 2]] · **Exceptions:** none stated
 
-**P6. Read from the Moon as well as from lagna**
-- **Principle:** The chart is read from lagna and also from the Moon; see every planet from the Moon and from every other planet.
-- **Stated by:** Teacher
-- **Shown in:** [[#Chart 3]] (Mercury is 6th from the Moon)
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** none stated
+**P6. Ask the native context questions before concluding**
+- **Principle:** Questions the teacher used: Was education away from home (hostel, relatives' house)? Was there an inclination to sports? Was the father in business, did he involve the native, was there property or construction work? Loan or partnership involved? Did the family (mother-in-law, sister-in-law) take part in the business? What is the person studying/doing now?
+- **Stated by:** T · **Shown in:** [[#Chart 1]], [[#Chart 3]], [[#Chart 4]] · **Exceptions:** none stated
 
-**P7. Answer according to the question, not "good/bad"**
-- **Principle:** Do not say a placement is "auspicious" (śubhakārī); answer on the basis of the question asked.
-- **Stated by:** Teacher
-- **Shown in:** [[#Chart 3]] (see P16 for the case)
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** none stated in general; see P16.
+**P7. To judge business vs service, read the mindset first**
+- **Principle:** The person may work under pressure, but once the mindset is known he will do that work if he gets the chance. Read the inclination from the **lagna lord**: here lagna lord with the 3rd lord shows effort and a wish to work; Saturn with Mercury and Sun shows trade.
+- **Teacher's reasoning:** this is why the first class was on behaviour.
+- **Stated by:** T · **Shown in:** [[#Chart 4]]
 
-**P8. A planet's nature changes with sign, placement and aspect**
-- **Principle:** A planet going into each sign changes its nature, and all effects change according to placement and aspects.
-- **Stated by:** Teacher
-- **Shown in:** [[#Chart 3]] (Mars in Scorpio), applied throughout
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** none stated
+**P8. Saturn carries the most influence in a mixed result (reference to class 1)**
+- **Principle:** Results come mixed; the most influence is Saturn's: the sign, the house it is in and the planets sitting with it.
+- **Stated by:** T (cited from the first class) · **Shown in:** [[#Chart 4]]
 
-**P9. Read traits non-negatively and give caution advice**
-- **Principle:** Do not read a trait such as suspiciousness (śakī) in a negative way. Give advice from the reading (e.g. watch the skin; let the child's creativity run; do not trust friends blindly).
-- **Stated by:** Teacher
-- **Shown in:** [[#Chart 1]], [[#Chart 3]], [[#Chart 4]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** none stated
+**P10. Career when the 10th is empty (as applied)**
 
-**P10. A relative's behaviour is read from the relative's house**
-- **Principle:** The maternal uncle (*māmā*) is seen from the 6th house: Rahu in the 6th and the Pisces sign were applied to the uncle's behaviour (taking up every masterclass offer).
-- **Stated by:** Indrajeet ✅ (proposed the 6th as the uncle's house; teacher applied it)
-- **Shown in:** [[#Chart 4]]
-- **Exceptions / cancellations:** viparīta rājayoga is not for the uncle: see P54
-- **Teacher's reasoning:** the 6th is the house of court cases/entanglement (P15)
-
-**P11. Test a reading with a life-event question**
-- **Principle:** Teacher asks the owner for real events to verify an indication: the health history and the date of a dental surgery (Chart 1); job changes, because the 5th is the 8th from the 10th (Chart 3); property/vehicle purchase and investments after birth (Chart 4).
-- **Stated by:** Teacher (applied)
-- **Shown in:** [[#Chart 1]], [[#Chart 3]], [[#Chart 4]]
-- **Exceptions / cancellations:** if the event is not found (no job change in Chart 3), "understand it in another way"
-- **Teacher's reasoning:** none stated
+- **Principle (as applied, original statement not in this class):** When the 10th house is empty, pick the strongest of the candidates (Sun, Moon, and in some charts the lagna lord/Mars or Venus), count the **10th from it**, read the sign's lord, and then bring in the daśās.
+- **Examples:** Chart 1: Moon is stronger than Sun → 10th from Moon = Sun's sign → Sun's role. Chart 3: Venus is stronger than Sun → Saturn from Venus's 10th. Chart 5: Mars → 10th from Mars → Sun's sign in Mercury's sign → Mercury. Chart 2: Ketu not counted; Sun and Jupiter both taken.
+- **Stated by:** T (applied; referred to as "the same rule/the rule from before") · **Shown in:** [[#Chart 1]], [[#Chart 2]], [[#Chart 3]], [[#Chart 5]] · **Exceptions:** none stated
 
 ## 2. Houses and their significations
 
-**P12. The 2nd house: saṃskāra, home influence, speech, face/mouth/teeth**
-- **Principle:** The 2nd house is where *saṃskāras* are discussed; the child learns from the home environment (parents, things and facilities in the house). The 2nd also shows speech and face/mouth. Mars's aspect on the 2nd and Rahu in the 2nd give a teeth effect (teeth may be somewhat uneven).
-- **Stated by:** Teacher; Anju A ✅ (Mercury in the 2nd ↔ teeth)
-- **Shown in:** [[#Chart 1]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** Mars's aspect and Rahu in the 2nd; the dental surgery of 29 Jan 2025 fell in Mercury's period (see P51).
+**P12. A trine from Saturn for career**
+- **Principle:** Saturn's trine (trikoṇa) must always be seen for career; here the Sun sits in a trine of Saturn, in the 2nd (wealth) house.
+- **Stated by:** T · **Shown in:** [[#Chart 1]] · **Exceptions:** none stated
 
-**P13. The 3rd house: communication, creativity, courage, paperwork**
-- **Principle:** (a) The 3rd sign (Gemini) → communication: Moon there gives talk (P36). (b) The 3rd house → creativity; what game or creativity depends on the 3rd (and the 5th, 8th) and the 3rd sign, and the planet there shows the type (Moon → water). (c) The 3rd lord (*parākrameśa*) → courage/prowess (P20). (d) **Paperwork** is read from the 3rd house, [the third from the house – unclear in transcript], the 3rd lord, and also Mercury.
-- **Stated by:** Teacher; Anju A ✅ ("third house", "Saturn")
-- **Shown in:** [[#Chart 1]], [[#Chart 2]], [[#Chart 3]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** none beyond the above.
+**P26. Ask about health first when education is disturbed**
+- **Principle:** Disturbances in education can come from the child's health, so health is the first thing to ask.
+- **Stated by:** T · **Shown in:** [[#Chart 2]], [[#Chart 3]]
 
-**P14. The 5th house**
-- **Principle:** The 5th shows thoughts and, for the native, karma; it is the stomach area; it shows the grandfather (health) and the mother's wealth. The 5th is the 8th from the 10th, so it relates to career changes. The more planets influence the 5th, the more thoughts; health is affected first.
-- **Stated by:** Teacher
-- **Shown in:** [[#Chart 3]], [[#Chart 1]] (Saturn in 5th), [[#Chart 4]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** none beyond the above.
-
-**P15. The 6th house**
-- **Principle:** The 6th house is the house of the court case: one does not go in calmly, one gets entangled. A planet in the 6th (e.g. the Moon) brings struggle felt in the mind.
-- **Stated by:** Teacher
-- **Shown in:** [[#Chart 4]], [[#Chart 3]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** none stated
-
-**P16. The 11th house: growth of lagna; planets are always 6th from the 6th**
-- **Principle:** The 11th from lagna is the house of the lagna's growth ("taking everyone along"). Each planet in the 11th makes the native work that much because it is **6th from the 6th**, so gains do not come easily; effort is needed; struggle increases as one comes among more people. Saturn's influence here: understanding the psychology of the masses.
-- **Stated by:** Teacher; Shri Prakash / Indrajeet ✏️ corrected (proposal: more planets in the 11th = more auspicious/gain)
-- **Shown in:** [[#Chart 3]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** 6th from the 6th.
+(See also **P3** for the 4th-house rule and **P11** for the 10th/father link.)
 
 ## 3. House lords and their placements
 
-**P17. Lagna lord in the 2nd** (Chart 1: Mercury in Libra, Virgo lagna) → creativity, as the 2nd is *saṃskāra* and Libra is Venus's mūlatrikoṇa sign; Mercury (also lagna lord) in Venus's sign. **Stated by:** Teacher. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
+**P13. 10th lord in lagna → starts working early**
+- **Stated by:** Anju ji ✅ (teacher: "this rule can apply") · **Shown in:** [[#Chart 1]] (owner confirmed) · **Exceptions:** none stated
 
-**P18. Lagna lord in the 9th** (Chart 2: Saturn in Libra, Aquarius lagna) → "fortunate"; father's support; balances everything (Libra); very focused (the 9th shows focus). **Stated by:** Teacher. **Shown in:** [[#Chart 2]]. **Exceptions:** none stated.
+**P14. 10th lord with 5th lord in lagna; reading conjunctions by the question**
+- **Principle:** 10th lord with 5th lord in lagna is "very good" but brings **sudden changes**: ups and downs without notice. Jupiter is also the 8th lord (8th from the 10th) → sudden events; they bring growth if the daśā is good, but not easily, because the growth-house lord is badly placed, so effort is needed. When several lords are in one conjunction (here 5th, 3rd, 8th, 10th lords), **choose the houses according to the question**: a question on career *struggle* uses the house for effort and the influence of the others on it; a question on career *growth* uses the other houses (the house numbers she named are partly unclear).
+- **Stated by:** T · **Shown in:** [[#Chart 1]] (owner confirmed ups and downs)
 
-**P19. Lagna lord in the 3rd** (Chart 4: Venus in Sagittarius, Libra lagna) → some creativity must be with the child. **Stated by:** Teacher. **Shown in:** [[#Chart 4]]. **Exceptions:** none stated.
+**P15. 10th lord in the 8th**
+- **Principle:** The native does not stay with one work; work may be hidden/buried; the 8th house transforms something into a new form.
+- **Stated by:** Indrajit ji ✅ (teacher: "yes"); teacher applied it to transform/not stay in one work · **Shown in:** [[#Chart 3]]
 
-**P20. 3rd lord (parākrameśa) in the 8th** (Chart 2: Mars) → prowess/strategy is hidden; does not tell anyone; the spirit (competitiveness) is awake and shows in every field. **Stated by:** Teacher; Indrajeet ✏️ corrected (his reading: over-competitive because Mars is in Mercury's sign, an enemy). **Shown in:** [[#Chart 2]]. **Exceptions:** none stated.
+**P27. Rahu in the 8th, caution about health**
+- **Principle:** The 8th is the house of longevity; Rahu in the 8th with Saturn's and Mars's aspects on it, and the Rahu–Saturn period coming, calls for special attention. Rahu in the 8th gives results of the 8th and the 11th, in Mercury's sign, and shows in Saturn daśās → take care of health.
+- **Stated by:** Indrajit ji ✅ ("yes, definitely") and T · **Shown in:** [[#Chart 5]]
 
-**P21. 6th lord in lagna (with the Moon in Aries in the 6th)** → helps others. **Stated by:** Teacher. **Shown in:** [[#Chart 3]]. **Exceptions:** none stated.
+**P30. 2nd lord in the 12th; money getting stuck**
+- **Principle:** Money getting stuck can be in the chart; helping others with money should be reduced. The 2nd lord has gone to the 12th (also from Jupiter, the 12th).
+- **Stated by:** T · **Shown in:** [[#Chart 5]]
 
-**P22. 12th lord Sun in lagna** (Chart 1) → authority; some children find sleeping at night hard. **Stated by:** Teacher. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
+## 4. Planets: kārakas, strength and effects
 
-**P23. Jupiter (lord of the 2nd and 11th) in the 5th** (Chart 2) → a "money-managing" mind: thoughts about family and money, future planning, family budget. Either the family has discussed money openly with the child, or such thoughts run in the child's mind. **Stated by:** Teacher. **Shown in:** [[#Chart 2]]. **Exceptions:** none stated.
+**P16. Ṣaḍbala (planetary strength)**
+- **Principle:** (a) Check each planet's ṣaḍbala. (b) A weak Sun gives trouble in the Sun daśā (e.g. "very down" now in Chart 1). (c) Good ṣaḍbala of Saturn → good for career. (d) When the Sun, Moon and lagna lord are all weak, take the one with more strength (Venus over Sun) and then see the daśā by age. (e) If Sun and Jupiter have almost the same ṣaḍbala, take both.
+- **Stated by:** T · **Shown in:** [[#Chart 1]], [[#Chart 2]], [[#Chart 3]] · **Exceptions:** "good for career, other matters may differ"
 
-**P24. 11th lord Sun in lagna** (Chart 4, Libra) → confidence is shown but has to be built with effort ("having" vs "making" confidence); Libra is a balance sign. **Stated by:** Teacher; Indrajeet ✅ (confidence). **Shown in:** [[#Chart 4]]. **Exceptions:** none stated.
+**P17. Saturn: placement and combustion**
+- **Principle:** Saturn is good and strong in the 6th. **Saturn combust (asta)** → nothing comes easily; the person must work hard for building and growing a career; mind is not in the job; health may trouble.
+- **Stated by:** T · **Shown in:** [[#Chart 1]], [[#Chart 4]], [[#Chart 5]]
 
-## 4. Planets: natural significators and effects
+**P25. Mars's aspect and anxiety / BP**
+- **Principle:** When Mars aspects the 6th house, or aspects the Moon, anxiety increases (seen with BP at a young age).
+- **Stated by:** T · **Shown in:** [[#Chart 3]]
 
-**P25. Mars's aspect on lagna/Moon/Sun**
-- **Principle:** Mars's aspect on lagna → very active (Chart 1) and aggressive with determination (Chart 4). Mars's aspect on the Moon → aggression, and helping others (Mars is *udāra*, a *senāpati* who helps even at the cost of life). Mars's aspect on the Sun → courage: "if I decide I will do it".
-- **Stated by:** Teacher; Shri Prakash ✅ (aspect on Sun → courage)
-- **Shown in:** [[#Chart 1]], [[#Chart 4]]
-- **Exceptions / cancellations:** none stated
-- **Teacher's reasoning:** the word *udāra* for Mars in *Iṣṭa-kāla* [unclear in transcript]; a senāpati helps others.
+**P29. Combust (asta) planet → trouble connected with that planet**
+- **Principle:** A combust planet can give trouble related to what it signifies (e.g. Venus combust and money stuck).
+- **Stated by:** T · **Shown in:** [[#Chart 5]]
 
-**P26. Mars in lagna (Scorpio)** → some aggression and some reasoning power. **Stated by:** Teacher. **Shown in:** [[#Chart 3]]. **Exceptions:** none stated.
+## 5. Aspects and conjunctions
 
-**P27. Shadbala shows the strength of a planet's effect** → Mars shadbala 1.87 means a strong Mars, so its effect is very strong. **Stated by:** Teacher. **Shown in:** [[#Chart 1]], [[#Chart 2]], [[#Chart 3]]. **Exceptions:** shadbala values differ between software/settings (teacher: check the setting).
+**P18. Moon–Saturn connection; planets in 3, 6, 8, 12**
+- **Principle:** A Saturn–Moon connection (or Moon's aspect on Saturn) brings changes in work; it can also affect the *way* of studying. Another possibility for leaving jobs quickly: most planets in the 3rd, 6th, 8th, 12th. Moon's natural quality is to give change.
+- **Stated by:** Indrajit ji (Ketu in 10th → leaves jobs) ✏️ — teacher added the Saturn–Moon and 3/6/8/12 possibilities; later applied on [[#Chart 3]] and [[#Chart 4]] · **Exceptions:** "need not always be a change; it can change the method"
 
-**P28. Weak Sun (shadbala)** → the Sun brings you into the limelight, so you cannot express yourself; such children can become inwardly irritable and their anger bursts "like a volcano" without weighing right and wrong. **Stated by:** Teacher. **Shown in:** [[#Chart 2]]. **Exceptions:** none stated. **Reasoning:** the sunlight comparison (all becomes visible when the Sun comes).
+**P19. Ketu in the 10th: not counted as occupying it**
+- **Principle:** In Chart 2 the teacher said "we are not considering that Ketu is here," treating the 10th as empty and using Sun and Jupiter.
+- **Stated by:** T (applied) · **Shown in:** [[#Chart 2]]
 
-**P29. Sun in Virgo with Mars's aspect** → both fire planets influence from lagna; the Sun wants to solve, so anger when a problem does not work out. **Stated by:** Teacher. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
+## 6. Signs, nakṣatras, work indicators
 
-**P30. Saturn in the 5th** → stability in thoughts; a karma-oriented native (thinks about career growth and family responsibility). **Stated by:** Teacher. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
+**P20. Work indicators as stated or applied**
 
-**P31. Retrograde Saturn in the 5th** → negativity in thought; suspiciousness (śakī). **Stated by:** Teacher. **Shown in:** [[#Chart 4]]. **Exceptions:** do not read it negatively (P9).
+| Indication | Pointed to | Said by / status |
+|---|---|---|
+| Venus 10th lord + Moon (aspect/D9 sign) | creative work, liquids | Anju ji ➖ |
+| Mercury + Mars in the 3rd | writing, communication | Anju ji ➖ |
+| Jupiter + Venus in lagna and D9 | teaching, counselling, balanced nature | ✅ T |
+| Mars | land, factory | T |
+| Moon's aspect | electricity (power plants) | T |
+| Mercury | parālī (stubble) work (together with Mars) | T |
+| Moon 7th from Saturn | travel, share-market, rotation of money, change | T |
+| Third possibility from 10th/Saturn–Moon–Jupiter | college professor, depending on studies | T |
+| **6th sign (Virgo)** | more artistic than the 3rd sign; animation, art | T |
+| **5th sign (Leo)** = 5th house of Kālapuruṣa | higher education, teaching | T |
+| Sagittarius with the 10th | property/construction work, research | T |
+| Moon in the 12th | healing work (naturopathy), heart in it | T |
+| Jupiter in the 10th | lifelong learning | T |
+| Moon's aspect | a woman's influence | T |
+| Venus and Jupiter influence | architecture (Master of Architecture) | T |
 
-**P32. Mercury = vyāpāra (trade)** → gets one's point accepted from either side; in Libra it does so by balancing. Mercury in the 2nd makes one construct sentences ("Mercury's art"). **Stated by:** Teacher; Vimala ✅. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
+- **Stated by:** as above · **Shown in:** [[#Chart 1]]–[[#Chart 5]]
 
-**P33. Mercury hemmed by malefics (pāpa kartarī) or aspected by Mars, in a child with Ketu birth daśā** → skin issue possible; extra caution when Mercury's period runs (Jupiter mahādaśā – Mercury antardaśā). **Stated by:** Teacher. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
+**P21. Nakṣatra symbol, deity, qualities, trees**
+- **Principle:** A nakṣatra's symbols, deities, qualities and trees show their impact on work, behaviour, children, house-building. Example: **Mūla** – symbol a cluster of roots, tree sāla; connected with Sagittarius and the 10th house, "the work came out" (parālī/roots).
+- **Stated by:** T · **Shown in:** [[#Chart 3]]
+- Sagittarius symbol as described: horse and man combined into a third form; fire element.
 
-**P34. Mercury in the 2nd in Scorpio** → the facts brought are dug out hard; the person's points are difficult to break. **Stated by:** Teacher. **Shown in:** [[#Chart 4]]. **Exceptions:** none stated.
+## 7. Divisional charts
 
-**P35. Jupiter's aspect on the Moon** → wants real knowledge, not show; knows a thing by experimenting. **Stated by:** Teacher. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
-
-**P36. Moon in the 3rd sign (Gemini)** → communication; talk that people like. **Stated by:** Teacher. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
-
-**P37. Moon in the 3rd house** → creativity of the planet's kind: the Moon brings **water** (water polo). **Stated by:** Teacher. **Shown in:** [[#Chart 2]]. **Exceptions:** none stated.
-
-**P38. Moon in the 6th** → life struggle felt in the mind ("my life has struggle"); aspected by Ketu and Jupiter → finds it hard to refuse; the 6th lord in lagna makes the person helpful. **Stated by:** Teacher. **Shown in:** [[#Chart 3]]. **Exceptions:** none stated.
-
-**P39. Moon in Aries aspected by Mars and by Saturn–Rahu; Sun in Scorpio** → anger; hard to understand the mind; inner restlessness; communication is less; mixes only if comfortable (sentence on Sun in Scorpio incomplete). **Stated by:** Teacher. **Shown in:** [[#Chart 2]]. **Exceptions:** none stated.
-
-**P40. Rahu with the lagna lord** → planning, new ideas; wants to learn whatever is new in the market. **Stated by:** Teacher. **Shown in:** [[#Chart 2]]. **Exceptions:** none stated.
-
-**P41. Rahu in the 6th with Pisces** → one is drawn into (entangled in) offers, e.g. masterclass offers. **Stated by:** Teacher; confirmed by the owner (Vaibhav). **Shown in:** [[#Chart 4]]. **Exceptions:** none stated.
-
-**P42. Saturn in the 11th** → "psychology of the masses" (Saturn's influence). **Stated by:** Teacher. **Shown in:** [[#Chart 3]]. **Exceptions:** none stated.
-
-## 5. Aspects (dṛṣṭi) and conjunctions
-
-**P43. Planets not conjunct (all in separate houses)** → conjunct planets may make some yoga; without it life is "spread out", attention goes everywhere, struggle increases a little (like members in separate rooms); every planet is 6/8 from some other planet and can create a problem for it. Check daśā too. **Stated by:** Teacher. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
-
-**P44. Planets (11th) aspecting the 5th** → health (stomach) is affected first; thoughts increase. See P14, P16. **Stated by:** Teacher. **Shown in:** [[#Chart 3]]. **Exceptions:** none stated.
-
-**P45. Several planets together** → each has its own effect; to be taught in the 4th class (yogas of planets). **Stated by:** Teacher. **Shown in:** [[#Chart 3]]. **Exceptions:** none stated.
-
-## 6. Signs
-
-**P46. Virgo lagna** → research mind; perfection; Virgo is Mercury's mūlatrikoṇa sign, so creativity. **Stated by:** Teacher. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
-
-**P47. Libra** → movable, air, *kāma trikoṇa* sign: more desires; balance sign: balanced speech; confidence has to be built. Venus's mūlatrikoṇa sign. **Stated by:** Teacher. **Shown in:** [[#Chart 1]], [[#Chart 4]]. **Exceptions:** none stated.
-
-**P48. Aquarius lagna** → Kālapuruṣa's 11th house sign, Saturn's sign: very practical, progressive thinking, many life plans. **Stated by:** Teacher. **Shown in:** [[#Chart 2]]. **Exceptions:** none stated. See P4 tension.
-
-**P49. Scorpio lagna** → fixed sign and Kālapuruṣa's 8th house sign: secretive. **Stated by:** Teacher. **Shown in:** [[#Chart 3]]. **Exceptions:** none stated. See P4 tension.
+- In D9, the 10th lord's aspect/sign was checked (Chart 1); the teacher's answer was to apply "the same rule" because the 10th is empty (see P10).
+- See **P10** (section 1).
 
 ## 8. Daśā and timing
 
-**P50. Birth daśā effect persists** → Ketu daśā at birth: injury-proneness for life (knocks, falls from bed); the skin caution in P33. **Stated by:** Teacher. **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
+**P9. Daśā and age timing**
+- **Principle:** (a) Always look at the **previous daśās**; the previous daśā affects the next. (b) The **last two antardaśās of a daśā** (e.g. Sun–Ketu, Sun–Venus at the end of the Sun daśā) are where change starts. (c) Calculate the age at the time of a daśā (Ketu daśā came at age 7–8). (d) Note the birth daśā. (e) Match a daśā with events (sealing during Ketu's closing daśā; business started in Jupiter daśā; Rahu daśā for business).
+- **Stated by:** T · **Shown in:** [[#Chart 1]], [[#Chart 3]], [[#Chart 4]], [[#Chart 5]]
 
-**P51. Time an event by the planet in/aspecting the house involved** → dental surgery (29 Jan 2025): Mercury sits in the 2nd, aspected by Mars and Saturn, with Rahu in the 2nd; so Mercury's period. **Stated by:** Teacher (applied). **Shown in:** [[#Chart 1]]. **Exceptions:** none stated.
+**P24. Jupiter's transit sign change**
+- **Principle:** As Jupiter shifts sign in October it will also see the 10th, supporting the chances of clearing the degree.
+- **Stated by:** T · **Shown in:** [[#Chart 2]]
 
-**P52. Moon daśā in a small child** → stomach trouble such as constipation. **Stated by:** Teacher. **Shown in:** [[#Chart 4]]. **Exceptions:** none stated.
+## 9. Combinations and yogas
 
-**P53. Current daśā affects current behaviour** → Jupiter mahādaśā – Mercury antardaśā gives special effect (Chart 1); "daśās also have an effect" on concentration (Chart 2). **Stated by:** Teacher. **Shown in:** [[#Chart 1]], [[#Chart 2]]. **Exceptions:** none stated.
+- **10th and 5th lords in lagna** (P14).
+- **Lagna lord with 3rd lord and Saturn in the 6th** (P7, P17).
 
 ## 10. Cancellations, exceptions and cautions
 
-**P54. Viparīta rājayoga is for the child, not for the maternal uncle.** **Stated by:** Vaibhav ✏️ corrected (he proposed it for the uncle's 6th lord in the 8th); Teacher's version. **Shown in:** [[#Chart 4]]. **Exceptions:** none stated.
+- Own-sign lagna lord in the 6th is "better" though a 6th placement is generally not good (Indrajit ji; teacher agreed).
+- Saturn good for career does not mean good for other matters (P16).
+- Not every Mercury lagna does business (P5).
+- Partnership: do not enter now; check actual positions of investment and work first (see P28).
 
-**P55. Strong (exalted) Saturn but father's struggle** → Saturn exalted in Libra with Rahu: father well settled, **yet** a struggle in the father's life, as Saturn's shadbala is a bit weak; to be read in the father chapter. **Stated by:** Teacher (speaker label unclear). **Shown in:** [[#Chart 2]]. **[conflict – see Chart 2]:** "Saturn strong" vs "struggle" is stated within the same remark and left unresolved.
+**P28. Partnership**
+- **Principle:** Before a partnership, understand the actual position: who invests, whether 50–50, or "I work, you invest."
+- **Stated by:** T · **Shown in:** [[#Chart 4]]
+
+## 11. Health, relationships and other cross-topic remarks
+
+- Health first (P26); Mars–6th/Moon (P25); Rahu in 8th (P27); combust Saturn → health (P17).
+- **P11. Sun in career and father's role.** When the career indicator leads to the Sun's sign (10th from the stronger of Sun/Moon), see whether the native worked with his father or in the father's work; the 10th-from-10th holding Sun/Mercury also shows father's impact on career. **Stated by:** T · **Shown in:** [[#Chart 1]], [[#Chart 3]]
+- **P22. Ketu in the 4th:** often studying away from home (and a possible break in education, "both possible"). **Stated by:** T (and ✅ Anju ji's "break") · **Shown in:** [[#Chart 3]], [[#Chart 4]] · "Deśa-kāla can explain it."
+- **P23. Mercury with Sun in a Mars sign (Scorpio):** from childhood sports and research. **Stated by:** T · **Shown in:** [[#Chart 3]]
+- **P31. Government job indicators:** Sun sitting in the house of growth of the 10th (even if weak in ṣaḍbala) may give a government-level job when the Sun's period comes; Sun in the 11th (Ankit ji's view, Chart 5) was left unanswered. **Stated by:** T (Chart 2); student ➖ (Chart 5)
+- **P10** – see section 1.
 
 ## 12. Remedies
 
-**P56. Carefulness** → do not trust friends blindly; take extreme care with paperwork (e.g. check the cupboard for termites or fungus before placing papers). **Stated by:** Teacher. **Shown in:** [[#Chart 3]]. **Exceptions:** none stated.
+- Meditation, worship of the Sun, Sun mantras, water offering to the Sun to raise morale (suggested by Vimala ji; teacher: "हाँ") – see Unconfirmed table.
+- Thumb/other remedies: none given in this class.
 
 ## 13. Teacher's closing summary of rules
 
-> [!SUMMARY]
-> No formal closing summary. The nearest closing statements: P3 (basic checklist for nature) and P4 (whole chart for any matter).
+- See the "Closing rule set" under Part 1 (P3).
 
-## Cross-references (headings 7, 9, 11)
-- **7. Divisional charts:** none stated.
-- **9. Combinations and yogas:** see P43 (conjunction may make a yoga), P45 (deferred), P54.
-- **11. Health and relationships:** see P1, P12, P14, P33, P44, P50, P52.
+**Count:** 31 principles (P1–P31): 27 stated/applied by the teacher; 3 student proposals confirmed (P13, P15, P27); 1 corrected (P18). Unconfirmed items: 14 (table below).
 
 ## Unconfirmed / contested
 
-| Proposed by | Proposal | Chart | Teacher's response (or "none") |
+| Proposed by | Proposal | Chart | Teacher's response |
 |---|---|---|---|
-| Anju B | Virgo lagna and Gemini Moon (Mercury signs) → intelligent; Sun in lagna → confidence | 1 | none |
-| Anju B | Rahu/Mars aspect → ego/anger; Mars in Jupiter's sign softens it | 1 | none |
-| Indrajeet | Mars and Saturn aspecting the lagna lord → trouble in their periods; Venus/Jupiter maraka | 1 | redirected; unclear |
-| Shri Prakash | Sun a nourisher → nurturing; lagna in artha trikoṇa → business sense | 1 | none |
-| Vaibhav | Rahu aspect / Saturn–Rahu → health issue; Mars's aspect on speech → sharp speech | 2 | unclear |
-| Sanjay | Ketu in 3rd / Moon with Ketu → difficulty in studies | 2 | none directly (later: daśā has an effect) |
-| Kiran | Moon in Aries → restless, careless; Saturn–Rahu → father relation; independent, spiritual | 2 | none |
-| Sanjay | Saturn's 7th and Mars's 8th aspect on the 3rd → dry, aloof with siblings, quarrels but compassion | 2 | none |
-| Vimala | Moon daśā with Ketu → mind not working; Mars in 2029 → comes out, anger may rise | 2 | none |
-| Anju A | Fixed sign, Mars-lord lagna/Moon, Saturn's aspect → determined, arrogance | 3 | "yes, fine" (general) |
-| Anju B | Mars in lagna → energetic, hard-working; Saturn aspect → secretive | 3 | none |
-| Sanjay | Mars's 7th aspect on Venus → quarrels with wife | 3 | "he is not married yet" |
-| Sanjay | Jupiter in 12th → spirituality; 8th influence → research mind | 3 | defer foreign/job to career |
-| Ujjwala | Mars in lagna → forceful; Moon in movable 6th → accepts change; Rahu → plans fail | 3 | "yes / telling it right" (general) |
-| Anju A | Four planets in 11th → money mind; possible parivrājaka / saṃnyāsa yoga | 3 | none; deferred to 4th class |
-
-**Count line:** 56 principles in total; 5 student-originated and confirmed (P10, P12, P13, P25, P32); 4 corrected (P4, P16, P20, P54); 47 stated by the teacher alone; 15 unconfirmed student proposals in the table.
+| Rajkumar ji | Good education; teaching/management/MBA line | 1 | Acknowledged ("ठीक है"), no comment on content |
+| Anju ji | Venus + Moon → creative/liquids; Mercury + Mars → writing, journalism | 1 | None |
+| Vimala ji | Sun worship, mantra, water offering for morale | 1 | "हाँ" |
+| Indrajit ji | Venus-related work (design) | 2 | None |
+| Indrajit ji | Retrograde Jupiter–Saturn in the 3rd → effort, little recognition | 2 | None |
+| Indrajit ji | 5th lord/5th house afflictions → break in education | 2 | None (owner family confirmed "yes, a break") |
+| Sanjay Srivastava ji | Mars's and Rahu's effects on the 10th → technical work; Saturn aspect on 12th → abroad | 2 | None |
+| Śrīprakāśa ji | Rahu in 10th, fixed sign → obstinate; Mars in 11th → 12th/8th work | 3 | None |
+| Anju ji | Lagna lord and 3rd lord in the 6th → competitive; Jupiter aspect on 4th → teachers' influence | 4 | None |
+| Śrīprakāśa ji | Vargottama Jupiter in Revatī → business thinking | 4 | None |
+| Dravin ji | Fixed signs → she will not like the job | 4 | "ठीक है" |
+| Indrajit ji | 10th lord in dual or movable sign → business-oriented | 4 | Partly answered ("lagna is Mercury's"; not every Mercury lagna does business) |
+| Ankit ji | Education struggles (4th/5th lords in own 8th; Moon in 6th) | 5 | None |
+| Ankit ji | Sun in the 11th → government job possible | 5 | None (teacher went on with Mercury) |
 
 ---
 
-# Open items
+# Part 3 – Open items (check against the charts)
 
-1. **Chart 1 Rahu/Ketu placement is inconsistent:** Rahu with Venus in the 12th (Leo)? Rahu in the 2nd (teacher)? Ketu in the 3rd ("acts as the 8th")? Mars and Rahu "in the 2nd and 12th signs"? Check against the chart.
-2. **Chart 1 daśā:** birth daśā Ketu, yet Jupiter mahādaśā – Mercury antardaśā is quoted at age ~6. The dental surgery (29 Jan 2025) period is "Mercury" as spoken; the daśā chain is unclear.
-3. **Chart 1:** birth time and place spelling ("Mount View") unclear. "Iṣṭa-kāla" (word for Mars *udāra*) and "artha trikoṇa" remark by Shri Prakash are unclear.
-4. **Chart 2:** date, time and place not given. Rahu's/Ketu's exact houses, Moon's house (3rd, with Ketu), Sun and Mercury in the 10th, Jupiter's sign (Sanjay said exalted and Mercury's sign – contradictory) to be checked.
-5. **Chart 2:** "18, 5, 26" read as 18 May 2026; Mars "in 2029" and "sadā-aṣṭaka [unclear] daśā" not resolved.
-6. **Chart 2:** the speaker label of the "father well settled / shadbala weak / struggle" remark (P55) reads as Anju A but sounds like the Teacher.
-7. **Chart 2:** the teacher's sentence on the Sun in Scorpio (reading 14) is incomplete; "something sits in the 10th" (reading 12) does not name the planet.
-8. **Chart 3:** Anju A's remarks "both exalted", "Venus debilitated", "Saturn twenty-nine point five" are unclear. The Kiran aspect/element remark about Aquarius "fire element" (Chart 2) was not commented on.
-9. **Chart 3 marital status** of the native: the teacher thought "not married yet" (possibly confusing it with Vimala's chart); Sanjay then said "married". Unresolved.
-10. **Chart 3:** the teacher's sentence on Mercury and confidence "my word is my signature" (reading 14) is unclear; "third from the house" for paperwork is unclear.
-11. **Chart 4:** Mars's aspect and Jupiter's 9th aspect on the Moon, Rahu in the 6th, and the teacher's incomplete sentence about the 6th lord (Jupiter) retrograde in the 8th are to be checked. Age: class date vs "about 1.5 years".
-12. **Shadbala values:** Mars 1.87 vs 2.01 (Chart 1), Sun 1.3 vs lower (Chart 2); teacher to check with another software. Not resolved in class.
-13. **Vimala's chart** (male, 30–31, unmarried) was announced but not taken.
-14. **Deferred topics (taught later):** career and government job (Chart 3), the effect of many planets together (4th class), foreign link (Chart 3), how the property event after birth was seen (Chart 4), gochara and aṣṭakavarga practice.
-15. **Name ambiguity:** the teacher addressed speaker_7 as "Vaibhav" and also as "Rajkumar"; speaker_2 said "I am Rajkumar" while addressed as Indrajeet. Labels here follow the first addressed name.
+1. **Rule for an empty 10th** – the original rule ("the same rule") was taught in an earlier class and is not restated here; P10 records only how it was applied.
+2. **Chart 1:** Ankit ji's birth daśā "Mercury–Rahu"; Venus/Sun daśā years as spoken (1980/81, "91 to 2001") conflict; "Sun daśā from 2025" was said while talking with Vimala ji; "eighth line" in the owner's reply on starting work; "सिमहस्त गुरु"; the 4th from the 4th "यह वाला भाव" (house not named); D9 placements.
+3. **Chart 1, conjunction method:** house numbers for the "career growth" question ("eighth… five, three, ten") are unclear.
+4. **Chart 2:** time "3:52 PM"/"15, 15"; Jupiter "in … नमाज में" (likely a navāṃśa/nakṣatra term, unclear); "from the Sun, seven, eight, nine, ten, Moon"; the first of the "two career possibilities"; "24 degree 45 minute" statement; whether "Sun–Venus" is a Rahu antardaśā or a Sun antardaśā; whose daughter/relative the chart is.
+5. **Chart 3:** the reason given for Jupiter in lagna meaning "not morning"; which speaker is Vimala ji vs another; Saturn as "8th lord in the 8th" plus "Saturn in Mercury's sign" — placements to verify; 10th-from-10th holding Sun and Mercury.
+6. **Chart 4:** birth year/time ("1926 shyam"), place spelling, the 11th/5th-house chain for the elder sister, Śrīprakāśa ji's contradictory sentence on "interest in business/job," Dravin ji's "mind in a fixed sign."
+7. **Chart 5:** age "41" vs 1982 birth; Rahu–Saturn start "25, 2, 27"; Śrīprakāśa ji's "in the 10th" remark; Sun "in the 2nd from itself/11th".
+8. **Speaker labels:** speaker_1 in the raw file mixes Ankit ji and Anju ji; speaker_10 is probably Vimala ji.
+9. **Privacy:** owners are named by first name only; health items are kept only where they were used in a reading.
