@@ -9,8 +9,9 @@
 
 | Slug | Name | Status |
 |---|---|---|
-| `hastarekha` | Hastarekha — Vedic Palmistry | Content exists in separate repo; will migrate later |
-| `pr-23` | 64 Principles of Community Building | Slides ready at `~/Downloads/64-principals-of-community-building/` |
+| `hastarekha` | Hastarekha — Vedic Palmistry | Mirrored chapters, notes, transcripts, JSON quizzes & flashcards |
+| `pr-23` | Astro Practice Batch 23 | Practicum lecture notes, chart studies, career & yogas |
+| `apa` | Applied Predictive Astrology (APA OL27) | Course notes & raw audio/video lecture transcripts |
 
 ---
 
@@ -135,8 +136,8 @@ my-notes/
 ```json
 {
   "slug": "pr-23",
-  "title": "64 Principles of Community Building",
-  "description": "A 30-day study of Srila Bhaktisiddhanta's 64 principles for a spiritual society, taught by HH Bhakti Dhira Damodara Swami Maharaja.",
+  "title": "Astro Practice Batch 23",
+  "description": "Astro Practice Batch 23",
   "icon": "🏛️",
   "color": "#7c5c2e",
   "language": "en",
@@ -182,32 +183,35 @@ my-notes/
 - [x] Identify first two courses: `hastarekha` and `pr-23`
 
 ### Phase 1 — Scaffold
-- [ ] Initialize Next.js project
-- [ ] Create folder structure (src/, content/, public/)
-- [ ] `_meta.json` files for both courses
-- [ ] AdminContext + AdminModal (port from hastarekha)
-- [ ] PrivateGuard stub
-- [ ] Home page: course listing
-- [ ] vercel.json + .env.local.example
+- [x] Initialize Next.js project
+- [x] Create folder structure (src/, content/, public/)
+- [x] `_meta.json` files for courses
+- [x] AdminContext + AdminModal (port from hastarekha)
+- [x] PrivateGuard stub
+- [x] Home page: course listing
+- [x] vercel.json + .env.local.example
 
-### Phase 2 — PR-23 Content
-- [ ] Copy `slides/ready/` and `slides/in-progress/` into `content/pr-23/slides/`
-- [ ] Slide viewer UI (day-by-day navigation)
-- [ ] Extract quizzes from slide files into `content/pr-23/quizzes/`
-- [ ] Flashcard deck builder for PR-23
+### Phase 2 — Slide Decks Content
+- [x] Copy `slides/ready/` and `slides/in-progress/` into `content/community-64/slides/`
+- [x] Slide viewer UI (day-by-day navigation, fullscreen, keyboard shortcuts, grid view)
+- [ ] Extract quizzes from slide files into `content/community-64/quizzes/`
+- [ ] Flashcard deck builder for community-64
 
 ### Phase 3 — Hastarekha Migration
-- [ ] Copy `chapters/` into `content/hastarekha/chapters/`
-- [ ] Copy `notes/` into `content/hastarekha/notes/`
-- [ ] Transcripts folder setup
-- [ ] Migrate quiz/flashcard TS files to JSON in `content/hastarekha/`
-- [ ] Chapter reader UI
+- [x] Copy `chapters/` into `content/hastarekha/chapters/`
+- [x] Copy `notes/` into `content/hastarekha/notes/`
+- [x] Transcripts folder setup
+- [x] Migrate quiz/flashcard TS files to JSON in `content/hastarekha/`
+- [x] Chapter reader UI
 
 ### Phase 4 — Polish
-- [ ] Quiz engine
-- [ ] Flashcard flip UI
-- [ ] Transcript viewer (admin-only)
-- [ ] Progress tracking (optional)
+- [x] Quiz engine
+- [x] Flashcard flip UI
+- [x] Transcript viewer (admin-only)
+- [x] Markdown callout block parsing (tables, lists, images)
+- [x] Course-wise search engine with 1-2 char fuzzy typo tolerance & diacritics stripping
+- [x] Global Cmd+K Command Palette & in-page Course Search Bar
+- [x] Per-course & per-type reading progress tracking & "where I left off" bookmarking (chapters, notes, slides, transcripts)
 
 ---
 

@@ -1,0 +1,464 @@
+{
+  "id": "29-marriage-line-02",
+  "slug": "29-marriage-line-02",
+  "title": "Hasta Sāmudrika Śāstra – Vivāha Rekhā (Marriage Line) Part 2 & Marital Yogas",
+  "summary": "Comprehensive mastery deck for Lecture 29 covering Vivāha Rekhā (Line of Union / Śīla-guṇa Rekhā) advanced combinations, divorce indicators (marriage line terminating on Venus Mount, wide downward branches), child lines (vertical upward lines, dark vs light lines, miscarriage signs), parallel relationship lines (pre-marital vs post-marital), island placement timing, Sun line intersection (intercaste marriage and loss of respect), widowhood mole signs, Mind line intersection (inter-religious marriage and post-childbirth divorce), Satī Yoga and harmonious marriage indicators, love vs arranged marriage criteria (hand types, Heart line endpoints, Moon influence lines, Mars mounts, Life-Head gap), and clinical business partnership consultation methodology (48-year-old female case study).",
+  "questions": [
+    {
+      "id": "ml2-qz-1",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "multiple",
+      "subtopic": "Anatomy & Classical Names",
+      "difficulty": "easy",
+      "question": "Which of the following are classical titles used in Hasta Sāmudrika for the Marriage Line? (Select all that apply)",
+      "options": [
+        "Vivāha Rekhā",
+        "Line of Union (Union Line)",
+        "Śīla-guṇa Rekhā (Character-Quality Line)",
+        "Kāma Rekhā"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "The lecture explicitly identifies three names: Vivāha Rekhā, Line of Union (Union Line), and Śīla-guṇa Rekhā (character and quality line). \"Kāma Rekhā\" is not taught in this lecture.",
+      "practicalTakeaway": "Recognize all three classical names: Vivāha Rekhā, Union Line, and Śīla-guṇa Rekhā."
+    },
+    {
+      "id": "ml2-qz-2",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Age Calculation",
+      "difficulty": "medium",
+      "question": "A client has a distinct Marriage Line running exceptionally close to the Heart Line. Applying the teacher's calculation method, what age does this indicate?",
+      "options": [
+        "Approximately 12.5 to 15 years",
+        "Exactly 25 years",
+        "Approximately 28 to 32 years",
+        "Infancy (under 5 years)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The midpoint of the Mercury mount represents 25 years. When running very close to the Heart Line, the teacher calculates half of 25 ≈ 12.5 years (up to 15 years), denoting early teenage attachment or child marriage.",
+      "practicalTakeaway": "A marriage line running hugging the Heart line indicates age 12.5–15."
+    },
+    {
+      "id": "ml2-qz-3",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "multiple",
+      "subtopic": "Early Relationships",
+      "difficulty": "hard",
+      "question": "Which combination of signs confirms an intense romantic relationship during teenage years? (Select all that apply)",
+      "options": [
+        "Marriage Line positioned very close to the Heart Line (~12.5–15 years)",
+        "Star on the Upper Mars Mount (especially in a female hand)",
+        "Disturbances (cuts, chains) at the start of both Life Line and Heart Line",
+        "Influence line from Moon Mount connecting to the Life Line",
+        "Deep trident on the Mount of Saturn"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "The complete diagnostic stack taught in Lecture 29 includes: marriage line hugging Heart line, star on Upper Mars (in female hand), starting disturbances on Life and Heart lines, and an influence line from Moon to Life line. A trident on Saturn is unrelated.",
+      "practicalTakeaway": "Combine low marriage line + Upper Mars star + starting line cuts + Moon influence line."
+    },
+    {
+      "id": "ml2-qz-4",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Divorce Formations",
+      "difficulty": "medium",
+      "question": "What is the crucial diagnostic difference between Lecture 28's Venus line and Lecture 29's downward-curving Marriage Line?",
+      "options": [
+        "In Lecture 28 an independent line from Venus cuts across the marriage line; in Lecture 29 the marriage line itself curves down and terminates on Venus Mount.",
+        "In Lecture 28 the line indicates divorce, whereas in Lecture 29 it indicates childbirth.",
+        "In Lecture 28 the line touches the Moon mount, whereas in Lecture 29 it touches Saturn.",
+        "There is no difference; both are identical formations."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher emphasized this explicit distinction: In the previous class, a separate line from Venus Mount crossed/cut the marriage line (in-law interference). In this class, the marriage line itself descends across the palm and terminates on Venus Mount, forming a definitive divorce combination.",
+      "practicalTakeaway": "Line from Venus cutting = outside in-law trouble; Marriage line itself ending on Venus = divorce."
+    },
+    {
+      "id": "ml2-qz-5",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Divorce Formations",
+      "difficulty": "medium",
+      "question": "If the Marriage Line bends down to terminate on the Venus Mount in BOTH hands, what clinical deduction is made?",
+      "options": [
+        "The divorce was pre-decided from the outset (the native entered marriage with a separation mindset).",
+        "The native will have two simultaneous happy marriages.",
+        "The divorce was forced entirely by sudden economic bankruptcy.",
+        "The couple will reconcile permanently after 10 years."
+      ],
+      "correctAnswer": 0,
+      "explanation": "When seen in both hands, the teacher states the divorce was pre-decided — the person entered the marriage with a conscious or subconscious intention/decision that they would divorce.",
+      "practicalTakeaway": "Bilateral presentation of marriage line on Venus indicates divorce was pre-decided."
+    },
+    {
+      "id": "ml2-qz-6",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "scenario",
+      "scenario": "A 34-year-old client shows a Marriage Line that proceeds straight for most of its length and then suddenly drops down at an abrupt 90-degree angle to the Venus Mount.",
+      "subtopic": "Divorce Formations",
+      "difficulty": "medium",
+      "question": "How should the palmist interpret the abrupt shape of this downward drop?",
+      "options": [
+        "A sudden, unexpected catastrophe or shock rupture in the marriage.",
+        "A chronic, gradual buildup of incompatibility over decades.",
+        "A long, planned separation with amicable mutual consent.",
+        "A sudden overseas relocation that strengthens the bond."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher states: If it runs straight then suddenly drops down, it signifies a sudden problem/catastrophe. A slow, gradual curve indicates trouble that builds up continuously over time.",
+      "practicalTakeaway": "Sudden drop = sudden unexpected crisis; gradual slope = chronic slow decay."
+    },
+    {
+      "id": "ml2-qz-7",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Children Lines",
+      "difficulty": "easy",
+      "question": "When vertical lines rise UPWARD from the Marriage Line, what do they represent, and how is gender differentiated?",
+      "options": [
+        "They represent children lines (Santāna Rekhā); darker lines indicate boys, lighter lines indicate girls.",
+        "They represent career milestones; darker lines mean business, lighter lines mean job.",
+        "They represent financial debts; darker lines indicate major bankruptcy.",
+        "They represent extramarital partners; darker lines indicate longer affairs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vertical lines rising upward from the Marriage Line represent children lines. Darker/deeper lines signify male children (boys), while lighter/finer lines signify female children (girls).",
+      "practicalTakeaway": "Upward vertical lines = children; dark = boy, light = girl."
+    },
+    {
+      "id": "ml2-qz-8",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "multiple",
+      "subtopic": "Children Lines",
+      "difficulty": "medium",
+      "question": "Which signs associated with child lines or the thumb indicate complications regarding progeny? (Select all that apply)",
+      "options": [
+        "Multiple fine, broken child lines indicating multiple miscarriages or abortions",
+        "A cut, cross, or island on a child line indicating severe illness from birth or a stillborn child",
+        "Afflictions or absence of chains on the Family Ring at the base of the thumb",
+        "A solitary dark, straight upward child line without cuts"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Multiple broken lines indicate miscarriages/abortions. Cuts or islands on child lines indicate congenital health issues or stillbirth. The family ring on the thumb corroborates child-bearing karma. A single dark clear line indicates a healthy male child.",
+      "practicalTakeaway": "Cuts/islands on child lines = birth complications or stillbirth; check thumb family ring."
+    },
+    {
+      "id": "ml2-qz-9",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "scenario",
+      "scenario": "A male client has a primary Marriage Line at age 28. Running parallel directly BELOW it is a faint line, and running directly ABOVE it is another distinct parallel line.",
+      "subtopic": "Parallel Relationship Lines",
+      "difficulty": "medium",
+      "question": "Applying the age scale (0–50), what does the presence of parallel lines on both sides indicate?",
+      "options": [
+        "Relationships/attachments both before marriage (line below) and continuing after marriage (line above).",
+        "Three consecutive legal marriages occurring every 5 years.",
+        "Severe lung and respiratory disease before and after marriage.",
+        "Total celibacy and aversion to women throughout life."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lines below the main marriage line indicate attachments before marriage; lines above indicate relationships continuing after marriage. Lines on both sides signify attachments both before and after marriage.",
+      "practicalTakeaway": "Lines below = pre-marital attachments; lines above = post-marital relationships."
+    },
+    {
+      "id": "ml2-qz-10",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Parallel Relationship Lines",
+      "difficulty": "medium",
+      "question": "Which astrological placement does the teacher compare to having multiple lines around the Marriage Line?",
+      "options": [
+        "Moon in the 7th house (romantic/sensual inclination)",
+        "Saturn in the 8th house",
+        "Sun in the 1st house",
+        "Ketu in the 12th house"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher explains that instead of making harsh accusations, one can describe the native as having an inherent romantic inclination (jhukāv), directly comparable to having the Moon in the 7th house in astrology.",
+      "practicalTakeaway": "Multiple lines around marriage line = Moon in 7th house type romantic inclination."
+    },
+    {
+      "id": "ml2-qz-11",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Defect Marks",
+      "difficulty": "easy",
+      "question": "An island is situated at the very START of the Marriage Line near the outer edge of the palm. What does this predict?",
+      "options": [
+        "Problems prior to marriage: engagement disputes, sudden obstacles, or wedding almost finalized then breaking.",
+        "A peaceful divorce occurring at age 65.",
+        "The birth of healthy twins.",
+        "Inheritance of vast ancestral property from in-laws."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Island at the start = problems before marriage (trouble during engagement, sudden cancellation, family opposition). Middle island = middle phase; End island = final phase.",
+      "practicalTakeaway": "Island at start = pre-marital crisis or broken engagement."
+    },
+    {
+      "id": "ml2-qz-12",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Unorthodox Unions",
+      "difficulty": "medium",
+      "question": "What is the diagnostic significance when the Marriage Line extends across the Mount of Apollo to cut through the Sun Line?",
+      "options": [
+        "Intercaste marriage accompanied by a loss of social honour/respect (mān-sammān).",
+        "Winning a royal title through marriage.",
+        "Spouse becoming a famous government cabinet minister.",
+        "Instant wealth without any social controversy."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher states: A marriage line cutting across the Sun line signifies an intercaste marriage and a loss of honour/respect (mān-sammān), because the Sun line of prestige is severed by the marriage line.",
+      "practicalTakeaway": "Marriage line cutting Sun line = intercaste marriage + loss of social prestige."
+    },
+    {
+      "id": "ml2-qz-13",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Defect Marks",
+      "difficulty": "medium",
+      "question": "What specific severe affliction does a mole (til) located directly on the Marriage Line indicate?",
+      "options": [
+        "A classical Widowhood Yoga (vaidhavya yoga) or severe tragedy to spouse.",
+        "Extravagant financial wealth through marriage.",
+        "Birth of five sons.",
+        "A spouse who is a world-renowned diplomat."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher states that a mole does not indicate a good event anywhere on the hand, and a mole directly on the marriage line forms a widowhood yoga.",
+      "practicalTakeaway": "Mole on marriage line = widowhood yoga / tragic spousal loss."
+    },
+    {
+      "id": "ml2-qz-14",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "scenario",
+      "scenario": "A client's Marriage Line slopes downwards, crosses the Heart Line, and merges into the Mind (Head) Line.",
+      "subtopic": "Inter-Religious Marriage",
+      "difficulty": "hard",
+      "question": "What two specific events does this configuration signify?",
+      "options": [
+        "Partners of different religions, followed by divorce after a child is born due to religious upbringing disputes.",
+        "Arranged marriage within same caste, followed by permanent ascetic renunciation.",
+        "Spouse will become a judge, and the couple will adopt three children.",
+        "Lifelong happy marriage with zero domestic friction."
+      ],
+      "correctAnswer": 0,
+      "explanation": "When the marriage line crosses the heart line to touch or join the mind line, the teacher gives two connected readings: (1) partners of different religions, and (2) divorce occurring after a child is born due to disputes over the child's religious upbringing.",
+      "practicalTakeaway": "Marriage line touching Head line = inter-religious marriage + divorce after childbirth."
+    },
+    {
+      "id": "ml2-qz-15",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Second Marriage",
+      "difficulty": "medium",
+      "question": "How does the palm display a combination for a second marriage?",
+      "options": [
+        "The main marriage line ends, and another line starts ABOVE it and proceeds inward.",
+        "The main marriage line splits into 10 downward branches.",
+        "A star appears at the center of the Mount of Saturn.",
+        "A line starts below the marriage line and touches the wrist."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher explains: The marriage line goes along and ends, and another line starts above it and goes inward. The first marriage experiences disturbances, the native resolves to remarry, and the second line emerges above.",
+      "practicalTakeaway": "Second line starting above the main marriage line = second marriage."
+    },
+    {
+      "id": "ml2-qz-16",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Defect Marks",
+      "difficulty": "medium",
+      "question": "A Marriage Line terminates in a fork (--<) AND is intersected by an obstacle line arriving from the Venus Mount. What is the reading?",
+      "options": [
+        "Family and in-law interference becomes the cause of domestic ruin and marital breakdown.",
+        "The native moves to a foreign country and expands their business tenfold.",
+        "The native becomes an ascetic monk in a forest.",
+        "The native inherits vast lands from maternal uncles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher states: A fork at the end alone is not bad; however, combined with a line cutting across it from the Venus Mount (life line side), it indicates that family/household relatives cause severe disruption in married life.",
+      "practicalTakeaway": "Terminal fork + cutting line from Venus = family/in-law interference spoils marriage."
+    },
+    {
+      "id": "ml2-qz-17",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Protective Yogas",
+      "difficulty": "medium",
+      "question": "What happens when a Marriage Line has gaps and up-and-down disturbance lines, but is enclosed by a distinct Square?",
+      "options": [
+        "The marriage experiences severe crises, but the square provides divine protection so the bond recovers and steadies.",
+        "The square causes the native to become a real estate mogul after three divorces.",
+        "The square indicates instant judicial imprisonment of the spouse.",
+        "The square completely erases all relationship memories."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The up-and-down lines and gaps show turbulence, but the square provides protection — the deteriorating married life recovers and steadies through the bad phase.",
+      "practicalTakeaway": "Square over breaks/gaps = protection; preserves marriage through crisis."
+    },
+    {
+      "id": "ml2-qz-18",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Downward Branches",
+      "difficulty": "medium",
+      "question": "How does the distance of a downward branch from the main Marriage Line alter the marital prognosis?",
+      "options": [
+        "A wide distance between the branch and main line can cause divorce; a close/faint branch causes distress but divorce is not necessary.",
+        "A wide distance indicates lifelong happiness; a close branch causes instant divorce.",
+        "A wide distance means 4 children; a close branch means no children.",
+        "Distance has no prognostic significance in palmistry."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The lecture table states: Wide distance between downward branch and main line = can cause divorce. Close and faint small branch = situation will be bad, but divorce is not necessary.",
+      "practicalTakeaway": "Wide downward branch = high divorce risk; faint close branch = trouble without divorce."
+    },
+    {
+      "id": "ml2-qz-19",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Good Marriage Yogas",
+      "difficulty": "hard",
+      "question": "Even if a client's Marriage Line looks severely defective, which single sign (especially in a female hand) gives immense power of recovery in married life?",
+      "options": [
+        "A well-formed Cross on the Mount of Jupiter (Guru Parvata)",
+        "A black mole on the Mount of Venus",
+        "A downward drooping Heart Line",
+        "A grid of lines on the Mount of Saturn"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher states: A cross on Jupiter, especially in a female hand, increases the chances of recovery in married life even if the marriage line looks very bad.",
+      "practicalTakeaway": "Jupiter Cross (especially female) = supreme saviour sign for troubled marriage."
+    },
+    {
+      "id": "ml2-qz-20",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "multiple",
+      "subtopic": "Classical Yogas",
+      "difficulty": "hard",
+      "question": "Which of the following palm characteristics form the classical Satī Yoga for an exceptionally devoted and blessed married life? (Select all that apply)",
+      "options": [
+        "Jupiter Mount well-developed and unblemished",
+        "Fingers long and beautiful/fine",
+        "Palm soft, resembling a refined female hand",
+        "No crooked fingers, especially a straight Jupiter finger",
+        "Venus Mount in good, healthy condition",
+        "Severely hard palm with short, crooked fingers"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Satī Yoga explicitly requires: good Jupiter mount, long and fine fingers, soft female-like hand texture, straight fingers (no crooked Jupiter finger), and a well-developed Venus mount. A hard palm with crooked fingers destroys the yoga.",
+      "practicalTakeaway": "Satī Yoga = good Jupiter + long fine fingers + soft palm + straight fingers + healthy Venus."
+    },
+    {
+      "id": "ml2-qz-21",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Career & Marriage Link",
+      "difficulty": "medium",
+      "question": "Why did the teacher insist that a palmist MUST evaluate the Fate Line in a male hand when analyzing marriage?",
+      "options": [
+        "Because financial stability and career are essential for marriage; without livelihood, even good marriage lines fail to materialize into lasting marriage.",
+        "Because the Fate Line shows the wife's physical height.",
+        "Because the Fate Line replaces the Venus mount in male palms.",
+        "Because the Fate Line only counts the number of in-laws."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher concurred with the student: Career is necessary for marriage; without career there are disputes. Many hands have a good marriage line but no career → marriages do not happen. Always evaluate the fate line.",
+      "practicalTakeaway": "In male hands, always evaluate Fate line; career stability is essential for marriage."
+    },
+    {
+      "id": "ml2-qz-22",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Love vs Arranged",
+      "difficulty": "medium",
+      "question": "A client has a Heart Line that curves upwards onto the Mount of Jupiter and terminates right towards the outer edge of the palm. What emotional disposition does this show?",
+      "options": [
+        "The native becomes emotionally immersed and \"blind in love\", with high susceptibility to love marriage.",
+        "The native is entirely cold, cynical, and incapable of romance.",
+        "The native will only marry for corporate business mergers.",
+        "The native will become an ascetic hermit before age 20."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The table states: Heart line going to Jupiter, very slightly curved towards palm edge = becomes \"blind in love\" and highly emotional, though still carrying an underlying awareness of long-term suitability.",
+      "practicalTakeaway": "Heart line curving to edge on Jupiter = emotionally blind in love / love marriage."
+    },
+    {
+      "id": "ml2-qz-23",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Disturbed Marriage",
+      "difficulty": "hard",
+      "question": "Under what exact criteria is a pattern on the Venus Mount classified as a true Grille (Jālī) that causes domestic anxiety?",
+      "options": [
+        "At least 3 vertical and 3 horizontal lines, and all must be of the SAME darkness/depth.",
+        "Any random cross of two faint lines.",
+        "A single vertical line crossed by five horizontal lines.",
+        "Lines that only appear during the summer season."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher gives a precise technical definition: A grille must have at least 3 vertical and 3 horizontal lines, and ALL must be of the same darkness. If one is light and one dark, it is not a grille.",
+      "practicalTakeaway": "True Venus Grille = at least 3x3 lines of EQUAL darkness; denotes chronic marital anxiety."
+    },
+    {
+      "id": "ml2-qz-24",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "multiple",
+      "subtopic": "Clinical Case Study",
+      "difficulty": "hard",
+      "question": "In the case of Dravin ji's 48-year-old female client seeking a partnership business, which four diagnostic inquiries did the teacher instruct the palmist to verify? (Select all that apply)",
+      "options": [
+        "What specific industry/domain is the business (ruling planet: Jupiter, Mars, etc.)?",
+        "What will the client's active daily operational role be?",
+        "What is the financial capital split (50–50 or single investor)?",
+        "What is the gender and familial relationship of the prospective business partner?",
+        "What is the client's favorite gemstone color?"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "The teacher laid down four essential case consultation questions: (1) Which business / planetary domain, (2) Client's active role, (3) Who invests / capital split, and (4) Partner's gender and whether they are family or outsider.",
+      "practicalTakeaway": "Always verify industry domain, client role, capital split, and partner identity."
+    },
+    {
+      "id": "ml2-qz-25",
+      "sourceNoteId": "29 - Marriage Line 02.md",
+      "type": "single",
+      "subtopic": "Clinical Consultation Protocol",
+      "difficulty": "hard",
+      "question": "When projecting future business prospects for the 48-year-old client, what calculation protocol was ordered by the teacher?",
+      "options": [
+        "Calculate age 48 on both Life Line and Fate Line, project 4–5 years forward (to ~53), and inspect for cutting Mars lines.",
+        "Only read the palm lines up to age 25 and ignore all later lines.",
+        "Rely entirely on the client's birth date without examining palm lines.",
+        "Advise immediate resignation from her current employment regardless of lines."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The teacher instructed: Calculate age 48 and look at least 4–5 years ahead (after 48) on both the Life Line and Fate Line; check whether any lines from Mars are cutting those lines during that age window.",
+      "practicalTakeaway": "Project 4–5 years forward from current age on Life and Fate lines to audit Mars obstacle cuts."
+    }
+  ]
+}

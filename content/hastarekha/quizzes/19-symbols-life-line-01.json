@@ -1,0 +1,899 @@
+{
+  "id": "19-symbols-life-line-01",
+  "slug": "19-symbols-life-line-01",
+  "title": "Signs & Symbols and Jīvana Rekhā (Life Line) – Part 01",
+  "summary": "Comprehensive active recall flashcard deck and multi-format practical quiz for Lecture 19: General rules for signs and symbols, Dot vs Circle, Cross on Jupiter exception, Star, Island & Habituation, Square (Protection & Property), Line Quality rules, Life Line fundamentals & roadmap analogy, Venus space & expansion, Moon/Sun/Saturn trajectories, Forks vs Islands, Inward setbacks, Preparatory lines, Supportive vs Parasite lines, and live case studies.",
+  "questions": [
+    {
+      "id": "sym-life-qz-1",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "multiple",
+      "subtopic": "General Rules for Signs",
+      "difficulty": "medium",
+      "question": "According to the general rules taught in Lecture 19, where should a palmist look for signs and symbols, and where should they NOT look? (Select all that apply)",
+      "options": [
+        "Look on the palm mounts (parvat)",
+        "Look on the palm lines (rekhā)",
+        "Look on the fingernails and knuckles for permanent geometric symbols",
+        "Do NOT look on the fingers or thumb for symbols, as they will not be clear",
+        "Look exclusively on the wrist skin creases"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Signs and symbols are evaluated strictly ON THE PALM — on the mounts and lines. The lecture explicitly directs students NOT to search on fingers or the thumb.",
+      "practicalTakeaway": "Confine symbol detection to the palm mounts and main lines."
+    },
+    {
+      "id": "sym-life-qz-2",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "General Rules for Signs",
+      "difficulty": "easy",
+      "question": "True or False: A sign or symbol observed on a palm mount can provide an exact, accurate life prediction entirely on its own.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! The lecture explicitly states: \"No prediction from a sign alone.\" To predict, the age scale on the relevant lines must be calculated to determine at what time the event happens.",
+      "practicalTakeaway": "Symbols provide the qualitative theme; line timing provides the date."
+    },
+    {
+      "id": "sym-life-qz-3",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "General Rules for Signs",
+      "difficulty": "easy",
+      "question": "What should a palmist do when encountering very faint, minor, indistinct marks on a client’s hand?",
+      "options": [
+        "Magnify them 100x and predict major disasters",
+        "Leave them out of consideration, as faint marks frequently fade before the age of the event arrives",
+        "Assume they indicate past life curses",
+        "Charge extra for deciphering microscopic lines"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Faint minor signs are ignored. They often fade away naturally before the relevant age arrives.",
+      "practicalTakeaway": "Only prominent, clear signs carry reliable predictive weight."
+    },
+    {
+      "id": "sym-life-qz-4",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "General Rules for Signs",
+      "difficulty": "medium",
+      "question": "What did the teacher teach regarding the ancient folk belief that closing the fist over a Mole (Til) brings wealth?",
+      "options": [
+        "Confirmed: It guarantees sudden wealth",
+        "Debunked: A mole on the palm is a NEGATIVE sign that indicates health issues, with nothing to do with wealth",
+        "It only brings wealth on Tuesdays",
+        "It only works for left-handed individuals"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The teacher explicitly rejected the folk myth. A mole on the palm is a negative sign that causes health trouble, and has nothing to do with wealth.",
+      "practicalTakeaway": "A mole on the palm is a health warning, never a wealth blessing."
+    },
+    {
+      "id": "sym-life-qz-5",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "General Rules for Signs",
+      "difficulty": "medium",
+      "question": "Which temporary mark on the body was taught as a genuine indication of short-term wealth influx (3-month window)?",
+      "options": [
+        "A red mole on the wrist",
+        "A white dot on the fingernails",
+        "A black mole inside the Life Line",
+        "A blue vein on the Mount of Venus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The white dot on the nails represents the \"three-month\" wealth concept taught earlier, which was personally validated by Jīvesh ji.",
+      "practicalTakeaway": "White dot on fingernail = transient wealth indication."
+    },
+    {
+      "id": "sym-life-qz-6",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Specific Signs",
+      "difficulty": "medium",
+      "question": "Why are white spots on the palm ignored in Samudrika readings?",
+      "options": [
+        "They represent permanent royal scars",
+        "They are non-permanent marks caused by digestive disturbances or sleep deprivation",
+        "They only appear on elderly palms",
+        "They represent silver jewelry wear"
+      ],
+      "correctAnswer": 1,
+      "explanation": "White spots on the palm are temporary and non-permanent, commonly caused by poor digestion or incomplete sleep. Only black, blue, and red spots are considered.",
+      "practicalTakeaway": "White spots = sleep/digestive transient flags, not permanent signs."
+    },
+    {
+      "id": "sym-life-qz-7",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Specific Signs",
+      "difficulty": "easy",
+      "question": "How do a Dot and a Circle differ in palmistry?",
+      "options": [
+        "A Dot is hollow inside and positive; a Circle is solid and negative",
+        "A Dot is solid/filled (negative sign for ill health); a Circle is empty/hollow inside (positive sign)",
+        "Both are identical in meaning and polarity",
+        "A Dot only appears on lines; a Circle only appears on nails"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Dot is solid/filled (including deep marks and moles) and is negative. A Circle is hollow/empty inside and is a positive sign.",
+      "practicalTakeaway": "Filled = Negative Dot; Hollow = Positive Circle."
+    },
+    {
+      "id": "sym-life-qz-8",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Specific Signs",
+      "difficulty": "medium",
+      "question": "On which mount is a Circle considered an exceptionally auspicious and rare symbol?",
+      "options": [
+        "Saturn Mount",
+        "Sun Mount",
+        "Lower Mars Mount",
+        "Moon Mount"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Circle on the Sun Mount is considered very good and is an exceptionally rare sign in palmistry.",
+      "practicalTakeaway": "Sun Mount circle = Rare and highly auspicious."
+    },
+    {
+      "id": "sym-life-qz-9",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "Specific Signs",
+      "difficulty": "easy",
+      "question": "True or False: When the Fate Line naturally crosses through the Heart Line, that intersection counts as an auspicious Cross symbol.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! Lines merely crossing each other in their ordinary courses (e.g. Fate Line crossing Heart Line) do NOT count as a cross symbol. A true cross appears as an independent mark.",
+      "practicalTakeaway": "Normal line traffic intersections must never be misread as Cross symbols."
+    },
+    {
+      "id": "sym-life-qz-10",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Specific Signs",
+      "difficulty": "easy",
+      "question": "What is the ONLY mount on the palm where a Cross is considered positive and auspicious?",
+      "options": [
+        "Saturn Mount",
+        "Jupiter Mount",
+        "Venus Mount",
+        "Mercury Mount"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Jupiter Mount is the unique sanctuary where a Cross is positive — blessing married life and educational achievements. Everywhere else, it indicates trouble, disease, or accidents.",
+      "practicalTakeaway": "Jupiter Mount is the sole positive haven for a Cross."
+    },
+    {
+      "id": "sym-life-qz-11",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Specific Signs",
+      "difficulty": "medium",
+      "question": "What does a Star (nakṣatra cihna) on Lower Mars typically indicate?",
+      "options": [
+        "Global political acclaim",
+        "Accidents, teenage romantic turmoil, and bad health",
+        "Immunity from all physical injury",
+        "Immediate wealth inheritance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Star is formed by multiple intersecting lines (amplified negativity). On Lower Mars, it indicates accidents, teenage love affair turmoil, and acute health issues.",
+      "practicalTakeaway": "Star on Lower Mars = accidents, emotional turbulence, health affliction."
+    },
+    {
+      "id": "sym-life-qz-12",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "Specific Signs",
+      "difficulty": "easy",
+      "question": "True or False: An Island (dvīpa) can form both on palm lines and across palm mounts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! The lecture is emphatic: Islands appear ONLY ON LINES, never on mounts.",
+      "practicalTakeaway": "Islands exist exclusively on lines."
+    },
+    {
+      "id": "sym-life-qz-13",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Specific Signs",
+      "difficulty": "medium",
+      "question": "How is the duration and astrological meaning of an Island on a line interpreted?",
+      "options": [
+        "It denotes 1 year of luck for every centimeter",
+        "The physical length over which the island extends equals the number of years of struggle, paralleling the 6th, 8th, and 12th houses",
+        "It denotes marriage timing",
+        "It indicates foreign travel duration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The length over which an island extends marks the duration of struggle in years. The teacher linked this directly to the 6th, 8th, and 12th bhāvas in astrology.",
+      "practicalTakeaway": "Island length = years of struggle in that line’s domain."
+    },
+    {
+      "id": "sym-life-qz-14",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "scenario",
+      "subtopic": "Specific Signs",
+      "difficulty": "hard",
+      "question": "During a consultation, you identify a 12-year-long island on a client’s Life Line. When you ask them about the severe hardship during those years, they casually reply: \"Nothing special happened, life was completely normal.\" How do you explain this response using Lecture 19 principles?",
+      "options": [
+        "The island was completely fake and palmistry failed",
+        "Habituation rule: Living inside prolonged hardship for 10–15 years makes it a routine baseline; the client became so accustomed to the struggle that it no longer felt like an unusual crisis",
+        "The client is deliberately lying to deceive you",
+        "Islands only affect the native after age 70"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lecture highlights this exact \"habituation\" phenomenon: after living in an island for 10–15 years, a person becomes used to it, and habit no longer feels like trouble.",
+      "practicalTakeaway": "Chronic long-term struggle becomes perceived as \"normal\" baseline."
+    },
+    {
+      "id": "sym-life-qz-15",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "Specific Signs",
+      "difficulty": "medium",
+      "question": "True or False: A continuous chain of small loops at the very beginning of the Life Line near the thumb should be counted as individual islands.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! The teacher specified that clusters/bunches (gucche) at the start of the Life Line are common to almost everyone, representing general childhood struggle (ages 0–15), not separate islands.",
+      "practicalTakeaway": "Origin chains = childhood formative struggle, not individual islands."
+    },
+    {
+      "id": "sym-life-qz-16",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "multiple",
+      "subtopic": "Specific Signs",
+      "difficulty": "medium",
+      "question": "Which of the following are classical indications of a genuine, independent Square symbol? (Select all that apply)",
+      "options": [
+        "A sign of protection that provides a way out of crisis",
+        "A sign of property purchase / real estate acquisition",
+        "On the Jupiter Mount, capacity to teach and guide others",
+        "A guarantee that the person will suffer imprisonment",
+        "An automatic indication of twin births"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "A Square is the sign of protection (salvation from trouble) and property purchase. On Jupiter, it indicates the capacity to teach and mentor others.",
+      "practicalTakeaway": "Square = Protection shield + Property purchase + Mentorship capability."
+    },
+    {
+      "id": "sym-life-qz-17",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "multiple",
+      "subtopic": "Line Quality Rules",
+      "difficulty": "medium",
+      "question": "Before attempting any line reading, which line conditions are classified as \"Not Good\"? (Select all that apply)",
+      "options": [
+        "Very light / faint lines",
+        "Very dark, thick, blackish, flat spread lines (\"bleeding line\")",
+        "Broken lines that terminate and restart repeatedly (\"breaking line\")",
+        "A clean, moderately deep, continuous normal line"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Faint lines, bleeding lines (overly thick/dark/spread), and broken lines are all classified as \"Not Good.\" A normal, balanced line is required for positive results.",
+      "practicalTakeaway": "Line quality must be evaluated before reading line content."
+    },
+    {
+      "id": "sym-life-qz-18",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "Line Quality Rules",
+      "difficulty": "easy",
+      "question": "True or False: If the overall texture, mounts, and quality of a client’s hand are royal and excellent, a broken, bleeding line will still produce positive results.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! \"Even if the quality of the hand is excellent, if the line is bad, the result is not good.\"",
+      "practicalTakeaway": "Defective line quality always degrades the predicted outcome."
+    },
+    {
+      "id": "sym-life-qz-19",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "Life Line Fundamentals",
+      "difficulty": "easy",
+      "question": "True or False: A short Life Line unequivocally proves that the person will die at a young age.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! The lecture emphatically instructs: \"Remove the notion that the Life Line is merely a line for calculating age... it alone does not determine longevity.\" Short lines indicate immunity and vitality level.",
+      "practicalTakeaway": "A short Life Line indicates immunity/vitality, NOT premature death."
+    },
+    {
+      "id": "sym-life-qz-20",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "multiple",
+      "subtopic": "Life Line Fundamentals",
+      "difficulty": "medium",
+      "question": "What can an abrupt termination or very short Life Line actually indicate? (Select all that apply)",
+      "options": [
+        "A major life transformation at that age",
+        "Potential complications in childbirth",
+        "Acute health or immunity challenges",
+        "Instant spiritual liberation at age 20"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "A short Life Line can signify a major life transformation where the line ends, childbirth complications, or immunity/health hurdles.",
+      "practicalTakeaway": "Short Life Line points to major life shifts, childbirth, or immunity issues."
+    },
+    {
+      "id": "sym-life-qz-21",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Life Line Fundamentals",
+      "difficulty": "medium",
+      "question": "In the lecture’s astrological analogy, what does the Life Line function as in relation to other lines?",
+      "options": [
+        "A fleeting sub-period (Pratyantardasha)",
+        "A broad road map and playing sphere (dāyarā), functioning like a Mahādaśā that sets the scope for all events",
+        "An isolated transit of the Moon",
+        "A retrograde Saturn aspect"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Life Line establishes the macro road map and sphere of life (dāyarā), just like a Mahādaśā sets the playing field in astrology.",
+      "practicalTakeaway": "Life Line = Mahādaśā-level life road map."
+    },
+    {
+      "id": "sym-life-qz-22",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Life Line Fundamentals",
+      "difficulty": "medium",
+      "question": "Why is the Life Line also traditionally named the Pitṛ Rekhā?",
+      "options": [
+        "It measures how many sons the native will have",
+        "It speaks about the native’s father — disturbances, islands, or smoothness on the line mirror the father’s circumstances alongside the native’s life",
+        "It indicates ancestral land lawsuits only",
+        "It is named after the planetary deity Jupiter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In classical Samudrika and as explained in the lecture, the Life Line is also called Pitṛ Rekhā because it reflects the father's conditions and influence on the native.",
+      "practicalTakeaway": "Life Line simultaneously reflects the father’s circumstances and state."
+    },
+    {
+      "id": "sym-life-qz-23",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "scenario",
+      "subtopic": "Life Line Fundamentals",
+      "difficulty": "hard",
+      "question": "A 25-year-old client shows clear clusters and chains at the start of the Life Line on their active right hand, but their inactive left hand shows a smooth, pristine origin. How does the palmist interpret this contrast?",
+      "options": [
+        "The client has two biological fathers",
+        "At birth, the native received excellent constitutional health and vitality from God, but inadequate upbringing, improper food, or environmental neglect in childhood compromised their health",
+        "The client will become an actor",
+        "Left hand signs are always invalid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lecture explains: at birth vitality was very good in the destiny hand, but due to childhood environment and care not being optimal, health had problems in the active hand.",
+      "practicalTakeaway": "Destiny hand = innate endowment; Active hand = experiential environment."
+    },
+    {
+      "id": "sym-life-qz-24",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Venus Space & Expansion",
+      "difficulty": "medium",
+      "question": "Why is the physical space and territory allocated to the Venus Mount by the Life Line so essential?",
+      "options": [
+        "It measures the client's bone density",
+        "It determines the comfort of life and capacity to actually enjoy wealth; a small space means living in constant rush despite having comforts",
+        "It shows how many cars the client will own",
+        "It indicates the number of brothers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Space decides the comfort of life. A small range means that even if a house has AC, cars, and money, the person cannot enjoy life and remains trapped in routine running around.",
+      "practicalTakeaway": "Venus space governs capacity to experience and enjoy life comfort."
+    },
+    {
+      "id": "sym-life-qz-25",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "multiple",
+      "subtopic": "Venus Space & Expansion",
+      "difficulty": "medium",
+      "question": "What psychological and behavioral qualities accompany a wide, expansive Life Line sweep granting large territory to Venus? (Select all that apply)",
+      "options": [
+        "Kindness and empathy (dayālutā)",
+        "Humility of nature",
+        "Broad-minded ambition (\"I won't live like a frog in a well\")",
+        "Desire to explore the world, travel, and expand beyond routine circles",
+        "Miserliness and extreme fear of spending money"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "A wide Venus sweep reflects kindness, humility, big-picture thinking, travel, and a desire to venture into the world.",
+      "practicalTakeaway": "Wide Venus = Kindness, humility, broad thinking, and world exploration."
+    },
+    {
+      "id": "sym-life-qz-26",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Mount Trajectory & Branches",
+      "difficulty": "medium",
+      "question": "What is indicated when the Life Line itself curves toward the Moon Mount or sends a prominent branch there?",
+      "options": [
+        "Permanent foreign settlement or extensive worldwide travel",
+        "Severe digestive failure at age 20",
+        "Total renunciation of all worldly possessions",
+        "Career in maritime piracy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A Life Line reaching the Moon Mount or branching toward it indicates foreign settlement or extensive travel. Expansion starts at the age the branch departs.",
+      "practicalTakeaway": "Moon trajectory = Overseas settlement or extensive travel."
+    },
+    {
+      "id": "sym-life-qz-27",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Mount Trajectory & Branches",
+      "difficulty": "hard",
+      "question": "When a Life Line bifurcates with an outer branch reaching toward the Moon Mount and an inner line continuing down, how do you judge whether the native settles at home or abroad?",
+      "options": [
+        "By measuring line length in millimeters with a metal ruler",
+        "By checking which line is darker: if the inner line is darker, peace and settlement remain in the homeland; if the outer branch is darker, settlement is abroad",
+        "By flipping a coin",
+        "Whichever line has a mole determines the settlement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The darker line governs the major event. If the inner line is darker, the native roams the world but settles in the homeland. If the outer line is darker, expansion and settlement are abroad.",
+      "practicalTakeaway": "Darker branch determines final primary residence and settlement."
+    },
+    {
+      "id": "sym-life-qz-28",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Mount Trajectory & Branches",
+      "difficulty": "medium",
+      "question": "What does it indicate when the Life Line sweeps so wide that it reaches and covers the Sun Mount area (around age 30)?",
+      "options": [
+        "Sudden blindness",
+        "Global recognition, world travel, risk-taking ability, and high fame without needing a dedicated travel line",
+        "Bankruptcy in agriculture",
+        "Loss of ancestral property"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Covering the Sun area around age 30 signifies world travel, global fame, risk-taking, and widespread recognition without needing a separate travel line.",
+      "practicalTakeaway": "Sweeping to Sun area = Global renown, risk-taking, and expansion."
+    },
+    {
+      "id": "sym-life-qz-29",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Mount Trajectory & Branches",
+      "difficulty": "easy",
+      "question": "What mindset is reflected if the Life Line stops narrowly under the Saturn Mount region?",
+      "options": [
+        "The native travels exclusively for necessary work and resists leisure travel (\"Why go out?\")",
+        "The native becomes an international airline pilot",
+        "The native moves to four continents before age 25",
+        "The native refuses to ever work"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Stopping narrowly under Saturn indicates travel strictly for work routine, accompanied by narrow homebody thinking (\"What is there to do? Why go out?\").",
+      "practicalTakeaway": "Saturn stopping = Routine work travel, narrow insular mindset."
+    },
+    {
+      "id": "sym-life-qz-30",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Forks & Setbacks",
+      "difficulty": "medium",
+      "question": "What is the difference in interpretation between a small fork and a large fork at the end of the Life Line?",
+      "options": [
+        "Small fork means illness; large fork means death",
+        "Small fork indicates family trips and temporary travel; large fork indicates life splitting into two distinct directions/homes after age 50",
+        "Small fork only appears on left hands; large fork on right hands",
+        "There is no interpretive difference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A small fork shows family trips and temporary travel outside comfort zones. A larger fork shows life splitting into two parts (dual residences, work spread, following children after 50).",
+      "practicalTakeaway": "Small fork = family trips; Large fork = life splitting into two homes/paths."
+    },
+    {
+      "id": "sym-life-qz-31",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "Forks & Setbacks",
+      "difficulty": "easy",
+      "question": "True or False: If a fork at the end of the Life Line closes back together to form an enclosed loop, it is still interpreted as an auspicious travel fork.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! The lecture explicitly notes: if it closes like an island, it is considered an ISLAND. It is only a fork if it remains OPEN.",
+      "practicalTakeaway": "Open = Fork; Closed = Island."
+    },
+    {
+      "id": "sym-life-qz-32",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "multiple",
+      "subtopic": "Forks & Setbacks",
+      "difficulty": "hard",
+      "question": "What does a sudden inward turn or break in the Life Line signify? (Select all that apply)",
+      "options": [
+        "A sudden drastic setback in life (major shock)",
+        "Financial loss (dhana hāni)",
+        "Potential depression or loss of a dear one",
+        "Immediate promotion to government minister",
+        "Marriage to royalty"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "A sudden inward turn signifies a drastic setback, acute depression, financial loss (dhana hāni), or loss of a loved one.",
+      "practicalTakeaway": "Sudden inward turn = Drastic setback, financial loss, depression."
+    },
+    {
+      "id": "sym-life-qz-33",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Forks & Setbacks",
+      "difficulty": "medium",
+      "question": "How do you tell whether a client will recover and thrive after a major setback indicated on the Life Line?",
+      "options": [
+        "By reading the palm print upside down",
+        "By inspecting the line AFTER the setback: if the remaining line runs smooth and expands outward, life becomes better and better; if broken, struggle continues",
+        "By checking the length of the pinky finger",
+        "Recovery is impossible after any setback"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The line after the setback reveals recovery: if smooth and expanding outward, life improves and the crisis is overcome; if broken/ragged, struggle persists.",
+      "practicalTakeaway": "Post-crisis line trajectory determines recovery quality."
+    },
+    {
+      "id": "sym-life-qz-34",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Forks & Setbacks",
+      "difficulty": "medium",
+      "question": "What does a cluster of 3–4 fine lines at the very terminus of the Life Line (ages 60–70) indicate?",
+      "options": [
+        "Absolute meditative stillness and peaceful retirement",
+        "Low vitality with scattered energy, restlessness, and multitasking without peace in old age",
+        "Winning a lottery at age 70",
+        "Immortality"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A cluster at the end shows energy divided in all directions, multitasking, low vitality, and lack of peace in old age.",
+      "practicalTakeaway": "End cluster = Divided energy, multitasking, restless old age."
+    },
+    {
+      "id": "sym-life-qz-35",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Forks & Setbacks",
+      "difficulty": "medium",
+      "question": "What is the fundamental difference between branches emerging INWARD vs. OUTWARD from the Life Line?",
+      "options": [
+        "Inward branches indicate foreign travel; outward branches indicate spiritual fasting",
+        "Inward branches represent extra burden or financial responsibility chosen by own will; outward branches indicate expansion, travel, and pleasure",
+        "Inward branches only occur in women; outward branches only in men",
+        "Both represent identical financial windfalls"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inward branches (toward Venus) signify extra responsibilities/liabilities chosen willingly (house loan, caring for relatives). Outward branches signify expansion, travel, and pleasure.",
+      "practicalTakeaway": "Inward branch = Self-chosen burden/liability; Outward branch = Expansion/pleasure."
+    },
+    {
+      "id": "sym-life-qz-36",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Forks & Setbacks",
+      "difficulty": "medium",
+      "question": "What is an \"overlapping / preparatory line\" along the Life Line?",
+      "options": [
+        "A severe fracture in the palm",
+        "One line running parallel without a break, indicating that preparation for the next life phase began well before the previous phase ended",
+        "An enemy line cutting the health",
+        "A fake line drawn with pen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An overlapping line indicates seamless preparation — launching a new business or setting up a future home years in advance without disturbing current life.",
+      "practicalTakeaway": "Overlapping line = Pre-planned seamless transition."
+    },
+    {
+      "id": "sym-life-qz-37",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Forks & Setbacks",
+      "difficulty": "medium",
+      "question": "How does an INNER overlapping line differ from an OUTER overlapping line?",
+      "options": [
+        "Inner overlap means moving to the new era; outer overlap means death",
+        "Inner overlap represents returning to roots/traditional ways; outer overlap represents moving to a new era, modern cities, and expansive growth",
+        "Inner overlap only indicates marriage; outer overlap indicates divorce",
+        "There is no difference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inner overlap means going back to one's roots or traditional modes; outer overlap means transitioning into modern environments and new growth eras.",
+      "practicalTakeaway": "Inner overlap = Back to roots; Outer overlap = New era growth."
+    },
+    {
+      "id": "sym-life-qz-38",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Supportive vs Parasite Lines",
+      "difficulty": "medium",
+      "question": "How do you distinguish a Supportive Line from a Parasite Line running beside the Life Line?",
+      "options": [
+        "Supportive lines are red; parasite lines are green",
+        "A Supportive Line runs at a clear distance from the Life Line (guardian angel/supportive partner); a Parasite Line runs super close and fine like a termite eating your peace",
+        "Supportive lines only appear on the thumb; parasite lines on the wrist",
+        "They are identical"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A supportive line is visible at a distance from the Life Line (constant support through trouble). A parasite line runs very fine and tight against the Life Line, troubling the native like a termite.",
+      "practicalTakeaway": "At a distance = Supportive guardian; Clinging close = Termite-like parasite."
+    },
+    {
+      "id": "sym-life-qz-39",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "scenario",
+      "subtopic": "Supportive vs Parasite Lines",
+      "difficulty": "hard",
+      "question": "In the class review of Madhu ji’s hand, a strong line ran inside her Life Line at a clear distance. How did she confirm this reading?",
+      "options": [
+        "She stated she had lived in total isolation her entire life",
+        "She confirmed that despite numerous life obstacles, her husband, children, and parents had always provided unconditional, steadfast moral support",
+        "She said she had no family support",
+        "She said she had lost all property"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Madhu ji confirmed the supportive line reading: through all trials, her husband, children, and parents stood as unwavering pillars of support.",
+      "practicalTakeaway": "Supportive line at distance confirms dedicated lifelong family backing."
+    },
+    {
+      "id": "sym-life-qz-40",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "scenario",
+      "subtopic": "Case Studies",
+      "difficulty": "medium",
+      "question": "On Meenu Ma’am’s hand demonstration, what did the large island located on the Mercury line indicate?",
+      "options": [
+        "A massive lottery win in youth",
+        "A major health issue related to the Mercury system that had already transpired in her life",
+        "A sudden foreign relocation",
+        "Marriage to an astrologer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An island on the Mercury line represents a health issue related to that line's domain, which she confirmed had already occurred.",
+      "practicalTakeaway": "Mercury line island = acute health episode."
+    },
+    {
+      "id": "sym-life-qz-41",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "scenario",
+      "subtopic": "Case Studies",
+      "difficulty": "medium",
+      "question": "In Dravin ji’s hand reading, what did the teacher observe regarding multiple Fate Lines emerging directly from his Life Line?",
+      "options": [
+        "He would become completely unemployed",
+        "He would do many diverse kinds of self-initiated work and businesses ahead",
+        "He would only work for the government",
+        "He would lose all career interest"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple Fate Lines emerging from the Life Line indicate diversified self-made ventures: \"You will do many kinds of work ahead; don't worry.\"",
+      "practicalTakeaway": "Multiple Fate Lines from Life Line = Diverse self-directed enterprises."
+    },
+    {
+      "id": "sym-life-qz-42",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Case Studies",
+      "difficulty": "medium",
+      "question": "What does it indicate when the Brain/Head Line is joined with the Life Line at their origin point, as noted on Harishchandra ji’s hand?",
+      "options": [
+        "The native is rebellious and refuses all advice",
+        "The native follows the counsel of family members and will not easily dispute or refute elders' words",
+        "The native leaves home at age 5",
+        "The native has memory loss"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When the Brain Line and Life Line are joined at the start, the native respects family guidance and complies with family counsel.",
+      "practicalTakeaway": "Joined origin = Respectful adherence to family guidance."
+    },
+    {
+      "id": "sym-life-qz-43",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "General Rules for Signs",
+      "difficulty": "easy",
+      "question": "How many classes did the teacher estimate it would take to cover Signs & Symbols and the Lines together?",
+      "options": [
+        "1–2 classes",
+        "8–10 classes",
+        "100 classes",
+        "1 class"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lecture syllabus outlines that Signs & Symbols and Lines together will take 8–10 classes.",
+      "practicalTakeaway": "Syllabus scope."
+    },
+    {
+      "id": "sym-life-qz-44",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "Specific Signs",
+      "difficulty": "easy",
+      "question": "True or False: A black dot on a line indicates positive sudden wealth.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False. A black, blue, or red dot indicates ill health and negative affliction.",
+      "practicalTakeaway": "Dot is always negative."
+    },
+    {
+      "id": "sym-life-qz-45",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Specific Signs",
+      "difficulty": "medium",
+      "question": "What is the primary manifestation of a Star on the Mount of Mars in adolescence?",
+      "options": [
+        "Winning a scholarship",
+        "Turmoil in teenage love affairs or accidents",
+        "Building a palace",
+        "Early monastic vows"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A star on Lower Mars frequently indicates teenage love affair drama, accidents, and health issues.",
+      "practicalTakeaway": "Lower Mars star."
+    },
+    {
+      "id": "sym-life-qz-46",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "Specific Signs",
+      "difficulty": "easy",
+      "question": "True or False: A square on an island indicates that the person will remain trapped in trouble forever.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False. A square is a protective shield indicating a solution is found and the person escapes harm.",
+      "practicalTakeaway": "Square protects."
+    },
+    {
+      "id": "sym-life-qz-47",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Life Line Fundamentals",
+      "difficulty": "medium",
+      "question": "What does \"Deśa–Kāla–Paristhiti\" mean when judging palm signs and lines?",
+      "options": [
+        "Astrological software settings",
+        "Place, time, and circumstance — the contextual filter for all predictions",
+        "Three physical fingers",
+        "Sanskrit grammar rules"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deśa–Kāla–Paristhiti represents adapting ancient rules to place, time, and modern circumstances.",
+      "practicalTakeaway": "Contextual adaptation."
+    },
+    {
+      "id": "sym-life-qz-48",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Venus Space & Expansion",
+      "difficulty": "easy",
+      "question": "What does \"Dayālutā\" mean as a product of wide Venus space?",
+      "options": [
+        "Cruelty",
+        "Kindness, mercy, and benevolence",
+        "Fear of poverty",
+        "Restlessness"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dayālutā translates to kindness, empathy, and a merciful heart.",
+      "practicalTakeaway": "Wide Venus kindness."
+    },
+    {
+      "id": "sym-life-qz-49",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "Mount Trajectory & Branches",
+      "difficulty": "easy",
+      "question": "True or False: If a branch leaves the Life Line toward the Moon Mount, the age at which it departs marks when life expansion begins.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 0,
+      "explanation": "True. The age where the branch leaves marks the exact time expansion begins in life.",
+      "practicalTakeaway": "Branch departure age."
+    },
+    {
+      "id": "sym-life-qz-50",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Forks & Setbacks",
+      "difficulty": "medium",
+      "question": "What is \"Dhana Hāni\" associated with an inward turn of the Life Line?",
+      "options": [
+        "Sudden wealth gain",
+        "Financial loss or material depletion",
+        "Gold jewelry gift",
+        "Bank interest increase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dhana Hāni translates to financial loss.",
+      "practicalTakeaway": "Financial loss term."
+    },
+    {
+      "id": "sym-life-qz-51",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "true_false",
+      "subtopic": "Supportive vs Parasite Lines",
+      "difficulty": "easy",
+      "question": "True or False: A parasite line provides emotional comfort to the native during difficult times.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False. A parasite line troubles the person from close quarters like a termite eating their peace.",
+      "practicalTakeaway": "Parasite line drains peace."
+    },
+    {
+      "id": "sym-life-qz-52",
+      "sourceNoteId": "19 - Symbols & Life Line - Part 01.md",
+      "type": "single",
+      "subtopic": "Case Studies",
+      "difficulty": "medium",
+      "question": "What did the pink/red lines on Harishchandra ji’s hand cutting across from Lower Mars represent?",
+      "options": [
+        "Enemy lines (Rāhu / Mars cut lines causing trouble at those ages)",
+        "Love marriage lines",
+        "Wealth lines",
+        "Travel lines"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lines cutting from Lower Mars are classified as enemy lines causing disruption at those specific age points.",
+      "practicalTakeaway": "Enemy lines."
+    }
+  ]
+}

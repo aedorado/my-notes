@@ -1,0 +1,1063 @@
+{
+  "id": "13-ju-mount",
+  "slug": "13-ju-mount",
+  "title": "Jupiter Mount (Guru Parvat) — Palmistry Class Notes",
+  "summary": "Comprehensive active recall flashcard deck and multi-format practical quiz for Jupiter Mount: Apex principles, physical mount quality, Sāmānya/Ati-vikshit/Nimna conditions, 3 apex tilt directions, key symbols (Solomon Ring, Teacher Square, Cross), and real case studies.",
+  "questions": [
+    {
+      "id": "ju-mount-qz-1",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "multiple",
+      "subtopic": "Prediction Framework",
+      "difficulty": "medium",
+      "question": "According to the core framework established in Lecture 13, which three topics are inextricably interlinked for accurate palmistry predictions? (Select all that apply)",
+      "options": [
+        "Mounts (parvat)",
+        "Lines (rekhāen)",
+        "Signs and symbols (chinh)",
+        "Fingernail polish colors",
+        "Wrist bracelet chains alone"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "The classical prediction framework explicitly requires evaluating Mounts, Lines, and Signs/Symbols together because the outcome of any mount is heavily modified by the signs and intersecting lines located upon it.",
+      "practicalTakeaway": "Never read a mount in isolation without checking the lines crossing it and the symbols decorating it."
+    },
+    {
+      "id": "ju-mount-qz-2",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Apex Definition",
+      "difficulty": "easy",
+      "question": "In palmistry, what is the \"Apex\" (Kendra Bindu) of a mount?",
+      "options": [
+        "The highest physical elevation measured in millimeters",
+        "The central convergence point of microscopic skin ridges on the mount",
+        "The crease separating the mount from the finger",
+        "The darkest pigment spot found on the palm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Apex is defined as the central focal point where microscopic skin ridges (dhāriyāṅ) converge in a triradius pattern.",
+      "practicalTakeaway": "Find the convergence point before making assumptions about mount displacement."
+    },
+    {
+      "id": "ju-mount-qz-3",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Apex Definition",
+      "difficulty": "easy",
+      "question": "True or False: Finding an Apex exactly in the center of a mount is sufficient on its own to guarantee excellent planetary results for the native.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! Locating a centered Apex alone is NOT sufficient. The palmist must also check the physical elevation and tactile elasticity (whether the mount is raised, spongy, or pressed).",
+      "practicalTakeaway": "A centered apex on a sunken or spongy mount cannot deliver its full positive potential."
+    },
+    {
+      "id": "ju-mount-qz-4",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Astrological Analogy",
+      "difficulty": "medium",
+      "question": "Which astrological parallel did the instructor use to explain the importance of a centered mount Apex?",
+      "options": [
+        "A planet situated in the 12th house in enemy sign",
+        "A planet sitting in the Lagna (Ascendant) or strong in Ṣaḍbala",
+        "A planet placed in the 8th house during eclipse",
+        "A planet in planetary war (Graha Yuddha)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Just as a planet in the Lagna or commanding high Ṣaḍbala dominates the native’s chart and personality, a mount with an exactly centered Apex indicates that planet’s dominance (\"pradhān\") in their temperament.",
+      "practicalTakeaway": "Centered Apex = Dominant planetary presence in the person’s psychological wiring."
+    },
+    {
+      "id": "ju-mount-qz-5",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Mount Physical Quality",
+      "difficulty": "easy",
+      "question": "When palpating a mount with a finger, what is a \"spongy mount\"?",
+      "options": [
+        "A mount that is bone-dry and calloused",
+        "A mount that compresses upon pressure and returns noticeably slowly to its original shape",
+        "A mount that rebounds instantly like a firm spring",
+        "A mount with a hollow depression in the bone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A spongy mount compresses easily under finger pressure and takes noticeable time to return to its original shape, behaving like a wet sponge.",
+      "practicalTakeaway": "Spongy texture indicates deficient vital prana and ungrounded planetary energy."
+    },
+    {
+      "id": "ju-mount-qz-6",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Mount Physical Quality",
+      "difficulty": "easy",
+      "question": "True or False: A spongy mount is considered an auspicious indicator of flexibility and creative imagination.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! A spongy mount is distinctly UNFAVORABLE. The healthy normal condition must rebound immediately like a quality mattress.",
+      "practicalTakeaway": "Rebound delay is a distinct warning flag in palmistry."
+    },
+    {
+      "id": "ju-mount-qz-7",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "scenario",
+      "subtopic": "Mount Physical Quality",
+      "difficulty": "hard",
+      "question": "During a consultation, a client presents hands where pressing the Jupiter mount leaves a lingering indentation that takes 3–4 seconds to slowly re-inflate. How should the palmist interpret this tactile sign?",
+      "options": [
+        "Extremely fortunate sign indicating profound spiritual realization",
+        "Spongy mount condition — an unfavorable sign indicating that Jupiter’s results will not manifest smoothly or positively",
+        "Sign of excessive wealth accumulation (Lakshmi yoga)",
+        "Proof that the client possesses an authentic Ring of Solomon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "If a mount takes noticeable time to return to its shape after being pressed, it is classified as a spongy mount. The lecture explicitly notes: \"If a part of the hand takes noticeable time to return to shape... that is a distinctly poor sign — its results will not be good.\"",
+      "practicalTakeaway": "Physical tissue tone mirrors planetary vitality."
+    },
+    {
+      "id": "ju-mount-qz-8",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Mount Physical Quality",
+      "difficulty": "medium",
+      "question": "Which two mounts did the teacher highlight as frequently merging together, as seen on both her own hand and Dravin ji’s hand?",
+      "options": [
+        "Jupiter and Saturn mounts",
+        "Sun and Mercury mounts",
+        "Upper Mars and Moon mounts",
+        "Venus and Lower Mars mounts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sun and Mercury mounts frequently merge, where the Sun mount shifts from its normal place and blends into the Mercury region, making Mercury appear raised while Sun’s area appears sunken.",
+      "practicalTakeaway": "Observe merged mounts as hybrid planetary functional units."
+    },
+    {
+      "id": "ju-mount-qz-9",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Hand Reading Rules",
+      "difficulty": "easy",
+      "question": "When reading mounts and apexes, which hand takes primary precedence in standard analysis?",
+      "options": [
+        "Exclusively the inactive hand in all cases",
+        "Primarily the active hand, while checking the inactive hand for baseline influence",
+        "Only the left hand for men and right hand for women",
+        "Neither hand; only the dorsal back of the hand is evaluated"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The teacher clarified that primarily the active hand is read for manifestation in current life, while the inactive hand reflects latent tendencies.",
+      "practicalTakeaway": "Read active hand for lived reality; inactive for baseline wiring."
+    },
+    {
+      "id": "ju-mount-qz-10",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Apex Detection Methodology",
+      "difficulty": "medium",
+      "question": "What geometric pattern do fine epidermal ridges typically form at the center of an Apex?",
+      "options": [
+        "A series of concentric parallel squares",
+        "Typically three lines converging at a central focal point (triradius)",
+        "A solitary vertical line with no branches",
+        "A spiral galaxy of at least ten full rotations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under proper lighting or ink inspection, fine skin ridges typically show three directional lines converging together at a central apex point.",
+      "practicalTakeaway": "Look for the three-way convergence triradius."
+    },
+    {
+      "id": "ju-mount-qz-11",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Mount Elevation Parameters",
+      "difficulty": "easy",
+      "question": "What are the three classical elevation states for reading any mountain/mount in palmistry?",
+      "options": [
+        "Urdhva, Madhya, Adho",
+        "Ati-vikshit (Over-developed), Sāmānya (Normal), and Nimna/Avikasit (Under-developed)",
+        "Kendra, Trikona, Dusthana",
+        "Sattva, Rajas, Tamas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The mountain analogy framework uses Ati-vikshit (over-developed/tall), Sāmānya (normal/moderate), and Nimna/Avikasit (flat/sunken).",
+      "practicalTakeaway": "Categorize mount height into one of these three distinct tiers."
+    },
+    {
+      "id": "ju-mount-qz-12",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Mount Elevation Parameters",
+      "difficulty": "medium",
+      "question": "True or False: According to Vedic palmistry, the more puffed and massive a mount is, the better and more auspicious its results will always be.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! Just as in astrology where an excess of energy (e.g. 11th house excess + retrograde) becomes harmful, an over-developed (Ati-vikshit) mount manifests distorted, toxic, egoistic traits.",
+      "practicalTakeaway": "Excess (Ati) is just as pathological as deficiency (Nimna)."
+    },
+    {
+      "id": "ju-mount-qz-13",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "multiple",
+      "subtopic": "Sāmānya Condition",
+      "difficulty": "medium",
+      "question": "Which of the following behavioral traits characterize a person with a healthy Sāmānya (Normal) Jupiter mount? (Select all that apply)",
+      "options": [
+        "Possesses knowledge but has no arrogance (ghamand) about it",
+        "Listens patiently to others without interrupting",
+        "Insists on converting everyone to their exact religious ritual hour",
+        "Offers guidance without putting down or belittling the student",
+        "Demands an entourage of photographers to validate their status"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "A normal Jupiter native has knowledge without arrogance, possesses active listening patience (dhairya), and educates others without demeaning them. Religious fanaticism and entourage-craving belong to afflicted/over-developed states.",
+      "practicalTakeaway": "Humility + patience + generous pedagogical care = healthy Jupiter."
+    },
+    {
+      "id": "ju-mount-qz-14",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Sāmānya Condition",
+      "difficulty": "medium",
+      "question": "Which Tarot card corresponds to the teaching and counseling quality of a normal Jupiter mount?",
+      "options": [
+        "The Magician",
+        "The Hierophant",
+        "The Hermit",
+        "The Emperor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lecture explicitly notes that the pedagogical quality of normal Jupiter corresponds to The Hierophant card.",
+      "practicalTakeaway": "The Hierophant embodies the benevolent teacher of sacred law."
+    },
+    {
+      "id": "ju-mount-qz-15",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Sāmānya Condition",
+      "difficulty": "medium",
+      "question": "In numerology, which vibration maps to the balanced, normal Jupiter mount?",
+      "options": [
+        "A master number 11",
+        "A single 3 with a positive decimal",
+        "A negative triple 3",
+        "A double zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Normal Jupiter corresponds in numerology to a single 3 with a positive decimal, whereas Ati-vikshit corresponds to a negative triple 3.",
+      "practicalTakeaway": "Single positive 3 represents expansive, balanced Jovian harmony."
+    },
+    {
+      "id": "ju-mount-qz-16",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Sāmānya Condition",
+      "difficulty": "easy",
+      "question": "Which physiological organs and anatomical areas are governed by Jupiter according to the lecture notes?",
+      "options": [
+        "Bones, teeth, and joints",
+        "Stomach, ears, and liver",
+        "Lungs, nervous system, and skin",
+        "Kidneys, throat, and reproductive organs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lecture 13 explicitly specifies that Jupiter governs the stomach, ears, and liver.",
+      "practicalTakeaway": "Remember the anatomical triad: Stomach, Ears, Liver."
+    },
+    {
+      "id": "ju-mount-qz-17",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Sāmānya Condition",
+      "difficulty": "easy",
+      "question": "True or False: A person with a normal Jupiter mount will gladly learn from and respect someone younger if that younger person has valuable knowledge to share.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 0,
+      "explanation": "True! Respect for knowledge transcends age for a normal Jupiterian. If a junior offers authentic wisdom, they respect them wholeheartedly without ego.",
+      "practicalTakeaway": "Reverence is for truth, not demographic seniority."
+    },
+    {
+      "id": "ju-mount-qz-18",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Sāmānya Condition",
+      "difficulty": "medium",
+      "question": "Why does a normal-Jupiter person naturally gain respect and reputation (māan-pratishṭhā) in society?",
+      "options": [
+        "They spend large sums of money on marketing and public relations",
+        "Their discernment, patience, and non-disturbing presence naturally inspire people to give them respect voluntarily",
+        "They force subordinates to sign loyalty pledges",
+        "They aggressively sue critics for defamation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A normal-Jupiter person never asks for respect; people come and honor them voluntarily because their wisdom, contentment, and lack of ego radiate naturally.",
+      "practicalTakeaway": "Genuine authority attracts spontaneous reverence."
+    },
+    {
+      "id": "ju-mount-qz-19",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Ati-vikshit Condition",
+      "difficulty": "medium",
+      "question": "What is the astrological correspondence of an Ati-vikshit (over-developed) Jupiter mount?",
+      "options": [
+        "Exalted Jupiter in Cancer in the 1st house",
+        "Jupiter afflicted (pīḍit) and retrograde (vakrī)",
+        "Jupiter combust by the Sun in Aries",
+        "Jupiter in mutual aspect with Venus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The esoteric correspondence of an Ati-vikshit Jupiter mount is an afflicted (pīḍit) and retrograde (vakrī) Jupiter.",
+      "practicalTakeaway": "Over-developed elevation mirrors afflicted retrograde planet pathology."
+    },
+    {
+      "id": "ju-mount-qz-20",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Ati-vikshit Condition",
+      "difficulty": "easy",
+      "question": "How does an Ati-vikshit teacher react when a student asks a difficult question outside their field of expertise?",
+      "options": [
+        "Quietly admits \"I do not know this subject yet\"",
+        "Reacts with anger, blaming the questioner for bringing up irrelevant matters",
+        "Recommends a classical book and gives credit to the original author",
+        "Patiently meditates on the question for an hour"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An Ati-vikshit person lacks the humility to admit ignorance. They react with sudden anger and aggressively invalidate the question itself (\"why are you asking irrelevant questions?\").",
+      "practicalTakeaway": "Anger masks intellectual insecurity in over-developed mounts."
+    },
+    {
+      "id": "ju-mount-qz-21",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Ati-vikshit Condition",
+      "difficulty": "medium",
+      "question": "What term did the teacher use to describe the extreme \"Main hi hoon\" (I alone exist / only I am right) self-importance of an Ati-vikshit Jupiter?",
+      "options": [
+        "A Buddha-type state",
+        "A \"Hitler-type\" condition",
+        "A Chanakya-type state",
+        "A Vashistha-type condition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The teacher explicitly characterized this unchecked self-importance and demand for absolute intellectual subservience as a \"Hitler-type\" condition.",
+      "practicalTakeaway": "Watch for intellectual tyranny and authoritarian dogmatism."
+    },
+    {
+      "id": "ju-mount-qz-22",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Ati-vikshit Condition",
+      "difficulty": "easy",
+      "question": "Which medical pathology is specifically associated with an Ati-vikshit and afflicted Jupiter mount?",
+      "options": [
+        "Chronic dry cough and asthma",
+        "Liver enlargement (hepatomegaly)",
+        "Kidney stones and bladder infections",
+        "Osteoporosis and brittle bones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Because Jupiter governs the liver and the mount is both excessive and afflicted, the anatomical result is liver enlargement.",
+      "practicalTakeaway": "Excess + affliction in Jupiter manifests as hepatomegaly."
+    },
+    {
+      "id": "ju-mount-qz-23",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Ati-vikshit Condition",
+      "difficulty": "medium",
+      "question": "True or False: An Ati-vikshit Jupiter person practices equal, objective justice regardless of whether a dispute affects strangers or themselves.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! An Ati-vikshit person appears fair only when an issue does not touch them personally. The moment a dispute involves themselves, their stance flips to: \"I am right, and everyone else is wrong.\"",
+      "practicalTakeaway": "Self-serving, hypocritical righteousness characterizes over-developed Jupiter."
+    },
+    {
+      "id": "ju-mount-qz-24",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Nimna Condition",
+      "difficulty": "medium",
+      "question": "What is the astrological correspondence of a Nimna (flat / under-developed) Jupiter mount?",
+      "options": [
+        "Jupiter in pushya nakṣatra",
+        "Guru ast (combust Jupiter) — afflicted and deprived of brilliance",
+        "Jupiter conjunct Moon (Gajakesari Yoga)",
+        "Jupiter in the 9th house in Sagittarius"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lecture states that a nimna Jupiter mount corresponds astrologically to a \"Guru ast\" (combust Jupiter) condition — afflicted and robbed of power.",
+      "practicalTakeaway": "Combust Jupiter = intellectual expression suppressed."
+    },
+    {
+      "id": "ju-mount-qz-25",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "multiple",
+      "subtopic": "Nimna Condition",
+      "difficulty": "hard",
+      "question": "Which of the following behavioral patterns are associated with a Nimna (under-developed) Jupiter mount? (Select all that apply)",
+      "options": [
+        "Has knowledge but lacks the ability to articulate or express it to others",
+        "Apathy, boredom, and loss of desire to learn new things (\"nāstiktā\")",
+        "Deep, serene patience that listens to everyone without interrupting",
+        "Tendency to badmouth former employers and associates after leaving a situation",
+        "Subordinate follower personality (\"jaisa aap kahoge waisa karenge\")"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "explanation": "Nimna Jupiter manifests as suppressed articulation, intellectual apathy/nāstiktā, badmouthing former employers upon leaving, and a subservient follower mindset. Serene patience belongs to the normal condition.",
+      "practicalTakeaway": "Low confidence + apathy + post-departure resentment = under-developed Jupiter."
+    },
+    {
+      "id": "ju-mount-qz-26",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Nimna Condition",
+      "difficulty": "medium",
+      "question": "In the lecture, what extreme paradox was cited where a person with severely afflicted Jupiter and Mars-Rahu in the 2nd house began claiming divine status?",
+      "options": [
+        "A 50-year-old guru founding a global monastery",
+        "A 28–30-year-old young man who began declaring himself to be God",
+        "A scholar translating the Upanishads in seclusion",
+        "A royal astrologer advising prime ministers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The teacher cited a real astrological case of a ~28-30 year old man with Mars-Rāhu in the 2nd house and Jupiter in the 3rd house who began declaring himself to be God despite having zero authentic spiritual realization.",
+      "practicalTakeaway": "Severe affliction robs discernment, producing grotesque delusions of godhood."
+    },
+    {
+      "id": "ju-mount-qz-27",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Nimna Condition",
+      "difficulty": "medium",
+      "question": "True or False: If classical palmistry books describe a flat/afflicted Jupiter as \"charitraheen\" (lacking character), the palmist should immediately tell the client that they have no morals.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! The teacher expressly emphasized that such classical labels reflect a total loss of patience and loss of right/wrong sense, but must NEVER be applied automatically. The entire hand must be synthesized.",
+      "practicalTakeaway": "Never deliver fatalistic or insulting character judgments based on a single mount."
+    },
+    {
+      "id": "ju-mount-qz-28",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Guru vs Budha Knowledge",
+      "difficulty": "medium",
+      "question": "How does Jupiter’s (Guru) style of knowledge differ from Mercury’s (Budha) style of knowledge?",
+      "options": [
+        "Jupiter is vertical knowledge across many topics; Mercury is horizontal depth",
+        "Jupiter is \"horizontal\" deep mastery within one field; Mercury is \"vertical\" breadth across many diverse subjects",
+        "Jupiter only studies mathematics; Mercury only studies religion",
+        "There is no distinction between Jupiter and Mercury knowledge styles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lecture 13 defines Jupiter’s knowledge as \"horizontal\" — deep specialization achieved by diving endlessly into one field. Mercury’s knowledge is \"vertical\" — learning subject A, then B, then C across wide variety.",
+      "practicalTakeaway": "Jupiter = Specialist depth; Mercury = Polymath breadth."
+    },
+    {
+      "id": "ju-mount-qz-29",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Guru vs Budha Knowledge",
+      "difficulty": "medium",
+      "question": "In the lecture’s nakṣatra analogy, which nakṣatra represents genuine creation of knowledge, and which represents broadcasting it?",
+      "options": [
+        "Aśvinī creates, Bharaṇī broadcasts",
+        "Chitrā represents the creative act, while Svāti represents broadcasting like the wind",
+        "Rohiṇī creates, Mṛgaśīrṣā broadcasts",
+        "Mūla creates, Jyeṣṭhā broadcasts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The teacher explained that the true creative act occurs under Chitrā, whereas broadcasting/dissemination happens under Svāti (wind). The Ati-vikshit type learns a fraction and broadcasts it wildly like Svāti.",
+      "practicalTakeaway": "Depth of creation (Chitrā) vs outward broadcast (Svāti)."
+    },
+    {
+      "id": "ju-mount-qz-30",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Apex Shift Directions",
+      "difficulty": "medium",
+      "question": "When the Jupiter Apex shifts toward Saturn, how does the native’s knowledge and behavior transform?",
+      "options": [
+        "They become an aggressive, impulsive speaker who interrupts everyone",
+        "Knowledge gains seriousness (gambhīrtā), research-mindedness (\"khojī\"), technical aptitude, and deliberate slow speech",
+        "They abandon all interest in tradition and break societal rules constantly",
+        "They lose interest in work and become a street performer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When Jupiter moves toward Saturn (Karma), knowledge gains gravity, investigative inclination (\"khojī\"), technical/machinery understanding, deliberate slow delivery, and respect for societal rules.",
+      "practicalTakeaway": "Jupiter + Saturn = Serious researcher who respects traditional boundaries."
+    },
+    {
+      "id": "ju-mount-qz-31",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Apex Shift Directions",
+      "difficulty": "easy",
+      "question": "True or False: A person whose Jupiter Apex tilts toward Saturn is prone to breaking social rules and defying tradition.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! Because Saturn embodies boundaries, duty, and tradition, a Jupiter Apex shifted toward Saturn follows traditions and does NOT act against society’s norms.",
+      "practicalTakeaway": "Saturnian influence reinforces societal compliance and rule adherence."
+    },
+    {
+      "id": "ju-mount-qz-32",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "scenario",
+      "subtopic": "Apex Shift Directions",
+      "difficulty": "hard",
+      "question": "A corporate client presents with an Apex leaning noticeably toward the Thumb, accompanied by a thumb angle greater than 90 degrees, strong willpower phalanges, and a straight index finger. How does this client behave in leadership roles?",
+      "options": [
+        "Extremely timid follower who agrees with whatever rivals propose",
+        "Dominant, assertive, extroverted leader who speaks boldly and commands authority with high confidence",
+        "Passive listener who never shares an opinion until asked three times",
+        "Spiritual renunciate who avoids all worldly career ambition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An Apex shifted toward the Thumb fuses knowledge with the \"Self/I\". When amplified by a large thumb (>90°), strong willpower, and a straight Jupiter finger, it produces an assertive, dominant, talkative leader.",
+      "practicalTakeaway": "Thumb tilt + large thumb + straight index = Commanding leadership hand."
+    },
+    {
+      "id": "ju-mount-qz-33",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Apex Shift Directions",
+      "difficulty": "medium",
+      "question": "What personality trait manifests when the Jupiter Apex shifts toward the Thumb, contrasting sharply with the Saturn-ward shift?",
+      "options": [
+        "They speak very slowly and rarely express opinions",
+        "They are extroverted and talkative, sharing their thoughts unprompted before being asked",
+        "They develop an obsession with antique clock repair",
+        "They become mute when entering a boardroom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Unlike the Saturn tilt which produces slow, quiet speakers, the Thumb tilt makes a person talkative and extroverted, expressing views unprompted because knowledge is centered around \"I\".",
+      "practicalTakeaway": "Thumb = Self-assertion; Saturn = Deliberate restraint."
+    },
+    {
+      "id": "ju-mount-qz-34",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Apex Shift Directions",
+      "difficulty": "hard",
+      "question": "What intellectual and life capabilities emerge when the Jupiter Apex shifts downward toward the Mind Line?",
+      "options": [
+        "Total memory loss and lack of analytical ability",
+        "Practicality is added to knowledge — enabling original research, learning diverse subjects, and monetizing knowledge",
+        "The person becomes an ascetic wandering in mountain caves",
+        "The person loses the ability to manage money"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A shift toward the Mind Line marries philosophical knowledge with the analytical intellect, enabling research, broad learning, and practical monetization.",
+      "practicalTakeaway": "Mind Line shift turns theoretical wisdom into practical, lucrative intelligence."
+    },
+    {
+      "id": "ju-mount-qz-35",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "scenario",
+      "subtopic": "Apex Shift Directions",
+      "difficulty": "hard",
+      "question": "A 10-year-old child has a Jupiter Apex tilted down toward the Mind Line, and their Mind Line originates early from that exact same junction. What childhood characteristic does this predict?",
+      "options": [
+        "The child is gullible and easily misled by peers",
+        "From early childhood (~age 7–8), the child possesses sharp intellect, cannot easily be fooled, and applies logic even to religious beliefs",
+        "The child has delayed speech development",
+        "The child refuses to attend school"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lecture notes that this early origin with downward apex orientation indicates precocious intellect active since early childhood (~7–8 years old). Such individuals cannot easily be tricked.",
+      "practicalTakeaway": "Early origin + Jupiter-Mind junction = Precocious childhood skepticism and intellect."
+    },
+    {
+      "id": "ju-mount-qz-36",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Apex Shift Directions",
+      "difficulty": "medium",
+      "question": "What is the nuance when the Jupiter Apex touches the Heart Line?",
+      "options": [
+        "Practicality is introduced, but decisions are guided by listening to the heart with empathy",
+        "The person becomes heartless and ruthlessly calculating",
+        "The person suffers from physical heart disease before age 30",
+        "The person refuses to marry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "If the Apex touches the Heart Line, practicality enters the person’s wisdom, but because it connects to the Heart Line, they will ultimately listen to their heart and lead with compassion.",
+      "practicalTakeaway": "Heart Line touch = Wisdom balanced by heartfelt compassion."
+    },
+    {
+      "id": "ju-mount-qz-37",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "multiple",
+      "subtopic": "Symbols on Jupiter",
+      "difficulty": "medium",
+      "question": "Which criteria MUST be satisfied for a mark to qualify as a genuine Ring of Solomon? (Select all that apply)",
+      "options": [
+        "Originates in the space between the Jupiter and Saturn fingers",
+        "Flows in a semi-circular curve downward toward the thumb",
+        "Must be a straight horizontal crease across the mount",
+        "Must NOT be a straight line or curve toward Saturn",
+        "Must be a dark black mole"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "A true Ring of Solomon MUST be semi-circular, curving towards the thumb, originating between Jupiter and Saturn fingers. A straight line or a curve toward Saturn is NOT a Ring of Solomon.",
+      "practicalTakeaway": "Semi-circular curve toward thumb is the non-negotiable hallmark."
+    },
+    {
+      "id": "ju-mount-qz-38",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Symbols on Jupiter",
+      "difficulty": "easy",
+      "question": "Why is the \"Ring of Solomon\" named after King Solomon?",
+      "options": [
+        "He built the first gold temple in Jerusalem",
+        "He was legendary for understanding the language of birds and beasts — symbolizing an innate ability to \"listen to nature\"",
+        "He invented palmistry in ancient Egypt",
+        "He was known for commanding immense armies"
+      ],
+      "correctAnswer": 1,
+      "explanation": "King Solomon was fabled to understand animal speech. In palmistry, the ring signifies extraordinary intuition and the psychic ability to \"listen to nature\" (as in Praśna and Tarot).",
+      "practicalTakeaway": "Ring of Solomon = Intuitive attunement to nature’s secret language."
+    },
+    {
+      "id": "ju-mount-qz-39",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Symbols on Jupiter",
+      "difficulty": "medium",
+      "question": "What constitutes a genuine \"Teacher’s Square\" on the Jupiter mount?",
+      "options": [
+        "Any two crossing lines that accidentally intersect at 90 degrees",
+        "An independently formed, distinct four-sided geometric square",
+        "A square tattoo placed on the palm",
+        "A square fingernail on the index finger"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lecture emphasizes that ordinary crossing lines DO NOT count. A genuine Teacher’s Square must form as its own distinct, independent four-sided shape.",
+      "practicalTakeaway": "An accidental line intersection is not a symbolic square."
+    },
+    {
+      "id": "ju-mount-qz-40",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Symbols on Jupiter",
+      "difficulty": "medium",
+      "question": "What does a genuine Teacher’s Square indicate about a person’s life path?",
+      "options": [
+        "Great financial loss in property disputes",
+        "Natural talent as a teacher or counselor, with continuous lifelong learning and personal evolution",
+        "Strict confinement to a monastery",
+        "Inability to read or write"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Teacher’s Square indicates that the native will become an exceptional teacher or counselor and will continue learning and upgrading their wisdom throughout life.",
+      "practicalTakeaway": "Lifelong counseling excellence and intellectual protection."
+    },
+    {
+      "id": "ju-mount-qz-41",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Symbols on Jupiter",
+      "difficulty": "medium",
+      "question": "What is the classical rule regarding a Cross (✕) symbol on the palm, and how does the Jupiter mount relate to it?",
+      "options": [
+        "A Cross is auspicious on all mounts without exception",
+        "A Cross is generally inauspicious across the hand, BUT the Jupiter mount is the ONLY mount where an independent Cross is extraordinarily auspicious",
+        "A Cross is only good on the Moon mount for sea voyages",
+        "A Cross is never good on any mount under any circumstances"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Cross is considered an inauspicious mark almost everywhere on the palm, EXCEPT on the Jupiter mount, where it is uniquely celebrated as a harbinger of wisdom, fortune, and good marriage.",
+      "practicalTakeaway": "Jupiter is the sole auspicious sanctuary for a Cross mark."
+    },
+    {
+      "id": "ju-mount-qz-42",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "scenario",
+      "subtopic": "Symbols on Jupiter",
+      "difficulty": "hard",
+      "question": "A female client asks whether the cross on her Jupiter mount guarantees a blissful marriage. How should the palmist evaluate this classical indicator?",
+      "options": [
+        "Guarantee 100% marital perfection without inspecting any other part of the hand",
+        "Affirm that while the Cross on Jupiter is auspicious for married life, it MUST be cross-verified with the Mercury mount and marriage lines to see if relationship harmony is actively maintained",
+        "Inform her that a Cross on Jupiter predicts divorce",
+        "Advise her that crosses are only valid on male palms"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lecture explicitly cautions: on a female hand, a Cross on Jupiter indicates good married life, but MUST be cross-checked against Mercury, distinguishing an actively nurtured union from one merely coasting.",
+      "practicalTakeaway": "Never make marriage predictions without cross-referencing Mercury."
+    },
+    {
+      "id": "ju-mount-qz-43",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "scenario",
+      "subtopic": "Case Studies & Live Analysis",
+      "difficulty": "hard",
+      "question": "In the live demonstration of an online hand sample with a sunken (nimna) Jupiter mount but a centered apex, why did the instructor conclude the person would NOT become an unethical rule-breaker?",
+      "options": [
+        "Because the Life Line was exceptionally long",
+        "Because the Jupiter finger was tilted toward Saturn, instilling Saturnian discipline and respect for regulations despite the weak mount",
+        "Because the person was wearing a gold ring",
+        "Because the thumb was small and flexible"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Jupiter finger tilted toward Saturn! This compensating finger feature prevented the full negative rule-breaking expression of nimna Jupiter from manifesting.",
+      "practicalTakeaway": "Fingers can compensate for and discipline weak mounts."
+    },
+    {
+      "id": "ju-mount-qz-44",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "scenario",
+      "subtopic": "Case Studies & Live Analysis",
+      "difficulty": "medium",
+      "question": "On Arvind ji’s hand in class, an initial observation suspected a Ring of Solomon. Why did the instructor reject this interpretation upon closer look?",
+      "options": [
+        "The line was located on the Saturn mount instead of Jupiter",
+        "The line was straight rather than curving in a semi-circle toward the thumb",
+        "The line had three dots on it",
+        "Arvind ji was wearing black gloves"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The line was straight, not curved toward the thumb. A straight line does not qualify as a Ring of Solomon. (Instead, an auspicious Cross was confirmed on his mount).",
+      "practicalTakeaway": "A straight crease must never be misdiagnosed as a Ring of Solomon."
+    },
+    {
+      "id": "ju-mount-qz-45",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "scenario",
+      "subtopic": "Case Studies & Live Analysis",
+      "difficulty": "hard",
+      "question": "When examining Madhu ji’s palm photograph, what methodological challenge was highlighted regarding the line near the Jupiter apex?",
+      "options": [
+        "Low camera megapixels",
+        "Distinguishing a genuine palm crease from a skin fold created by the physical positioning of the hand during photography",
+        "The presence of henna on the palm",
+        "The presence of multiple moles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The teacher cautioned that hand positioning can fold the flesh and create temporary creases. A completely flattened, well-lit photograph is required to distinguish true lines from position folds.",
+      "practicalTakeaway": "Beware of photographic skin folds masquerading as major symbols."
+    },
+    {
+      "id": "ju-mount-qz-46",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Case Studies & Live Analysis",
+      "difficulty": "medium",
+      "question": "In the Q&A about Lord Paraśurām, why was his anger judged compatible with a normal, highly developed Jupiter mount?",
+      "options": [
+        "Because he was a warrior and warriors are exempt from palmistry rules",
+        "Because his anger had valid dharmic grounds, and unlike an Ati-vikshit guru, he gave full, complete knowledge to qualified disciples",
+        "Because his Jupiter mount was completely flat",
+        "Because his thumb was tied with sacred grass"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Righteous anger with valid foundation does not contradict normal Jupiter. The true discriminator is whether one gives knowledge fully (normal) versus withholding it and showing off (Ati-vikshit).",
+      "practicalTakeaway": "Dharmic righteous anger != Ati-vikshit defensive ego."
+    },
+    {
+      "id": "ju-mount-qz-47",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Case Studies & Live Analysis",
+      "difficulty": "easy",
+      "question": "True or False: If a person lacks the half-moon (ardhachandra) on their fingernails, it guarantees that they will suffer from a fatal illness.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! The teacher stressed that the absence of a half-moon is NOT an automatic disaster. It simply serves as a practical diagnostic prompt to check general health and blood work for nutritional deficiencies.",
+      "practicalTakeaway": "Use nail signs for health awareness, never fatalistic scare-mongering."
+    },
+    {
+      "id": "ju-mount-qz-48",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Apex Definition",
+      "difficulty": "medium",
+      "question": "What does \"Adhikta\" mean in the context of the Apex?",
+      "options": [
+        "Deficiency of life force",
+        "Excess or dominance of that planetary energy in the native’s nature",
+        "Physical injury to the knuckle",
+        "Spiritual enlightenment through fasting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adhikta translates to excess or predominance of that planetary influence in the person’s character.",
+      "practicalTakeaway": "Adhikta = Planetary predominance."
+    },
+    {
+      "id": "ju-mount-qz-49",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Prediction Framework",
+      "difficulty": "easy",
+      "question": "True or False: In classical prediction, a mount’s results can be accurately determined without inspecting the signs and symbols on it.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False. The result associated with any mount is heavily determined by the signs and symbols found on it.",
+      "practicalTakeaway": "Always check symbols before finalizing a mount’s verdict."
+    },
+    {
+      "id": "ju-mount-qz-50",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Sāmānya Condition",
+      "difficulty": "easy",
+      "question": "What does \"Santosh\" mean as a normal Jupiter trait?",
+      "options": [
+        "Constant restlessness",
+        "Contentment with whatever one legitimately possesses",
+        "Fear of future poverty",
+        "Greed for public honors"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Santosh is contentment and deep satisfaction in the normal condition.",
+      "practicalTakeaway": "Santosh shields the mind from disruptive greed."
+    },
+    {
+      "id": "ju-mount-qz-51",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Sāmānya Condition",
+      "difficulty": "medium",
+      "question": "What does \"Udār Hṛiday\" signify in palmistry?",
+      "options": [
+        "Enlarged heart muscle",
+        "A generous heart ready to help others unconditionally",
+        "A cold, unfeeling temperament",
+        "Frequent heart palpitations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Udār Hṛiday means a generous, magnanimous heart.",
+      "practicalTakeaway": "Generosity without expectation is the hallmark of Jupiter."
+    },
+    {
+      "id": "ju-mount-qz-52",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "multiple",
+      "subtopic": "Ati-vikshit Condition",
+      "difficulty": "medium",
+      "question": "Which of the following are physical or behavioral signs of Ati-vikshit Jupiter? (Select all that apply)",
+      "options": [
+        "Liver enlargement",
+        "Taking sweets home from feasts in containers",
+        "Refusing to admit ignorance when questioned",
+        "Soft-spoken, humble active listening"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Liver enlargement, food greed, and defensive anger when questioned are classical Ati-vikshit traits. Soft-spoken humble listening belongs to normal Jupiter.",
+      "practicalTakeaway": "Triad of Ati-vikshit: Liver enlargement, gluttony, and intellectual vanity."
+    },
+    {
+      "id": "ju-mount-qz-53",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Ati-vikshit Condition",
+      "difficulty": "easy",
+      "question": "What is \"Ugratā\" in an over-developed Jupiter native?",
+      "options": [
+        "Gentle serenity",
+        "Aggression and fierce intensity",
+        "Cowardice",
+        "Extreme physical fatigue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ugratā is aggression, intensity, and lack of calm disposition.",
+      "practicalTakeaway": "Ugratā replaces peace when Jupiter is excessively elevated and afflicted."
+    },
+    {
+      "id": "ju-mount-qz-54",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Nimna Condition",
+      "difficulty": "medium",
+      "question": "What does \"Nāstiktā\" mean in the context of nimna Jupiter?",
+      "options": [
+        "Devotion to Vishnu",
+        "Faithlessness or atheistic nihilism where one lacks even self-belief",
+        "A vow of silence",
+        "Ritual pilgrimage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nāstiktā denotes deep cynicism, lack of faith in divine order, and doubting even oneself.",
+      "practicalTakeaway": "Atheistic apathy is the spiritual signature of sunken Jupiter."
+    },
+    {
+      "id": "ju-mount-qz-55",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "scenario",
+      "subtopic": "Apex Shift Directions",
+      "difficulty": "hard",
+      "question": "A client working as an investigative researcher in robotics presents with an Apex leaning toward Saturn and long, knotted fingers. Does this hand fit their career?",
+      "options": [
+        "No, this hand indicates an impulsive stage actor",
+        "Yes, Jupiter shifting toward Saturn confers seriousness, research bent (\"khojī\"), and technical aptitude",
+        "No, they should quit and become a confectioner",
+        "This hand indicates they cannot understand machinery"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Saturn tilt brings seriousness, investigative research inclination (\"khojī\"), and aptitude for technical machinery.",
+      "practicalTakeaway": "Ideal hand for researchers, engineers, and technical investigators."
+    },
+    {
+      "id": "ju-mount-qz-56",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Apex Shift Directions",
+      "difficulty": "easy",
+      "question": "True or False: An Apex shifted toward the Thumb makes a person shy, withdrawn, and reluctant to voice opinions.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! It makes them talkative, extroverted, and eager to share opinions unprompted.",
+      "practicalTakeaway": "Thumb tilt projects ego outward in speech."
+    },
+    {
+      "id": "ju-mount-qz-57",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "scenario",
+      "subtopic": "Symbols on Jupiter",
+      "difficulty": "hard",
+      "question": "A palm shows two lines crossing each other at 90 degrees forming a clean X between heart line branches on Jupiter mount. Does this qualify as an auspicious Cross?",
+      "options": [
+        "Yes, every crossing on Jupiter is an auspicious Cross",
+        "No, ordinary line crossings in their natural paths do not qualify; an auspicious Cross must be an independently formed symbol",
+        "Yes, but only if seen under moonlight",
+        "No, crosses on Jupiter cause blindness"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two lines crossing in the normal course of their path do NOT count. An authentic Cross must be an independent, self-contained mark.",
+      "practicalTakeaway": "Demand an independent symbol, not accidental traffic crossings."
+    },
+    {
+      "id": "ju-mount-qz-58",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Symbols on Jupiter",
+      "difficulty": "medium",
+      "question": "Which form of astrology is uniquely resonated with by the Ring of Solomon?",
+      "options": [
+        "Nāḍī astrology",
+        "Praśna Śāstra (horary astrology) — listening to nature at the moment of inquiry",
+        "Western mundane astrology",
+        "Astro-meteorology for rainfall"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Praśna Śāstra and Tarot correspond directly to the Ring of Solomon’s ability to listen to environmental signs and nature.",
+      "practicalTakeaway": "Praśna Śāstra & Ring of Solomon both operate on listening to the cosmic moment."
+    },
+    {
+      "id": "ju-mount-qz-59",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Symbols on Jupiter",
+      "difficulty": "easy",
+      "question": "True or False: A straight crease between the Jupiter and Saturn fingers confers the psychic powers of the Ring of Solomon.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False. A straight line does NOT qualify. It must curve down toward the thumb in a semi-circle.",
+      "practicalTakeaway": "Straight line is disqualified from being a Solomon ring."
+    },
+    {
+      "id": "ju-mount-qz-60",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "scenario",
+      "subtopic": "Case Studies & Live Analysis",
+      "difficulty": "hard",
+      "question": "You examine Jeevesh ji’s hand print from class notes. The apex is centered and there is an independent cross towards the bottom-right of the apex. What is your reading?",
+      "options": [
+        "Afflicted intellect with chronic memory loss",
+        "Auspicious Jupiter-dominant nature with enhanced wisdom and positive Jovian fruits",
+        "Imminent bankruptcy",
+        "Loss of family status"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Centered apex gives dominant Jupiter influence, and the independent cross amplifies wisdom and auspicious fortune.",
+      "practicalTakeaway": "Centered apex + clean cross = Blessed Jovian mind."
+    },
+    {
+      "id": "ju-mount-qz-61",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "single",
+      "subtopic": "Mount Physical Quality",
+      "difficulty": "medium",
+      "question": "What does Dravin ji’s hand illustrate regarding mount merging?",
+      "options": [
+        "Merging of Saturn and Jupiter",
+        "Merging of Sun and Mercury mounts in the middle of the palm",
+        "Merging of Moon and Venus",
+        "Absence of all mounts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dravin ji’s hand, like the instructor’s, demonstrated Sun mount shifting and merging into Mercury.",
+      "practicalTakeaway": "Merged mounts combine planetary domains into a unified expression."
+    },
+    {
+      "id": "ju-mount-qz-62",
+      "sourceNoteId": "13 - JU Mount.md",
+      "type": "true_false",
+      "subtopic": "Sāmānya Condition",
+      "difficulty": "easy",
+      "question": "True or False: A normal Jupiter native uses fear tactics to convince clients to perform costly astrological remedies.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False! Normal Jupiter never uses fear-based tactics. That behavior indicates afflicted or mercenary motives.",
+      "practicalTakeaway": "Ethical guidance is free from fear-mongering."
+    }
+  ]
+}

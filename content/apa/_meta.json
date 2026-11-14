@@ -1,0 +1,12 @@
+{
+  "slug": "apa",
+  "title": "Applied Predictive Astrology (APA OL27)",
+  "description": "Comprehensive notes, core concepts, classical principles, and lecture transcripts from the online course.",
+  "icon": "✨",
+  "color": "#0d9488",
+  "language": "hi",
+  "category": "mundane",
+  "public": true,
+  "defaultSection": "notes"
+}
+

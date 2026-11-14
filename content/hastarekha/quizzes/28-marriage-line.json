@@ -1,0 +1,405 @@
+{
+  "id": "28-marriage-line",
+  "slug": "28-marriage-line",
+  "title": "Hasta Sāmudrika Śāstra – Vivāha Rekhā (Marriage Line) & Finger/Mount Nuances",
+  "summary": "Comprehensive mastery deck for Lecture 28 covering Vivāha Rekhā (Marriage Line / Śīla-guṇa Rekhā), line quality (faint, dark, parasite lines), age calculation (0–56 scale), structural formations (hooks, vertical cuts, downward Heart line cuts, small vs large islands, forks, Sun mount links), Heart Line linkages (Saturn arranged vs Jupiter love marriage), finger tilts as planetary yuti, the mount apex (triradius), knotty hands vs crooked fingers, and clinical case studies (Anuradha ji's Teacher's Square and Life Line islands).",
+  "questions": [
+    {
+      "id": "marriage-qz-1",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Anatomy of Marriage Line",
+      "difficulty": "easy",
+      "question": "Where is the Vivāha Rekhā (Marriage Line) situated, and in which direction does it travel?",
+      "options": [
+        "On the Mount of Venus, moving outward toward the thumb",
+        "On the Mount of Mercury, entering from the outer percussion edge inward",
+        "On the Mount of Saturn, descending into the Plain of Mars",
+        "On the Moon Mount, rising upward to the Heart Line"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Marriage Line (Vivāha Rekhā / Śīla-guṇa Rekhā) is located on the Mount of Mercury between the Heart Line and the base of the little finger, traveling from the outer edge inward.",
+      "practicalTakeaway": "The Marriage Line enters inward from the outer percussion edge on the Mercury mount."
+    },
+    {
+      "id": "marriage-qz-2",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "true_false",
+      "subtopic": "Consultation Ethics",
+      "difficulty": "easy",
+      "question": "According to classical palmistry consultation ethics taught in class, a palmist should openly diagnose and declare an extramarital affair if multiple lines are present.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False. The teacher strictly emphasizes: \"We never state an extramarital affair from the hand.\" Multiple lines represent emotional attachments, crushes, or past negotiations, and diagnosing an affair causes grave domestic harm.",
+      "practicalTakeaway": "Never announce an extramarital affair during a palmistry consultation."
+    },
+    {
+      "id": "marriage-qz-3",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Line Quality",
+      "difficulty": "medium",
+      "question": "What does a very dark, thick (gaḍhī) Marriage Line indicate about the native's married life?",
+      "options": [
+        "A blissful, romantic, and carefree domestic life",
+        "An orthodox, rigid, and controlling mindset, with heavy domestic pressure overshadowing marital joy",
+        "Multiple marriages occurring before age 25",
+        "Instant wealth acquired through foreign in-laws"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A very dark and heavy Marriage Line indicates rigid, old-fashioned, controlling attitudes and immense pressure on married life (often due to caring for an ill family member or dependent relatives).",
+      "practicalTakeaway": "A very dark marriage line indicates rigidity and domestic pressure, not romantic joy."
+    },
+    {
+      "id": "marriage-qz-4",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Line Quality",
+      "difficulty": "hard",
+      "question": "When a client displays a very dark Marriage Line, what complementary line should the palmist check alongside the Life Line?",
+      "options": [
+        "A Sun Line split",
+        "A Parasite Line (Upajīvī Rekhā) in the marriage age sector",
+        "A Ring of Saturn",
+        "A cross on the Mount of Ketu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The teacher advises checking for a Parasite Line running alongside the Life Line. This confirms that the strain on marriage is caused by an external dependent or sick family member living in the household.",
+      "practicalTakeaway": "Dark marriage line + parasite line on Life line = External family burden on marriage."
+    },
+    {
+      "id": "marriage-qz-5",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Age Measurement",
+      "difficulty": "medium",
+      "question": "On the Mercury Mount scale, what chronological ages are assigned to the Heart Line and the base joint of the Mercury finger?",
+      "options": [
+        "Heart Line = 20 years; Mercury base = 80 years",
+        "Heart Line = 0 years; Mercury base = 56 years",
+        "Heart Line = 18 years; Mercury base = 72 years",
+        "Heart Line = 10 years; Mercury base = 50 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The age scale runs from the Heart Line (age 0) up to the base joint line (sandhi rekhā) of the Mercury finger (age 56, previously taken as 50 in older texts).",
+      "practicalTakeaway": "Age scale on Mercury mount: Heart Line = 0, base joint = 56."
+    },
+    {
+      "id": "marriage-qz-6",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Forms & Formations",
+      "difficulty": "easy",
+      "question": "What is the clear diagnostic indication of a Marriage Line that turns sharply upward into a hook toward the little finger?",
+      "options": [
+        "No marriage / lifelong bachelorhood",
+        "Marriage to a high-ranking foreign diplomat",
+        "Birth of triplets",
+        "Sudden inheritance of royal property"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An upward hook on the Marriage Line indicates no marriage or lifelong bachelorhood, where the native rejects marital ties or faces insurmountable barriers to wedding.",
+      "practicalTakeaway": "An upward hook on the Marriage Line indicates no marriage."
+    },
+    {
+      "id": "marriage-qz-7",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Forms & Formations",
+      "difficulty": "medium",
+      "question": "What does a clean vertical line cutting directly across the Marriage Line signify?",
+      "options": [
+        "Immediate promotion in government service",
+        "A sudden, abrupt break in married life or the accidental death of the spouse",
+        "The birth of a gifted daughter",
+        "An arranged marriage turning into a love marriage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A vertical cut slicing the Marriage Line indicates an abrupt, catastrophic fracture in the marriage, potentially marking the sudden or accidental loss of the spouse (which must be verified on the Life Line).",
+      "practicalTakeaway": "A vertical line cutting the marriage line indicates a sudden break or loss of spouse."
+    },
+    {
+      "id": "marriage-qz-8",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Forms & Formations",
+      "difficulty": "medium",
+      "question": "Why does the teacher consider a small island on the Marriage Line more agonizing than a large island?",
+      "options": [
+        "Because small islands are permanent while large islands disappear",
+        "Because a small island disrupts an established period of genuine happiness, causing acute psychological shock",
+        "Because small islands only appear on the left hand",
+        "Because large islands always signify financial prosperity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A large island represents a chronic, low-grade compromise from day one. A small island shatters an established period of marital happiness, so the native feels the suffering far more intensely.",
+      "practicalTakeaway": "A small island causes acute disruption after established happiness."
+    },
+    {
+      "id": "marriage-qz-9",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Forms & Formations",
+      "difficulty": "medium",
+      "question": "How do the effects of a fork at the START of the Marriage Line differ from a fork at the END?",
+      "options": [
+        "Start = Loss of interest; End = Initial hesitation",
+        "Start = Initial distraction and hesitation; End = Loss of romantic interest and emotional estrangement",
+        "Start = Twins; End = Triplets",
+        "Start = Arranged marriage; End = Love marriage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A fork at the start represents initial hesitation, family resistance, or divided focus before wedding. A fork at the end represents drifting apart, loss of emotional bond, and living as strangers.",
+      "practicalTakeaway": "Fork at start = Initial hesitation; Fork at end = Emotional estrangement."
+    },
+    {
+      "id": "marriage-qz-10",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Forms & Formations",
+      "difficulty": "hard",
+      "question": "If a Marriage Line extends across the palm and cleanly enters the Mount of Sun WITHOUT cutting the Sun Line, what is the result?",
+      "options": [
+        "Severe criminal litigation against in-laws",
+        "Elevation in public prestige, wealth, and status through the spouse",
+        "Immediate bankruptcy of the native's father",
+        "Loss of eyesight"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A long Marriage Line reaching the Sun Mount without cutting the Sun Line signifies elevated status, fame, and wealth gained through a successful marital alliance.",
+      "practicalTakeaway": "Reaching the Sun mount cleanly indicates prosperity and prestige through marriage."
+    },
+    {
+      "id": "marriage-qz-11",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Forms & Formations",
+      "difficulty": "hard",
+      "question": "If an extended line from Mercury Mount cuts through the Sun Mount and slices across the Sun Line, what does it signify?",
+      "options": [
+        "High artistic awards from the state",
+        "Severe public scandal, loss of reputation, or legal/financial ruin caused by a woman",
+        "Establishment of an international charity",
+        "A long overseas spiritual pilgrimage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A line originating on Mercury and slicing across the Sun Line / Mount indicates acute public disgrace, loss of reputation, and legal or financial damage caused by a woman (spouse or female relative).",
+      "practicalTakeaway": "Cutting the Sun line from Mercury indicates public disgrace caused by a woman."
+    },
+    {
+      "id": "marriage-qz-12",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "multiple",
+      "subtopic": "Forms & Formations",
+      "difficulty": "medium",
+      "question": "Which of the following formations on or connected to the Marriage Line are considered inauspicious? (Select all that apply)",
+      "options": [
+        "Upward hook toward the Mercury finger",
+        "Sharp downward slope cutting through the Heart Line",
+        "A circle at the termination of the line",
+        "Gentle upward tilt with small upward branches",
+        "A clean triangle resting on the line"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "An upward hook (no marriage), cutting the Heart Line (heartbreak/grief), and a circle at the end (death of partner) are severely inauspicious. Gentle upward branches and triangles are auspicious.",
+      "practicalTakeaway": "Upward hooks, Heart Line cuts, and terminal circles are severely inauspicious."
+    },
+    {
+      "id": "marriage-qz-13",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Heart Line Link",
+      "difficulty": "medium",
+      "question": "What marital orientation is indicated when a client's Heart Line stops flat beneath the Mount of Saturn?",
+      "options": [
+        "Passionate, uncontrollable romantic idealism",
+        "A practical, unemotional mindset (\"loves with the mind, not the heart\"), strongly leaning toward an arranged marriage",
+        "A vow of permanent celibacy in a monastery",
+        "Multiple simultaneous secret love affairs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Heart Line terminating under Saturn indicates a practical, pragmatic attitude where emotion is tempered by duty and logic. It is the primary indicator of an arranged marriage.",
+      "practicalTakeaway": "Heart Line ending under Saturn = Pragmatic, arranged marriage orientation."
+    },
+    {
+      "id": "marriage-qz-14",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Heart Line Link",
+      "difficulty": "medium",
+      "question": "A Heart Line that sweeps upward onto the Mount of Jupiter indicates which marital tendency?",
+      "options": [
+        "A purely commercial marriage for business convenience",
+        "High emotional devotion and strong predisposition for a love marriage",
+        "Lifelong bachelorhood",
+        "Immediate divorce within six months"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Heart Line rising onto the Jupiter Mount indicates emotional idealism, loyalty, and deep romantic affection, significantly increasing the probability of a love marriage.",
+      "practicalTakeaway": "Heart Line rising onto Jupiter Mount indicates love marriage propensity."
+    },
+    {
+      "id": "marriage-qz-15",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "multiple",
+      "subtopic": "Heart Line Link",
+      "difficulty": "easy",
+      "question": "Which two hand types exhibit the strongest constitutional propensity for love marriages?",
+      "options": [
+        "Fiery Hands",
+        "Watery Hands",
+        "Earthy Hands",
+        "Airy Hands"
+      ],
+      "correctAnswer": [
+        0,
+        1
+      ],
+      "explanation": "Fiery hands (driven by passion and bold impulse) and Watery hands (driven by deep sentiment and emotional romance) have the highest constitutional tendency toward love marriages.",
+      "practicalTakeaway": "Fiery and Watery hands possess the highest tendency for love marriages."
+    },
+    {
+      "id": "marriage-qz-16",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Finger Tilts",
+      "difficulty": "medium",
+      "question": "What is the psychological effect when the Jupiter finger tilts toward the Saturn finger?",
+      "options": [
+        "The person becomes a reckless gambler",
+        "Research and depth enter knowledge; the person is deliberate, patient, and strictly abides by societal rules",
+        "The person forces their spiritual opinions aggressively on everyone",
+        "The person suffers immediate memory loss"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When Jupiter leans toward Saturn, Saturn's qualities (depth, patience, research, 8th house karakatva) temper Jupiter's wisdom. The person acquires knowledge steadily and never breaks rules.",
+      "practicalTakeaway": "Jupiter tilted to Saturn = Depth, patience, research, and adherence to rules."
+    },
+    {
+      "id": "marriage-qz-17",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Finger Tilts",
+      "difficulty": "medium",
+      "question": "What positive trait enters a native's personality when their Saturn finger tilts toward the Jupiter finger?",
+      "options": [
+        "Total greed for gold",
+        "Ethical wisdom enters karma; the native remains optimistic and resilient even during hardship (\"whatever happened was for the best\")",
+        "The native leaves employment to become a professional athlete",
+        "Immediate political election"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Saturn represents karma and hardship. When it tilts toward Jupiter, Jupiterian wisdom and optimism enter their actions. Even in heavy crises, they extract positive lessons without succumbing to bitterness.",
+      "practicalTakeaway": "Saturn tilting to Jupiter brings optimism and ethical wisdom to karma."
+    },
+    {
+      "id": "marriage-qz-18",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Finger Tilts",
+      "difficulty": "hard",
+      "question": "How does a Sun finger tilting toward the Saturn finger affect a career question versus a fame/reputation question?",
+      "options": [
+        "Disastrous for career; brings instant overnight fame",
+        "Very auspicious for career endurance; delays fame and introduces a mild defame risk (apayaśa)",
+        "Neutral for both career and fame",
+        "Guarantees inheritance of real estate but causes blindness"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For a karma/career inquiry, Sun leaning to Saturn is excellent, instilling persistent labor. For a fame inquiry, Saturn delays recognition and creates a risk of undeserved defame.",
+      "practicalTakeaway": "Sun tilted to Saturn = Great for work discipline; delays fame and creates defame risk."
+    },
+    {
+      "id": "marriage-qz-19",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Hand Types",
+      "difficulty": "easy",
+      "question": "How is a Knotty Hand (Gāṃṭhadār Hāth) identified anatomically?",
+      "options": [
+        "The palm has a deep depression in the center",
+        "The finger knuckle joints appear raised and swollen like knots from the back of the hand",
+        "All five fingers are crooked and bent sideways",
+        "The thumb is completely missing the second phalange"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Knotty Hand is diagnosed from the dorsal view by noticeably enlarged, bulbous knuckle joints (gāṃṭh). It indicates an analytical, philosophical, and research-oriented mind.",
+      "practicalTakeaway": "Knotty hand = Enlarged, raised knuckle joints seen from the back of the hand."
+    },
+    {
+      "id": "marriage-qz-20",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "true_false",
+      "subtopic": "Hand Types",
+      "difficulty": "easy",
+      "question": "A Knotty Hand is identical in meaning to a crooked (tēḍhī-mēḍhī) finger.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False. The teacher strictly warns not to confuse them. Knotty joints indicate philosophical contemplation; a crooked finger bends sideways and signifies deception or career turbulence.",
+      "practicalTakeaway": "Knotty joints indicate philosophy; crooked fingers indicate deception/instability."
+    },
+    {
+      "id": "marriage-qz-21",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "single",
+      "subtopic": "Reading Methodology",
+      "difficulty": "medium",
+      "question": "In the teacher's protocol for reading a client's basic nature, what element accounts for roughly 60% of the baseline temperament?",
+      "options": [
+        "The Marriage Line length",
+        "The Hand Type (Fiery, Earthy, Airy, Watery)",
+        "The number of vertical lines on the Mercury mount",
+        "The color of the fingernail moons"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The teacher explains that roughly 60% of a client's fundamental nature is established directly by their constitutional Hand Type (Fiery, Earthy, Airy, Watery).",
+      "practicalTakeaway": "Hand Type accounts for ~60% of the baseline nature prediction."
+    },
+    {
+      "id": "marriage-qz-22",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "scenario",
+      "subtopic": "Case Studies",
+      "difficulty": "medium",
+      "question": "In Case Study A (Anuradha ji's hand), she believed she had two diamonds on her Jupiter mount. How did the teacher correct this observation?",
+      "options": [
+        "Diagnosed them as black moles indicating scandal",
+        "Clarified that diamonds only form at the ends of lines, and her mark is a Teacher's Square confirming pedagogical talent",
+        "Diagnosed them as islands indicating severe liver disease",
+        "Stated that Jupiter mounts never carry geometric signs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The teacher explained that diamonds form at line terminals. On Jupiter, intersecting lines formed a clear Teacher's Square, confirming Anuradha ji's professional vocation as a teacher.",
+      "practicalTakeaway": "A square on Jupiter is the Teacher's Square, indicating pedagogical capability.",
+      "scenario": "Case Study A: Teacher Anuradha ji inspecting geometric marks on her Jupiter mount."
+    },
+    {
+      "id": "marriage-qz-23",
+      "sourceNoteId": "28 - Marriage Line.md",
+      "type": "scenario",
+      "subtopic": "Case Studies",
+      "difficulty": "hard",
+      "question": "In Case Study B, Anuradha ji possessed two distinct islands on her Life Line. What two life crises accurately matched these timing coordinates?",
+      "options": [
+        "Two divorces at ages 25 and 45",
+        "Childhood asthma that resolved at 14–15, and postpartum heart surgeries between ages 32 and 40",
+        "Loss of two family businesses due to fire",
+        "Two foreign deportations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The first island precisely timed severe childhood asthma until age 15. The second island timed a prolonged medical ordeal involving postpartum heart surgeries between ages 32 and 40.",
+      "practicalTakeaway": "Islands on Life Line matched childhood asthma (to 15) and heart surgeries (32-40).",
+      "scenario": "Case Study B: Life Line island verification on student Anuradha ji."
+    }
+  ]
+}
