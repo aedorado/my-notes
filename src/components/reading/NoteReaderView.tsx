@@ -4,6 +4,7 @@ import React, { useState, useEffect, useMemo, useRef } from 'react';
 import Link from 'next/link';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
 import NoteReadingTracker from '@/components/reading/NoteReadingTracker';
+import { useReadingProgress } from '@/context/ReadingProgressContext';
 import {
   extractNoteToc,
   useScrollspy,
@@ -21,6 +22,8 @@ import {
   Check,
   X,
   Type,
+  CheckCircle2,
+  Sparkles,
 } from 'lucide-react';
 
 interface NoteReaderViewProps {
@@ -48,6 +51,10 @@ export default function NoteReaderView({
   prev,
   next,
 }: NoteReaderViewProps) {
+  const { getItemProgress, toggleCompleted } = useReadingProgress();
+  const itemProgress = getItemProgress(courseSlug, 'notes', note.slug);
+  const isCompleted = Boolean(itemProgress?.isCompleted);
+
   // 1. Table of Contents & Scrollspy
   const toc = useMemo(() => extractNoteToc(note.content), [note.content]);
   const headingIds = useMemo(() => toc.map((t) => t.id), [toc]);
@@ -297,6 +304,110 @@ export default function NoteReaderView({
           <aside className="hidden xl:block w-72 shrink-0 sticky top-28 self-start">
             <NoteSidebarToc toc={toc} activeId={activeHeadingId} />
           </aside>
+        )}
+      </div>
+
+      {/* End of Note Completion Card */}
+      <div
+        className={`p-6 sm:p-8 rounded-3xl border transition-all ${
+          isCompleted
+            ? 'bg-gradient-to-br from-emerald-500/10 via-emerald-50/60 to-stone-50 border-emerald-300 shadow-xs'
+            : 'bg-gradient-to-br from-indigo-500/5 via-stone-50 to-stone-50 border-stone-200 shadow-xs'
+        }`}
+      >
+        {isCompleted ? (
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+            <div className="flex items-center gap-3.5">
+              <div className="w-12 h-12 rounded-2xl bg-emerald-100 text-emerald-700 flex items-center justify-center shrink-0 border border-emerald-200 shadow-2xs">
+                <CheckCircle2 className="w-6 h-6" />
+              </div>
+              <div>
+                <div className="text-xs uppercase font-extrabold tracking-wider text-emerald-800 flex items-center gap-1.5">
+                  <span>Lecture Note Completed</span>
+                  {itemProgress?.completedAt && (
+                    <span className="text-[11px] font-normal text-emerald-700 font-mono">
+                      • {new Date(itemProgress.completedAt).toLocaleDateString()}
+                    </span>
+                  )}
+                </div>
+                <p className="text-sm font-medium text-stone-700 mt-0.5">
+                  Great job! You finished reading this note. Course completion has been updated.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-2 shrink-0">
+              <button
+                type="button"
+                onClick={() =>
+                  toggleCompleted(
+                    {
+                      courseSlug,
+                      type: 'notes',
+                      slug: note.slug,
+                      title: note.title,
+                      url: `/${courseSlug}/notes/${encodeURIComponent(note.slug)}`,
+                      scrollPercent: 100,
+                    },
+                    false
+                  )
+                }
+                className="px-3.5 py-2 text-xs font-semibold text-stone-600 hover:text-stone-900 rounded-xl hover:bg-stone-100 border border-stone-200 bg-white transition"
+              >
+                Mark Incomplete
+              </button>
+
+              {next && (
+                <Link
+                  href={`/${courseSlug}/notes/${encodeURIComponent(next.slug)}`}
+                  className="inline-flex items-center gap-1.5 px-4 py-2 text-xs font-bold text-white bg-indigo-600 hover:bg-indigo-700 rounded-xl shadow-xs transition hover:translate-x-0.5"
+                >
+                  <span>Next Note</span>
+                  <ChevronRight className="w-4 h-4" />
+                </Link>
+              )}
+            </div>
+          </div>
+        ) : (
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+            <div className="flex items-center gap-3.5">
+              <div className="w-12 h-12 rounded-2xl bg-indigo-50 text-indigo-700 flex items-center justify-center shrink-0 border border-indigo-100 shadow-2xs">
+                <Sparkles className="w-6 h-6" />
+              </div>
+              <div>
+                <div className="text-xs uppercase font-extrabold tracking-wider text-indigo-700">
+                  Finished this note?
+                </div>
+                <p className="text-sm font-medium text-stone-700 mt-0.5">
+                  Mark it as done to update your progress for this course.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-2 shrink-0">
+              <button
+                type="button"
+                onClick={() =>
+                  toggleCompleted(
+                    {
+                      courseSlug,
+                      type: 'notes',
+                      slug: note.slug,
+                      title: note.title,
+                      url: `/${courseSlug}/notes/${encodeURIComponent(note.slug)}`,
+                      scrollPercent: 100,
+                    },
+                    true
+                  )
+                }
+                className="inline-flex items-center gap-2 px-5 py-2.5 text-xs sm:text-sm font-bold text-white bg-emerald-600 hover:bg-emerald-700 rounded-xl shadow-xs transition hover:scale-102"
+              >
+                <CheckCircle2 className="w-4 h-4" />
+                <span>Mark as Done</span>
+                {next && <span className="opacity-80">& Next Note →</span>}
+              </button>
+            </div>
+          </div>
         )}
       </div>
 

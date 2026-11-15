@@ -95,8 +95,11 @@ export default function CourseCard({ course }: CourseCardProps) {
         )}
       </div>
 
-      {/* Continue Reading Pill if user has progress in this course */}
-      <CourseResumePill courseSlug={course.slug} />
+      {/* Continue Reading & Progress Pill if user has progress in this course */}
+      <CourseResumePill
+        courseSlug={course.slug}
+        totalItems={(counts.notes || 0) + (counts.chapters || 0) + (counts.slides || 0)}
+      />
     </Link>
   );
 }

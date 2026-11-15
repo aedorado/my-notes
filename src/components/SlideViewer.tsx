@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useCallback, useRef } from 'react';
-import { ChevronLeft, ChevronRight, Maximize2, Minimize2, List, Sparkles, Bookmark, Check } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Maximize2, Minimize2, List, Sparkles, Bookmark, Check, CheckCircle2 } from 'lucide-react';
 import { SlideDeck } from '@/lib/types';
 import { useReadingProgress } from '@/context/ReadingProgressContext';
 import MarkdownRenderer from './MarkdownRenderer';
@@ -12,12 +12,15 @@ interface SlideViewerProps {
 }
 
 export default function SlideViewer({ deck, courseSlug }: SlideViewerProps) {
-  const { getBookmark, saveProgress, markCurrent } = useReadingProgress();
+  const { getBookmark, getItemProgress, saveProgress, markCurrent, toggleCompleted } = useReadingProgress();
   const [currentIdx, setCurrentIdx] = useState(0);
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [showThumbnails, setShowThumbnails] = useState(false);
   const [resumedBanner, setResumedBanner] = useState<string | null>(null);
   const hasInitializedRef = useRef(false);
+
+  const itemProgress = getItemProgress(courseSlug, 'slides', deck.slug);
+  const isCompleted = Boolean(itemProgress?.isCompleted);
 
   const slides = deck.slides;
   const currentSlide = slides[currentIdx] || slides[0];
@@ -51,6 +54,21 @@ export default function SlideViewer({ deck, courseSlug }: SlideViewerProps) {
       totalSlides: slides.length,
     });
   }, [currentIdx, courseSlug, deck.slug, deck.title, slides.length, saveProgress]);
+
+  const handleToggleDone = () => {
+    toggleCompleted({
+      courseSlug,
+      type: 'slides',
+      slug: deck.slug,
+      title: deck.title,
+      url: `/${courseSlug}/slides/${encodeURIComponent(deck.slug)}`,
+      scrollPercent: isCompleted ? Math.round(((currentIdx + 1) / Math.max(1, slides.length)) * 100) : 100,
+      slideIndex: currentIdx,
+      totalSlides: slides.length,
+    });
+    setResumedBanner(isCompleted ? 'Marked deck as in progress' : 'Marked deck as completed!');
+    setTimeout(() => setResumedBanner(null), 3000);
+  };
 
   const handleManualBookmark = () => {
     markCurrent({
@@ -108,6 +126,20 @@ export default function SlideViewer({ deck, courseSlug }: SlideViewerProps) {
         </div>
 
         <div className="flex items-center gap-2">
+          <button
+            type="button"
+            onClick={handleToggleDone}
+            className={`p-2 px-3 rounded-lg text-xs font-bold flex items-center gap-1.5 transition shadow-2xs ${
+              isCompleted
+                ? 'bg-emerald-600 text-white hover:bg-emerald-700'
+                : 'bg-white border border-stone-200 text-stone-700 hover:border-emerald-500 hover:text-emerald-700 hover:bg-emerald-50'
+            }`}
+            title={isCompleted ? 'Mark deck as incomplete' : 'Mark entire slide deck as completed'}
+          >
+            <CheckCircle2 className={`w-3.5 h-3.5 ${isCompleted ? 'text-white' : 'text-stone-400'}`} />
+            <span>{isCompleted ? 'Completed' : 'Mark Done'}</span>
+          </button>
+
           <button
             type="button"
             onClick={handleManualBookmark}

@@ -48,7 +48,9 @@ export default function ReaderView({
   const [compiledChapterIds, setCompiledChapterIds] = useState<string[]>([]);
   const [isCurrentMarked, setIsCurrentMarked] = useState(false);
 
-  const { getBookmark, saveProgress, markCurrent } = useReadingProgress();
+  const { getBookmark, getItemProgress, saveProgress, markCurrent, toggleCompleted } = useReadingProgress();
+  const itemProgress = getItemProgress(courseSlug, 'chapters', currentSlug);
+  const isCompleted = Boolean(itemProgress?.isCompleted);
   const scrollTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const [, startTransition] = useTransition();
@@ -83,8 +85,14 @@ export default function ReaderView({
           setIsLoading(false);
 
           // Check if returning to this chapter with saved reading position
-          const saved = getBookmark(courseSlug, 'chapters');
-          if (saved && saved.slug === currentSlug && saved.scrollY && saved.scrollY > 250) {
+          const saved = getItemProgress(courseSlug, 'chapters', currentSlug);
+          let explicitResume = false;
+          if (typeof window !== 'undefined') {
+            const params = new URLSearchParams(window.location.search);
+            explicitResume = params.get('resume') === '1' || params.get('resume') === 'true';
+          }
+
+          if (saved && saved.scrollY && saved.scrollY > 250 && explicitResume) {
             setIsCurrentMarked(Boolean(saved.isManual));
             setTimeout(() => {
               window.scrollTo({ top: saved.scrollY, behavior: 'smooth' });
@@ -97,8 +105,9 @@ export default function ReaderView({
               slug: currentSlug,
               title: data.meta?.title || currentSlug,
               url: `${basePath}/${currentSlug}`,
-              scrollPercent: 0,
+              scrollPercent: saved?.isCompleted ? 100 : 0,
               scrollY: 0,
+              isCompleted: saved?.isCompleted,
             });
           }
         }
@@ -181,6 +190,20 @@ export default function ReaderView({
       isManual: true,
     });
     setIsCurrentMarked(true);
+  };
+
+  const handleToggleDone = () => {
+    const winScroll = document.documentElement.scrollTop || document.body.scrollTop;
+    const title = chapterData?.meta?.title || currentSlug;
+    toggleCompleted({
+      courseSlug,
+      type: 'chapters',
+      slug: currentSlug,
+      title,
+      url: `${basePath}/${currentSlug}`,
+      scrollPercent: isCompleted ? Math.round(readProgress) : 100,
+      scrollY: Math.round(winScroll),
+    });
   };
 
   const handleSelectChapter = (slug: string) => {
@@ -281,6 +304,21 @@ export default function ReaderView({
         >
           <svg viewBox="0 0 24 24" width="18" height="18" fill={isCurrentMarked ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
             <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+          </svg>
+        </button>
+
+        {/* Done / Completed Toggle */}
+        <button
+          type="button"
+          className="ib"
+          onClick={handleToggleDone}
+          title={isCompleted ? 'Mark chapter as incomplete' : 'Mark chapter as completed'}
+          style={{ color: isCompleted ? '#059669' : undefined }}
+          aria-label="Toggle chapter completion"
+        >
+          <svg viewBox="0 0 24 24" width="18" height="18" fill={isCompleted ? '#d1fae5' : 'none'} stroke={isCompleted ? '#059669' : 'currentColor'} strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
+            <polyline points="22 4 12 14.01 9 11.01" />
           </svg>
         </button>
 
@@ -482,6 +520,77 @@ export default function ReaderView({
                   chapterTitle={chapterData.meta.title}
                   chapterCode={chapterData.meta.code || 'CH'}
                 />
+
+                {/* Chapter Completion Card */}
+                <div
+                  style={{
+                    margin: '36px 0',
+                    padding: '24px 28px',
+                    borderRadius: '20px',
+                    border: isCompleted ? '1.5px solid #a7f3d0' : '1.5px solid #e7e5e4',
+                    background: isCompleted ? '#f0fdf4' : '#fafaf9',
+                    display: 'flex',
+                    flexWrap: 'wrap',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    gap: '16px',
+                  }}
+                >
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '14px' }}>
+                    <div
+                      style={{
+                        width: '42px',
+                        height: '42px',
+                        borderRadius: '12px',
+                        background: isCompleted ? '#dcfce7' : '#f5f5f4',
+                        color: isCompleted ? '#059669' : '#78716c',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        fontSize: '20px',
+                      }}
+                    >
+                      {isCompleted ? '✓' : '📖'}
+                    </div>
+                    <div>
+                      <div
+                        style={{
+                          fontSize: '0.75rem',
+                          fontWeight: 700,
+                          textTransform: 'uppercase',
+                          letterSpacing: '0.05em',
+                          color: isCompleted ? '#065f46' : '#78716c',
+                        }}
+                      >
+                        {isCompleted ? 'Chapter Finished!' : 'Finished this chapter?'}
+                      </div>
+                      <div style={{ fontSize: '0.9rem', color: '#44403c', marginTop: '2px' }}>
+                        {isCompleted
+                          ? 'Great work! Your progress for this course has been updated.'
+                          : 'Mark it as done to count towards your course completion.'}
+                      </div>
+                    </div>
+                  </div>
+
+                  <button
+                    type="button"
+                    onClick={handleToggleDone}
+                    style={{
+                      padding: '10px 20px',
+                      borderRadius: '12px',
+                      fontSize: '0.85rem',
+                      fontWeight: 700,
+                      cursor: 'pointer',
+                      border: isCompleted ? '1px solid #d6d3d1' : 'none',
+                      background: isCompleted ? '#ffffff' : '#059669',
+                      color: isCompleted ? '#374151' : '#ffffff',
+                      boxShadow: '0 1px 2px rgba(0,0,0,0.06)',
+                      transition: 'all 0.15s ease',
+                    }}
+                  >
+                    {isCompleted ? 'Mark Incomplete' : '✓ Mark as Done'}
+                  </button>
+                </div>
 
                 {/* Previous / Next Chapter Cards */}
                 <nav className="pn">

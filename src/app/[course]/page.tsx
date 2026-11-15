@@ -12,6 +12,7 @@ import {
 } from '@/lib/content';
 import CourseSearchBar from '@/components/search/CourseSearchBar';
 import ContinueReadingBanner from '@/components/reading/ContinueReadingBanner';
+import CourseProgressSummary from '@/components/reading/CourseProgressSummary';
 import ReadingItemBadge from '@/components/reading/ReadingItemBadge';
 import {
   BookOpen,
@@ -94,6 +95,17 @@ export default async function CoursePage({
 
       {/* Course-Scoped Search Bar */}
       <CourseSearchBar courseSlug={courseSlug} courseTitle={course.title} />
+
+      {/* Overall Course Progress Summary */}
+      <CourseProgressSummary
+        courseSlug={courseSlug}
+        totalItems={chapters.length + notes.length + slides.length}
+        itemCounts={{
+          chapters: chapters.length,
+          notes: notes.length,
+          slides: slides.length,
+        }}
+      />
 
       {/* Tabs */}
       <div className="flex items-center gap-2 overflow-x-auto pb-1 border-b border-stone-200">

@@ -3,7 +3,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { useReadingProgress } from '@/context/ReadingProgressContext';
-import { formatRelativeTime } from '@/lib/readingProgress';
+import { formatRelativeTime, ReadingBookmark } from '@/lib/readingProgress';
 import { CourseMeta } from '@/lib/types';
 import {
   Bookmark,
@@ -21,7 +21,7 @@ interface ContinueStudyingWidgetProps {
 }
 
 export default function ContinueStudyingWidget({ courses }: ContinueStudyingWidgetProps) {
-  const { bookmarks, clearProgress } = useReadingProgress();
+  const { bookmarks, clearItem, clearProgress, getCourseStats } = useReadingProgress();
 
   const courseMap = React.useMemo(() => {
     const map = new Map<string, CourseMeta>();
@@ -32,11 +32,22 @@ export default function ContinueStudyingWidget({ courses }: ContinueStudyingWidg
   }, [courses]);
 
   const activeBookmarks = React.useMemo(() => {
-    const list = Object.values(bookmarks);
-    return list
-      .filter((b) => b && b.title && b.url)
-      .sort((a, b) => b.updatedAt - a.updatedAt)
-      .slice(0, 3);
+    const seen = new Set<string>();
+    const list: ReadingBookmark[] = [];
+
+    const sorted = Object.values(bookmarks)
+      .filter((b) => b && b.title && b.url && b.slug)
+      .sort((a, b) => b.updatedAt - a.updatedAt);
+
+    for (const b of sorted) {
+      const uniqueId = `${b.courseSlug.toLowerCase()}:${b.slug.toLowerCase()}`;
+      if (!seen.has(uniqueId)) {
+        seen.add(uniqueId);
+        list.push(b);
+      }
+      if (list.length >= 3) break;
+    }
+    return list;
   }, [bookmarks]);
 
   if (activeBookmarks.length === 0) {
@@ -74,11 +85,17 @@ export default function ContinueStudyingWidget({ courses }: ContinueStudyingWidg
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         {activeBookmarks.map((b) => {
           const course = courseMap.get(b.courseSlug.toLowerCase());
-          const percent = Math.min(100, Math.max(0, b.scrollPercent || 0));
+          const totalItemsInCourse =
+            (course?.counts?.notes || 0) +
+            (course?.counts?.chapters || 0) +
+            (course?.counts?.slides || 0);
+
+          const courseStats = getCourseStats(b.courseSlug, totalItemsInCourse);
+          const percent = b.isCompleted ? 100 : Math.min(100, Math.max(0, b.scrollPercent || 0));
 
           return (
             <div
-              key={`${b.courseSlug}:${b.type}`}
+              key={`${b.courseSlug}:${b.type}:${b.slug}`}
               className="group relative flex flex-col justify-between p-5 rounded-2xl bg-white border border-stone-200/90 hover:border-amber-400 shadow-xs hover:shadow-md transition-all duration-200"
             >
               {/* Top Row: Course pill + Clear button */}
@@ -93,7 +110,10 @@ export default function ContinueStudyingWidget({ courses }: ContinueStudyingWidg
 
                   <button
                     type="button"
-                    onClick={() => clearProgress(b.courseSlug, b.type)}
+                    onClick={() => {
+                      clearItem(b.courseSlug, b.type, b.slug);
+                      clearProgress(b.courseSlug, b.type);
+                    }}
                     className="p-1 rounded-lg text-stone-400 hover:text-stone-700 hover:bg-stone-100 transition"
                     title="Remove from recent activity"
                   >
@@ -101,7 +121,7 @@ export default function ContinueStudyingWidget({ courses }: ContinueStudyingWidg
                   </button>
                 </div>
 
-                {/* Title */}
+                {/* Type & Relative Time */}
                 <div className="flex items-center gap-1.5 text-[11px] font-semibold text-stone-500 uppercase tracking-wider mb-1">
                   {getTypeIcon(b.type)}
                   <span className="capitalize">{b.type === 'notes' ? 'Note' : b.type.slice(0, -1)}</span>
@@ -109,30 +129,51 @@ export default function ContinueStudyingWidget({ courses }: ContinueStudyingWidg
                   <span>{formatRelativeTime(b.updatedAt)}</span>
                 </div>
 
-                <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2 leading-snug mb-4">
+                <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2 leading-snug mb-3">
                   {b.title}
                 </h3>
+
+                {/* Course Overall Progress Indicator */}
+                {totalItemsInCourse > 0 && (
+                  <div className="mb-4 p-2 rounded-xl bg-stone-50 border border-stone-100 flex items-center justify-between text-[11px]">
+                    <span className="text-stone-600 font-medium">
+                      Course progress: <strong className="text-stone-800">{courseStats.completedCount}/{totalItemsInCourse} done</strong>
+                    </span>
+                    <span className="font-mono font-bold text-stone-700">
+                      {courseStats.percent}%
+                    </span>
+                  </div>
+                )}
               </div>
 
               {/* Bottom: Progress Capsule + Resume Button */}
               <div className="pt-3 border-t border-stone-100 flex items-center justify-between gap-3">
                 <div className="flex items-center gap-2 min-w-0">
-                  <div className="w-14 bg-stone-100 h-1.5 rounded-full overflow-hidden shrink-0">
-                    <div
-                      className="bg-amber-600 h-full rounded-full transition-all duration-200"
-                      style={{ width: `${percent}%` }}
-                    />
-                  </div>
-                  <span className="font-mono text-xs font-semibold text-stone-600">
-                    {percent}%
-                  </span>
+                  {b.isCompleted ? (
+                    <span className="inline-flex items-center gap-1 text-xs font-bold text-emerald-700">
+                      <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
+                      <span>Completed</span>
+                    </span>
+                  ) : (
+                    <>
+                      <div className="w-14 bg-stone-100 h-1.5 rounded-full overflow-hidden shrink-0">
+                        <div
+                          className="bg-amber-600 h-full rounded-full transition-all duration-200"
+                          style={{ width: `${percent}%` }}
+                        />
+                      </div>
+                      <span className="font-mono text-xs font-semibold text-stone-600">
+                        {percent}%
+                      </span>
+                    </>
+                  )}
                 </div>
 
                 <Link
-                  href={b.url}
+                  href={b.isCompleted ? b.url : (b.url.includes('?') ? `${b.url}&resume=1` : `${b.url}?resume=1`)}
                   className="inline-flex items-center gap-1 px-3 py-1.5 rounded-xl bg-amber-50 hover:bg-amber-100 text-amber-900 font-bold text-xs transition shadow-2xs group-hover:bg-amber-600 group-hover:text-white"
                 >
-                  <span>Resume</span>
+                  <span>{b.isCompleted ? 'Review' : 'Resume'}</span>
                   <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5" />
                 </Link>
               </div>
@@ -143,4 +184,3 @@ export default function ContinueStudyingWidget({ courses }: ContinueStudyingWidg
     </section>
   );
 }
-

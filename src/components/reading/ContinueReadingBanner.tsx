@@ -91,7 +91,7 @@ export default function ContinueReadingBanner({
         {/* Right: Action button */}
         <div className="flex items-center gap-2 shrink-0">
           <Link
-            href={primaryBookmark.url}
+            href={primaryBookmark.url.includes('?') ? `${primaryBookmark.url}&resume=1` : `${primaryBookmark.url}?resume=1`}
             className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-amber-700 hover:bg-amber-800 text-white font-bold text-xs sm:text-sm shadow-xs transition hover:translate-x-0.5"
           >
             <span>Resume Reading</span>

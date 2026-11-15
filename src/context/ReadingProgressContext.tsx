@@ -5,9 +5,15 @@ import {
   ReadingBookmark,
   ReadingContentType,
   ReadingProgressStore,
+  CourseProgressStats,
   loadAllBookmarks,
-  saveCourseTypeBookmark,
+  getItemProgress as getItemProgressUtil,
+  saveItemProgress,
+  toggleItemCompleted,
+  clearItemProgress,
   clearCourseTypeBookmark,
+  getCourseBookmarks as getCourseBookmarksUtil,
+  getCourseStats as getCourseStatsUtil,
   getBookmarkKey,
   PROGRESS_EVENT_NAME,
 } from '@/lib/readingProgress';
@@ -15,19 +21,40 @@ import {
 interface ReadingProgressContextType {
   bookmarks: ReadingProgressStore;
   getBookmark: (courseSlug: string, type: ReadingContentType) => ReadingBookmark | null;
+  getItemProgress: (courseSlug: string, type: ReadingContentType, slug: string) => ReadingBookmark | null;
+  isItemCompleted: (courseSlug: string, type: ReadingContentType, slug: string) => boolean;
   getCourseBookmarks: (courseSlug: string) => Record<string, ReadingBookmark>;
+  getCourseStats: (courseSlug: string, totalItemsCount?: number) => CourseProgressStats;
   saveProgress: (data: Omit<ReadingBookmark, 'updatedAt'>) => void;
   markCurrent: (data: Omit<ReadingBookmark, 'updatedAt'>) => void;
+  toggleCompleted: (data: Omit<ReadingBookmark, 'updatedAt'>, forceCompleted?: boolean) => ReadingBookmark;
   clearProgress: (courseSlug: string, type: ReadingContentType) => void;
+  clearItem: (courseSlug: string, type: ReadingContentType, slug: string) => void;
 }
+
+const defaultStats: CourseProgressStats = {
+  completedCount: 0,
+  inProgressCount: 0,
+  totalStarted: 0,
+  totalItems: 0,
+  percent: 0,
+  latestActive: null,
+  completedSlugs: [],
+  typeStats: {},
+};
 
 const ReadingProgressContext = createContext<ReadingProgressContextType>({
   bookmarks: {},
   getBookmark: () => null,
+  getItemProgress: () => null,
+  isItemCompleted: () => false,
   getCourseBookmarks: () => ({}),
+  getCourseStats: () => defaultStats,
   saveProgress: () => {},
   markCurrent: () => {},
+  toggleCompleted: (data) => ({ ...data, updatedAt: Date.now() }),
   clearProgress: () => {},
+  clearItem: () => {},
 });
 
 export function ReadingProgressProvider({ children }: { children: React.ReactNode }) {
@@ -80,33 +107,64 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
     []
   );
 
+  const getItemProgress = useCallback(
+    (courseSlug: string, type: ReadingContentType, slug: string): ReadingBookmark | null => {
+      return getItemProgressUtil(courseSlug, type, slug);
+    },
+    // We intentionally depend on bookmarks so components rerender when store changes
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [bookmarks]
+  );
+
+  const isItemCompleted = useCallback(
+    (courseSlug: string, type: ReadingContentType, slug: string): boolean => {
+      const item = getItemProgressUtil(courseSlug, type, slug);
+      return Boolean(item?.isCompleted);
+    },
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [bookmarks]
+  );
+
   const getCourseBookmarksFn = useCallback(
     (courseSlug: string): Record<string, ReadingBookmark> => {
-      const prefix = `${courseSlug.toLowerCase()}:`;
-      const res: Record<string, ReadingBookmark> = {};
-      for (const [k, v] of Object.entries(bookmarksRef.current)) {
-        if (k.startsWith(prefix)) {
-          res[v.type] = v;
-        }
-      }
-      return res;
+      return getCourseBookmarksUtil(courseSlug);
     },
-    []
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [bookmarks]
+  );
+
+  const getCourseStatsFn = useCallback(
+    (courseSlug: string, totalItemsCount?: number): CourseProgressStats => {
+      return getCourseStatsUtil(courseSlug, totalItemsCount);
+    },
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [bookmarks]
   );
 
   const saveProgress = useCallback((data: Omit<ReadingBookmark, 'updatedAt'>) => {
-    saveCourseTypeBookmark(data);
+    saveItemProgress(data);
   }, []);
 
   const markCurrent = useCallback((data: Omit<ReadingBookmark, 'updatedAt'>) => {
-    saveCourseTypeBookmark({
+    saveItemProgress({
       ...data,
       isManual: true,
     });
   }, []);
 
+  const toggleCompletedFn = useCallback(
+    (data: Omit<ReadingBookmark, 'updatedAt'>, forceCompleted?: boolean): ReadingBookmark => {
+      return toggleItemCompleted(data, forceCompleted);
+    },
+    []
+  );
+
   const clearProgress = useCallback((courseSlug: string, type: ReadingContentType) => {
     clearCourseTypeBookmark(courseSlug, type);
+  }, []);
+
+  const clearItem = useCallback((courseSlug: string, type: ReadingContentType, slug: string) => {
+    clearItemProgress(courseSlug, type, slug);
   }, []);
 
   return (
@@ -114,10 +172,15 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
       value={{
         bookmarks,
         getBookmark,
+        getItemProgress,
+        isItemCompleted,
         getCourseBookmarks: getCourseBookmarksFn,
+        getCourseStats: getCourseStatsFn,
         saveProgress,
         markCurrent,
+        toggleCompleted: toggleCompletedFn,
         clearProgress,
+        clearItem,
       }}
     >
       {children}
@@ -128,4 +191,3 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
 export function useReadingProgress() {
   return useContext(ReadingProgressContext);
 }
-
